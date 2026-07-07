@@ -1,0 +1,61 @@
+content_type,platform,avg_engagement_rate,total_impressions,total_likes,total_shares,post_count
+Behind the Scenes,App Push,0.0784,363953,22072,4229,11
+Behind the Scenes,Facebook,0.0808,419930,23876,5870,15
+Behind the Scenes,Instagram,0.0772,847592,47033,9090,32
+Behind the Scenes,TikTok,0.0822,896222,51409,12100,33
+Behind the Scenes,X (Twitter),0.0828,867862,54155,10625,35
+Behind the Scenes,YouTube,0.0803,512188,30141,6951,20
+Fan Poll,App Push,0.0787,313920,17669,3783,14
+Fan Poll,Facebook,0.0794,246069,14235,2625,14
+Fan Poll,Instagram,0.0796,615960,37162,6889,30
+Fan Poll,TikTok,0.0808,714298,43400,8969,41
+Fan Poll,X (Twitter),0.0839,547634,35520,6447,26
+Fan Poll,YouTube,0.0796,311375,18645,3937,14
+Highlight Reel,App Push,0.0809,629804,38631,7237,15
+Highlight Reel,Facebook,0.0787,597478,35963,6124,15
+Highlight Reel,Instagram,0.0827,1517890,92649,18671,36
+Highlight Reel,TikTok,0.0839,1450729,88509,20314,32
+Highlight Reel,X (Twitter),0.0826,1326436,79189,14380,28
+Highlight Reel,YouTube,0.0798,1387310,84852,16781,37
+Live Score Update,App Push,0.0801,639481,38484,8391,15
+Live Score Update,Facebook,0.0874,720434,44064,10503,20
+Live Score Update,Instagram,0.0842,1426345,89877,16247,41
+Live Score Update,TikTok,0.0821,1282128,78964,15407,34
+Live Score Update,X (Twitter),0.0812,916103,56495,12122,25
+Live Score Update,YouTube,0.0816,805186,48636,10123,23
+Match Preview,App Push,0.0848,383477,24905,4917,16
+Match Preview,Facebook,0.0858,609866,39366,7553,26
+Match Preview,Instagram,0.0806,636676,36028,8768,26
+Match Preview,TikTok,0.0856,792652,51363,9848,33
+Match Preview,X (Twitter),0.0793,642891,38041,7702,26
+Match Preview,YouTube,0.0819,774832,46420,9602,31
+Meme/GIF,App Push,0.0796,463492,26795,6052,10
+Meme/GIF,Facebook,0.0778,799940,47116,8619,20
+Meme/GIF,Instagram,0.0822,1452681,87007,18796,36
+Meme/GIF,TikTok,0.0819,1233852,74522,15605,29
+Meme/GIF,X (Twitter),0.0776,1359771,73849,16812,30
+Meme/GIF,YouTube,0.0814,1194244,74827,14304,25
+Player Interview,App Push,0.0842,465837,29139,5934,15
+Player Interview,Facebook,0.0816,610506,37066,7619,20
+Player Interview,Instagram,0.0819,1220735,73748,13223,39
+Player Interview,TikTok,0.0819,843056,51989,10999,29
+Player Interview,X (Twitter),0.078,751088,43360,8628,22
+Player Interview,YouTube,0.0769,605989,33031,6331,23
+Stadium Tour,App Push,0.0833,246579,14868,3251,11
+Stadium Tour,Facebook,0.0811,351454,20633,4858,18
+Stadium Tour,Instagram,0.0798,778646,46975,9255,46
+Stadium Tour,TikTok,0.0826,571997,34101,7262,32
+Stadium Tour,X (Twitter),0.0845,341159,20537,3979,20
+Stadium Tour,YouTube,0.0819,308376,18047,4306,17
+Tactical Analysis,App Push,0.0827,123657,7675,1279,10
+Tactical Analysis,Facebook,0.0808,185182,10964,2471,14
+Tactical Analysis,Instagram,0.0786,488771,28551,6120,36
+Tactical Analysis,TikTok,0.0825,382707,23128,4753,24
+Tactical Analysis,X (Twitter),0.082,327928,19513,4283,23
+Tactical Analysis,YouTube,0.0746,313689,17301,3502,26
+Ticket Promo,App Push,0.0809,70716,4322,817,8
+Ticket Promo,Facebook,0.0806,127737,7333,1552,14
+Ticket Promo,Instagram,0.0802,396215,23861,4724,38
+Ticket Promo,TikTok,0.0806,415990,23774,5001,41
+Ticket Promo,X (Twitter),0.0833,431183,26599,5864,34
+Ticket Promo,YouTube,0.0788,317168,17715,3695,26

@@ -1,0 +1,6001 @@
+fan_id,segment,offer_response_probability
+F03004,Super Fans,0.896
+F04119,Super Fans,0.889
+F00732,Super Fans,0.885
+F00855,High Engagers,0.875
+F03749,High Engagers,0.867
+F00253,Super Fans,0.866
+F02607,High Engagers,0.866
+F00371,High Engagers,0.863
+F00817,Super Fans,0.861
+F01938,High Engagers,0.859
+F05947,High Engagers,0.858
+F03007,Super Fans,0.857
+F05686,Super Fans,0.857
+F01860,Super Fans,0.856
+F04534,High Engagers,0.855
+F05808,High Engagers,0.855
+F01448,High Engagers,0.853
+F02399,Super Fans,0.853
+F02082,Super Fans,0.853
+F02259,High Engagers,0.853
+F04638,High Engagers,0.852
+F03010,Super Fans,0.851
+F01425,High Engagers,0.85
+F02103,Super Fans,0.848
+F05644,High Engagers,0.848
+F00028,Super Fans,0.848
+F02631,Super Fans,0.848
+F04106,High Engagers,0.845
+F04700,High Engagers,0.845
+F00604,High Engagers,0.844
+F02326,Super Fans,0.844
+F04135,High Engagers,0.844
+F03568,Super Fans,0.843
+F04058,High Engagers,0.842
+F03831,Super Fans,0.841
+F00932,High Engagers,0.841
+F04854,Super Fans,0.841
+F00249,High Engagers,0.84
+F05705,High Engagers,0.839
+F05519,High Engagers,0.838
+F00223,High Engagers,0.838
+F02018,High Engagers,0.837
+F04291,High Engagers,0.837
+F04937,High Engagers,0.835
+F04444,High Engagers,0.834
+F04708,High Engagers,0.834
+F02102,Super Fans,0.834
+F02004,High Engagers,0.834
+F04518,Super Fans,0.833
+F02943,Super Fans,0.833
+F04823,Super Fans,0.832
+F01283,Super Fans,0.832
+F02110,High Engagers,0.832
+F00869,High Engagers,0.831
+F03606,Super Fans,0.831
+F05038,High Engagers,0.831
+F04530,High Engagers,0.831
+F04038,High Engagers,0.83
+F05531,High Engagers,0.83
+F01259,High Engagers,0.83
+F03093,High Engagers,0.83
+F04208,High Engagers,0.83
+F01923,High Engagers,0.83
+F03691,High Engagers,0.83
+F05569,Super Fans,0.83
+F03181,Super Fans,0.829
+F00506,High Engagers,0.829
+F05345,High Engagers,0.829
+F02963,Super Fans,0.828
+F04009,Super Fans,0.828
+F05904,Super Fans,0.828
+F04248,High Engagers,0.827
+F04080,High Engagers,0.827
+F04553,High Engagers,0.827
+F02415,High Engagers,0.827
+F05186,Super Fans,0.827
+F02212,High Engagers,0.826
+F00660,High Engagers,0.826
+F00930,High Engagers,0.826
+F00887,Super Fans,0.826
+F00418,High Engagers,0.825
+F02735,High Engagers,0.825
+F03968,High Engagers,0.825
+F05564,Super Fans,0.825
+F01561,High Engagers,0.825
+F04775,Super Fans,0.825
+F01976,Super Fans,0.824
+F03380,Super Fans,0.824
+F05591,High Engagers,0.824
+F05950,High Engagers,0.824
+F04226,Super Fans,0.824
+F04592,High Engagers,0.823
+F02520,High Engagers,0.823
+F00421,Super Fans,0.823
+F04068,High Engagers,0.822
+F01777,Super Fans,0.822
+F03333,High Engagers,0.822
+F03989,Super Fans,0.822
+F03600,Super Fans,0.821
+F03849,Super Fans,0.821
+F02455,High Engagers,0.821
+F02070,High Engagers,0.82
+F04396,Super Fans,0.82
+F00470,High Engagers,0.82
+F04616,High Engagers,0.819
+F05908,High Engagers,0.819
+F03060,Super Fans,0.819
+F00820,High Engagers,0.819
+F01410,Super Fans,0.819
+F05833,Super Fans,0.818
+F02514,Super Fans,0.818
+F01196,High Engagers,0.818
+F02730,Super Fans,0.818
+F03482,High Engagers,0.818
+F02060,High Engagers,0.818
+F03553,High Engagers,0.818
+F04743,High Engagers,0.818
+F03712,High Engagers,0.817
+F05869,Super Fans,0.817
+F05264,High Engagers,0.817
+F02164,High Engagers,0.817
+F05068,High Engagers,0.817
+F01498,Super Fans,0.817
+F03183,Super Fans,0.817
+F05824,Super Fans,0.817
+F01409,High Engagers,0.816
+F04691,High Engagers,0.816
+F04735,High Engagers,0.816
+F04405,High Engagers,0.816
+F00494,High Engagers,0.816
+F03502,Super Fans,0.816
+F01629,Super Fans,0.816
+F00623,High Engagers,0.816
+F02128,High Engagers,0.816
+F04741,High Engagers,0.816
+F01620,Super Fans,0.815
+F05696,Super Fans,0.815
+F04892,High Engagers,0.815
+F03845,High Engagers,0.814
+F05720,Super Fans,0.814
+F03970,High Engagers,0.814
+F03591,Super Fans,0.814
+F05317,High Engagers,0.814
+F00795,Super Fans,0.814
+F00010,High Engagers,0.814
+F04026,High Engagers,0.814
+F05020,High Engagers,0.813
+F04186,High Engagers,0.813
+F01271,High Engagers,0.813
+F04125,High Engagers,0.813
+F00873,High Engagers,0.813
+F04644,High Engagers,0.813
+F05994,High Engagers,0.813
+F00538,Super Fans,0.813
+F04736,High Engagers,0.813
+F00484,Super Fans,0.813
+F05000,High Engagers,0.813
+F04562,High Engagers,0.813
+F00329,High Engagers,0.812
+F01431,High Engagers,0.812
+F05961,High Engagers,0.812
+F05543,High Engagers,0.812
+F05341,Super Fans,0.812
+F00799,High Engagers,0.811
+F02783,Super Fans,0.811
+F04057,High Engagers,0.811
+F02073,High Engagers,0.81
+F02571,High Engagers,0.81
+F01242,High Engagers,0.81
+F00675,High Engagers,0.81
+F05316,High Engagers,0.81
+F01824,High Engagers,0.81
+F00816,Super Fans,0.81
+F01566,High Engagers,0.81
+F03002,High Engagers,0.81
+F01176,High Engagers,0.81
+F05403,Super Fans,0.81
+F01192,High Engagers,0.81
+F02140,High Engagers,0.809
+F00684,Super Fans,0.809
+F05562,High Engagers,0.809
+F04323,High Engagers,0.809
+F02531,High Engagers,0.809
+F04123,High Engagers,0.809
+F03236,High Engagers,0.809
+F05664,High Engagers,0.809
+F02921,High Engagers,0.809
+F03786,High Engagers,0.809
+F00082,High Engagers,0.808
+F05930,High Engagers,0.808
+F01070,High Engagers,0.808
+F02484,High Engagers,0.808
+F00394,High Engagers,0.808
+F03743,High Engagers,0.808
+F01933,Super Fans,0.808
+F04047,High Engagers,0.808
+F00645,Super Fans,0.807
+F00698,High Engagers,0.807
+F03424,High Engagers,0.807
+F04434,High Engagers,0.807
+F03404,High Engagers,0.807
+F01737,High Engagers,0.807
+F03693,High Engagers,0.807
+F04051,High Engagers,0.807
+F05570,High Engagers,0.806
+F03603,High Engagers,0.806
+F02832,High Engagers,0.806
+F02332,High Engagers,0.806
+F04264,High Engagers,0.806
+F02540,Super Fans,0.806
+F05816,High Engagers,0.805
+F00452,Super Fans,0.805
+F02479,High Engagers,0.805
+F00179,Super Fans,0.805
+F00186,High Engagers,0.805
+F02273,High Engagers,0.805
+F01530,High Engagers,0.805
+F04623,High Engagers,0.805
+F02772,High Engagers,0.804
+F02938,High Engagers,0.804
+F04599,High Engagers,0.804
+F00201,Super Fans,0.804
+F05832,Super Fans,0.804
+F02325,Super Fans,0.804
+F03288,High Engagers,0.804
+F02299,High Engagers,0.804
+F01533,High Engagers,0.803
+F04416,Super Fans,0.803
+F02264,High Engagers,0.803
+F00378,High Engagers,0.803
+F00641,Super Fans,0.803
+F00152,High Engagers,0.803
+F03496,High Engagers,0.803
+F01249,High Engagers,0.803
+F02293,High Engagers,0.803
+F00537,Super Fans,0.803
+F02078,High Engagers,0.802
+F05179,High Engagers,0.802
+F03016,Super Fans,0.802
+F03422,High Engagers,0.802
+F05655,Super Fans,0.802
+F05399,High Engagers,0.802
+F03774,High Engagers,0.802
+F04341,Super Fans,0.802
+F03229,High Engagers,0.802
+F00612,High Engagers,0.802
+F00187,High Engagers,0.802
+F04105,High Engagers,0.801
+F01565,High Engagers,0.801
+F03435,Super Fans,0.801
+F00725,High Engagers,0.801
+F04313,High Engagers,0.801
+F05933,High Engagers,0.8
+F03669,High Engagers,0.8
+F05672,High Engagers,0.8
+F03940,Super Fans,0.8
+F04215,Super Fans,0.8
+F01022,High Engagers,0.8
+F03308,High Engagers,0.8
+F03067,High Engagers,0.8
+F02443,High Engagers,0.8
+F05215,High Engagers,0.8
+F01797,High Engagers,0.8
+F02345,High Engagers,0.8
+F03132,High Engagers,0.8
+F02713,High Engagers,0.799
+F04779,High Engagers,0.799
+F01816,High Engagers,0.799
+F05822,High Engagers,0.799
+F05778,High Engagers,0.799
+F02056,Super Fans,0.799
+F02319,Super Fans,0.799
+F01468,High Engagers,0.799
+F01056,High Engagers,0.799
+F04011,Super Fans,0.799
+F02310,High Engagers,0.799
+F02309,High Engagers,0.799
+F03649,High Engagers,0.799
+F05972,High Engagers,0.799
+F01872,High Engagers,0.799
+F04079,High Engagers,0.799
+F00909,High Engagers,0.799
+F01848,High Engagers,0.799
+F01479,High Engagers,0.799
+F00995,High Engagers,0.799
+F00794,High Engagers,0.798
+F03405,High Engagers,0.798
+F01680,High Engagers,0.798
+F05121,High Engagers,0.798
+F04484,High Engagers,0.798
+F04886,High Engagers,0.797
+F04472,Super Fans,0.797
+F04192,High Engagers,0.797
+F04187,High Engagers,0.797
+F00908,High Engagers,0.797
+F02250,High Engagers,0.797
+F03829,High Engagers,0.797
+F05400,High Engagers,0.797
+F03297,High Engagers,0.796
+F03011,High Engagers,0.796
+F01322,High Engagers,0.796
+F00271,High Engagers,0.796
+F03664,High Engagers,0.796
+F00188,High Engagers,0.796
+F00313,High Engagers,0.796
+F01951,Super Fans,0.795
+F04167,High Engagers,0.795
+F05742,High Engagers,0.795
+F02237,Super Fans,0.795
+F04865,Super Fans,0.795
+F02358,High Engagers,0.794
+F05945,High Engagers,0.794
+F03129,Super Fans,0.794
+F05906,High Engagers,0.794
+F05597,High Engagers,0.794
+F00120,Super Fans,0.794
+F01989,Super Fans,0.793
+F04476,High Engagers,0.793
+F01109,High Engagers,0.793
+F01038,High Engagers,0.793
+F05148,High Engagers,0.793
+F00029,High Engagers,0.793
+F05700,High Engagers,0.793
+F03250,High Engagers,0.793
+F05776,High Engagers,0.793
+F04796,High Engagers,0.793
+F02263,High Engagers,0.793
+F04961,High Engagers,0.793
+F00309,High Engagers,0.792
+F05935,High Engagers,0.792
+F05257,High Engagers,0.792
+F02777,Super Fans,0.792
+F05452,High Engagers,0.792
+F00316,High Engagers,0.792
+F03990,High Engagers,0.792
+F05893,High Engagers,0.792
+F01667,Super Fans,0.792
+F05163,High Engagers,0.792
+F01971,High Engagers,0.791
+F00994,High Engagers,0.791
+F03391,High Engagers,0.791
+F01157,High Engagers,0.791
+F00508,Super Fans,0.791
+F03810,High Engagers,0.791
+F05601,Super Fans,0.791
+F05401,Super Fans,0.791
+F05985,High Engagers,0.791
+F02610,High Engagers,0.791
+F04115,High Engagers,0.791
+F04219,High Engagers,0.79
+F03168,High Engagers,0.79
+F01464,High Engagers,0.79
+F01900,High Engagers,0.79
+F01306,High Engagers,0.79
+F05594,High Engagers,0.79
+F00935,Super Fans,0.79
+F04201,High Engagers,0.79
+F05265,Super Fans,0.79
+F01708,High Engagers,0.789
+F02223,High Engagers,0.789
+F01437,High Engagers,0.789
+F05352,Super Fans,0.789
+F03274,High Engagers,0.789
+F03491,High Engagers,0.789
+F00961,High Engagers,0.789
+F03120,High Engagers,0.788
+F00214,Super Fans,0.788
+F02123,High Engagers,0.788
+F05177,High Engagers,0.788
+F01484,High Engagers,0.788
+F04088,High Engagers,0.788
+F01546,Super Fans,0.788
+F02369,High Engagers,0.788
+F00751,High Engagers,0.788
+F05343,High Engagers,0.788
+F01778,High Engagers,0.787
+F05585,High Engagers,0.787
+F02083,High Engagers,0.787
+F05442,High Engagers,0.787
+F01373,High Engagers,0.787
+F05755,High Engagers,0.787
+F01342,High Engagers,0.787
+F03443,High Engagers,0.787
+F02803,High Engagers,0.787
+F05890,High Engagers,0.787
+F00695,High Engagers,0.786
+F05141,High Engagers,0.786
+F00852,High Engagers,0.786
+F05220,High Engagers,0.786
+F00351,Super Fans,0.786
+F00294,High Engagers,0.786
+F03476,High Engagers,0.786
+F02701,High Engagers,0.786
+F00703,High Engagers,0.785
+F00712,Super Fans,0.785
+F01200,High Engagers,0.785
+F05226,High Engagers,0.785
+F00560,High Engagers,0.785
+F00175,High Engagers,0.785
+F00133,High Engagers,0.785
+F02705,High Engagers,0.785
+F01896,Super Fans,0.784
+F04713,High Engagers,0.784
+F05877,High Engagers,0.784
+F00745,High Engagers,0.784
+F03737,Super Fans,0.784
+F04364,High Engagers,0.784
+F05001,High Engagers,0.784
+F01152,High Engagers,0.783
+F05611,High Engagers,0.783
+F00571,High Engagers,0.783
+F01129,High Engagers,0.783
+F01803,High Engagers,0.783
+F00883,High Engagers,0.782
+F02113,High Engagers,0.782
+F02420,High Engagers,0.782
+F02145,High Engagers,0.782
+F00680,High Engagers,0.782
+F02810,High Engagers,0.782
+F01878,High Engagers,0.782
+F02517,High Engagers,0.782
+F02952,High Engagers,0.782
+F04017,High Engagers,0.782
+F00823,Super Fans,0.782
+F00705,High Engagers,0.781
+F04856,High Engagers,0.781
+F03615,High Engagers,0.781
+F00145,High Engagers,0.78
+F03455,Super Fans,0.78
+F04837,High Engagers,0.78
+F04288,Super Fans,0.78
+F03510,High Engagers,0.78
+F00396,Super Fans,0.78
+F01865,High Engagers,0.78
+F00874,High Engagers,0.78
+F04887,Super Fans,0.78
+F04070,High Engagers,0.78
+F00998,High Engagers,0.78
+F01381,High Engagers,0.78
+F02499,High Engagers,0.78
+F03905,High Engagers,0.78
+F02997,High Engagers,0.779
+F05673,High Engagers,0.779
+F02906,High Engagers,0.779
+F05938,High Engagers,0.779
+F00668,High Engagers,0.779
+F05683,High Engagers,0.779
+F00330,High Engagers,0.779
+F02525,High Engagers,0.779
+F01122,High Engagers,0.778
+F02893,High Engagers,0.778
+F04325,High Engagers,0.778
+F05941,High Engagers,0.778
+F02447,Super Fans,0.778
+F05676,High Engagers,0.778
+F05446,High Engagers,0.778
+F02966,High Engagers,0.778
+F01419,High Engagers,0.777
+F01715,High Engagers,0.777
+F02396,High Engagers,0.776
+F03499,High Engagers,0.776
+F05976,High Engagers,0.776
+F00466,High Engagers,0.776
+F04991,High Engagers,0.776
+F04140,High Engagers,0.776
+F05042,High Engagers,0.776
+F00207,High Engagers,0.776
+F02071,High Engagers,0.775
+F01672,High Engagers,0.775
+F01059,High Engagers,0.775
+F03715,High Engagers,0.775
+F04883,High Engagers,0.775
+F04390,High Engagers,0.775
+F00328,High Engagers,0.775
+F00899,High Engagers,0.775
+F03985,High Engagers,0.775
+F02121,Super Fans,0.774
+F00406,Super Fans,0.774
+F00303,High Engagers,0.774
+F03273,High Engagers,0.774
+F04312,Super Fans,0.774
+F00086,High Engagers,0.774
+F00425,High Engagers,0.774
+F03375,High Engagers,0.774
+F02807,High Engagers,0.774
+F02844,High Engagers,0.774
+F04669,High Engagers,0.773
+F00407,High Engagers,0.773
+F03585,High Engagers,0.773
+F00423,High Engagers,0.773
+F00646,High Engagers,0.773
+F04830,High Engagers,0.773
+F03441,High Engagers,0.773
+F05553,Super Fans,0.773
+F00217,High Engagers,0.773
+F02737,High Engagers,0.773
+F02418,High Engagers,0.772
+F05995,High Engagers,0.772
+F02302,High Engagers,0.772
+F02818,High Engagers,0.772
+F00273,High Engagers,0.772
+F01997,High Engagers,0.772
+F01766,High Engagers,0.772
+F01636,Super Fans,0.772
+F05039,High Engagers,0.772
+F02437,High Engagers,0.772
+F04571,Super Fans,0.771
+F01832,High Engagers,0.771
+F02471,High Engagers,0.771
+F04988,High Engagers,0.771
+F05427,High Engagers,0.771
+F02086,High Engagers,0.77
+F00694,Super Fans,0.77
+F02912,High Engagers,0.77
+F01543,High Engagers,0.77
+F05005,High Engagers,0.77
+F00938,High Engagers,0.77
+F00018,High Engagers,0.77
+F02928,High Engagers,0.769
+F04314,High Engagers,0.769
+F05653,High Engagers,0.769
+F05831,High Engagers,0.769
+F01932,High Engagers,0.769
+F01815,High Engagers,0.769
+F01685,High Engagers,0.768
+F05898,High Engagers,0.768
+F00862,High Engagers,0.768
+F01557,High Engagers,0.768
+F02916,High Engagers,0.768
+F03039,High Engagers,0.768
+F02680,High Engagers,0.768
+F05757,High Engagers,0.768
+F04146,High Engagers,0.768
+F05365,High Engagers,0.767
+F04652,High Engagers,0.767
+F02858,High Engagers,0.767
+F05497,High Engagers,0.767
+F01975,High Engagers,0.767
+F00707,High Engagers,0.767
+F05429,High Engagers,0.767
+F00951,High Engagers,0.767
+F03628,High Engagers,0.766
+F02386,Super Fans,0.766
+F03097,High Engagers,0.766
+F04846,High Engagers,0.766
+F05667,High Engagers,0.766
+F05460,High Engagers,0.766
+F01903,High Engagers,0.766
+F03318,Super Fans,0.766
+F05680,High Engagers,0.766
+F02316,Super Fans,0.766
+F00654,Super Fans,0.766
+F05641,Super Fans,0.765
+F03526,High Engagers,0.765
+F02441,Super Fans,0.765
+F03545,Super Fans,0.764
+F02890,Super Fans,0.764
+F03735,High Engagers,0.764
+F05292,High Engagers,0.763
+F03870,High Engagers,0.763
+F05176,High Engagers,0.763
+F05535,High Engagers,0.763
+F02313,High Engagers,0.763
+F05964,High Engagers,0.763
+F00743,High Engagers,0.762
+F05294,High Engagers,0.762
+F02886,High Engagers,0.762
+F02194,Super Fans,0.762
+F00092,High Engagers,0.761
+F05791,High Engagers,0.761
+F03398,High Engagers,0.761
+F03833,High Engagers,0.761
+F05690,High Engagers,0.761
+F04709,High Engagers,0.76
+F01598,High Engagers,0.76
+F04404,High Engagers,0.76
+F03557,High Engagers,0.76
+F05480,High Engagers,0.76
+F01401,High Engagers,0.76
+F01888,High Engagers,0.759
+F04096,High Engagers,0.759
+F02059,High Engagers,0.759
+F01487,High Engagers,0.759
+F00885,High Engagers,0.759
+F02620,High Engagers,0.759
+F00087,High Engagers,0.759
+F03046,High Engagers,0.759
+F00114,High Engagers,0.758
+F00163,High Engagers,0.758
+F04542,High Engagers,0.758
+F03674,High Engagers,0.758
+F05044,High Engagers,0.758
+F02100,High Engagers,0.757
+F02681,High Engagers,0.757
+F03262,High Engagers,0.757
+F05736,High Engagers,0.757
+F00559,High Engagers,0.757
+F03648,High Engagers,0.757
+F03054,High Engagers,0.757
+F05891,High Engagers,0.757
+F03666,High Engagers,0.757
+F04566,High Engagers,0.757
+F04939,High Engagers,0.756
+F04002,High Engagers,0.756
+F03470,High Engagers,0.756
+F03556,High Engagers,0.756
+F05233,High Engagers,0.755
+F03238,High Engagers,0.755
+F04282,High Engagers,0.755
+F03126,Super Fans,0.755
+F04587,High Engagers,0.755
+F04565,Super Fans,0.755
+F00631,High Engagers,0.754
+F04845,High Engagers,0.754
+F05867,High Engagers,0.753
+F00661,High Engagers,0.753
+F04859,High Engagers,0.753
+F03223,High Engagers,0.753
+F00269,High Engagers,0.752
+F04951,High Engagers,0.752
+F02375,High Engagers,0.752
+F03529,High Engagers,0.752
+F05722,Super Fans,0.752
+F01179,Super Fans,0.751
+F02104,High Engagers,0.751
+F04459,High Engagers,0.751
+F00643,High Engagers,0.751
+F04183,High Engagers,0.751
+F04754,Super Fans,0.751
+F00507,Super Fans,0.751
+F04972,Super Fans,0.751
+F04320,High Engagers,0.751
+F05375,High Engagers,0.75
+F04701,High Engagers,0.75
+F01291,High Engagers,0.75
+F03284,Super Fans,0.75
+F02084,High Engagers,0.75
+F04926,Super Fans,0.75
+F04114,High Engagers,0.75
+F02951,High Engagers,0.749
+F04722,High Engagers,0.749
+F02457,High Engagers,0.749
+F05362,High Engagers,0.749
+F02747,High Engagers,0.749
+F00534,High Engagers,0.748
+F01347,High Engagers,0.748
+F03700,High Engagers,0.748
+F01213,High Engagers,0.748
+F04242,High Engagers,0.748
+F03736,High Engagers,0.748
+F01668,High Engagers,0.748
+F03722,Super Fans,0.748
+F01439,High Engagers,0.747
+F05809,High Engagers,0.747
+F03686,High Engagers,0.747
+F05502,High Engagers,0.747
+F00034,High Engagers,0.746
+F05548,Super Fans,0.746
+F05593,High Engagers,0.746
+F01000,High Engagers,0.746
+F02184,High Engagers,0.745
+F01576,High Engagers,0.745
+F03175,High Engagers,0.745
+F02753,High Engagers,0.745
+F03335,High Engagers,0.745
+F00940,High Engagers,0.745
+F04344,High Engagers,0.745
+F01336,High Engagers,0.744
+F04633,Super Fans,0.744
+F04970,High Engagers,0.744
+F03066,High Engagers,0.744
+F00140,High Engagers,0.744
+F00050,High Engagers,0.743
+F01702,High Engagers,0.743
+F02958,Super Fans,0.743
+F05213,Super Fans,0.743
+F04925,High Engagers,0.743
+F02593,High Engagers,0.742
+F01834,Super Fans,0.742
+F00944,Super Fans,0.741
+F05337,High Engagers,0.741
+F04099,High Engagers,0.74
+F03795,High Engagers,0.739
+F04811,Super Fans,0.739
+F01642,High Engagers,0.739
+F01201,High Engagers,0.739
+F05127,High Engagers,0.739
+F03373,High Engagers,0.739
+F04931,High Engagers,0.739
+F01603,High Engagers,0.738
+F00103,High Engagers,0.738
+F03862,High Engagers,0.738
+F04848,Super Fans,0.738
+F04896,Super Fans,0.738
+F00250,High Engagers,0.737
+F01460,Super Fans,0.736
+F04726,High Engagers,0.736
+F00380,High Engagers,0.736
+F01739,High Engagers,0.736
+F02742,High Engagers,0.735
+F05491,Super Fans,0.735
+F05304,High Engagers,0.735
+F02040,High Engagers,0.735
+F03382,High Engagers,0.735
+F05374,Super Fans,0.735
+F01768,Super Fans,0.735
+F04506,Super Fans,0.734
+F05314,High Engagers,0.734
+F04113,High Engagers,0.734
+F03135,High Engagers,0.733
+F00964,High Engagers,0.733
+F02258,High Engagers,0.732
+F03379,High Engagers,0.732
+F03127,High Engagers,0.731
+F05522,High Engagers,0.73
+F00626,High Engagers,0.73
+F01916,High Engagers,0.73
+F03799,High Engagers,0.729
+F02026,High Engagers,0.729
+F02228,Super Fans,0.729
+F05358,High Engagers,0.728
+F00804,High Engagers,0.728
+F04564,High Engagers,0.728
+F00202,Super Fans,0.728
+F03091,High Engagers,0.728
+F01124,High Engagers,0.727
+F02226,Super Fans,0.726
+F05887,High Engagers,0.726
+F01936,High Engagers,0.726
+F04090,High Engagers,0.726
+F03744,High Engagers,0.726
+F00164,High Engagers,0.726
+F05389,Super Fans,0.726
+F05049,High Engagers,0.725
+F05059,High Engagers,0.725
+F02477,High Engagers,0.725
+F04380,Super Fans,0.725
+F02745,High Engagers,0.725
+F02914,Super Fans,0.724
+F02795,High Engagers,0.724
+F05417,High Engagers,0.724
+F04681,Super Fans,0.724
+F00735,High Engagers,0.724
+F05134,Super Fans,0.723
+F01217,Super Fans,0.723
+F05095,High Engagers,0.722
+F05386,Super Fans,0.722
+F02425,High Engagers,0.722
+F05783,High Engagers,0.722
+F03489,High Engagers,0.721
+F05781,High Engagers,0.721
+F00971,Super Fans,0.721
+F02347,High Engagers,0.72
+F02618,High Engagers,0.72
+F01433,High Engagers,0.72
+F02781,Super Fans,0.72
+F01604,High Engagers,0.719
+F03177,High Engagers,0.718
+F02034,High Engagers,0.718
+F02628,Super Fans,0.717
+F05189,High Engagers,0.716
+F00107,Super Fans,0.716
+F01098,High Engagers,0.714
+F05055,High Engagers,0.714
+F01698,High Engagers,0.713
+F03966,Super Fans,0.713
+F00671,High Engagers,0.713
+F01723,High Engagers,0.712
+F04906,High Engagers,0.712
+F02306,Super Fans,0.712
+F00741,High Engagers,0.712
+F01697,High Engagers,0.712
+F03403,Super Fans,0.712
+F03726,Super Fans,0.711
+F03214,High Engagers,0.711
+F01588,High Engagers,0.71
+F00656,High Engagers,0.709
+F04733,Super Fans,0.708
+F04574,High Engagers,0.708
+F05810,High Engagers,0.706
+F03260,High Engagers,0.706
+F01881,High Engagers,0.706
+F04389,High Engagers,0.705
+F00914,High Engagers,0.704
+F04850,High Engagers,0.7
+F03361,Super Fans,0.7
+F05201,High Engagers,0.7
+F00972,High Engagers,0.7
+F00462,High Engagers,0.7
+F04103,Super Fans,0.7
+F00521,High Engagers,0.699
+F05209,Super Fans,0.697
+F04966,High Engagers,0.696
+F01795,High Engagers,0.696
+F03954,Super Fans,0.693
+F04957,Super Fans,0.692
+F05721,High Engagers,0.692
+F03070,Super Fans,0.691
+F03560,Super Fans,0.689
+F04104,High Engagers,0.687
+F04878,High Engagers,0.687
+F00419,High Engagers,0.687
+F01735,High Engagers,0.685
+F01987,High Engagers,0.683
+F02124,Super Fans,0.682
+F02702,High Engagers,0.681
+F02058,High Engagers,0.68
+F05609,High Engagers,0.679
+F03555,High Engagers,0.673
+F01550,Super Fans,0.672
+F03638,High Engagers,0.672
+F03595,High Engagers,0.671
+F00180,High Engagers,0.671
+F01443,Super Fans,0.671
+F00965,Super Fans,0.671
+F04452,High Engagers,0.67
+F05473,High Engagers,0.669
+F01289,High Engagers,0.668
+F04394,High Engagers,0.666
+F03386,Super Fans,0.664
+F05989,Super Fans,0.659
+F04045,High Engagers,0.657
+F01441,Super Fans,0.649
+F03472,High Engagers,0.648
+F00738,High Engagers,0.647
+F01808,High Engagers,0.645
+F05892,Super Fans,0.642
+F02845,Super Fans,0.634
+F01845,Super Fans,0.632
+F00331,High Engagers,0.63
+F03131,Super Fans,0.623
+F00562,High Engagers,0.622
+F03228,Super Fans,0.622
+F02988,Super Fans,0.618
+F00196,Super Fans,0.615
+F00635,Super Fans,0.614
+F00912,High Engagers,0.614
+F04512,Super Fans,0.609
+F03485,High Engagers,0.603
+F01418,High Engagers,0.601
+F04765,Super Fans,0.596
+F01995,Super Fans,0.584
+F05200,Super Fans,0.579
+F04342,High Engagers,0.564
+F01805,Super Fans,0.561
+F02051,High Engagers,0.551
+F05071,High Engagers,0.551
+F05035,High Engagers,0.548
+F00286,Super Fans,0.542
+F03702,High Engagers,0.534
+F05600,High Engagers,0.533
+F05173,Super Fans,0.533
+F01390,Super Fans,0.532
+F03519,Super Fans,0.531
+F04866,High Engagers,0.523
+F01230,Super Fans,0.519
+F04792,High Engagers,0.516
+F05826,High Engagers,0.508
+F05982,High Engagers,0.507
+F03332,Super Fans,0.498
+F02761,High Engagers,0.492
+F04124,High Engagers,0.491
+F01589,High Engagers,0.487
+F01422,High Engagers,0.47
+F05339,Super Fans,0.455
+F00739,Super Fans,0.452
+F01724,Super Fans,0.401
+F01237,Super Fans,0.396
+F01413,Super Fans,0.351
+F01676,Casual Followers,0.271
+F01133,Casual Followers,0.266
+F04006,Digital Browsers,0.251
+F00924,Casual Followers,0.24
+F05464,Digital Browsers,0.23
+F01069,Casual Followers,0.227
+F04266,Digital Browsers,0.226
+F05183,Digital Browsers,0.21
+F04391,Digital Browsers,0.207
+F01096,Casual Followers,0.195
+F00975,Casual Followers,0.189
+F04247,Digital Browsers,0.182
+F00798,Dormant / At-Risk,0.178
+F01257,Casual Followers,0.176
+F00870,Digital Browsers,0.171
+F03421,Casual Followers,0.167
+F04231,Casual Followers,0.162
+F01021,Digital Browsers,0.162
+F04829,Dormant / At-Risk,0.162
+F05797,Digital Browsers,0.162
+F05723,Casual Followers,0.161
+F03983,Digital Browsers,0.161
+F03980,Digital Browsers,0.16
+F01572,Casual Followers,0.158
+F01500,Casual Followers,0.158
+F02889,Digital Browsers,0.157
+F00307,Digital Browsers,0.156
+F04799,Dormant / At-Risk,0.156
+F05367,Digital Browsers,0.156
+F05287,Digital Browsers,0.155
+F01029,Digital Browsers,0.153
+F00236,Digital Browsers,0.151
+F05387,Casual Followers,0.151
+F03199,Dormant / At-Risk,0.15
+F02623,Digital Browsers,0.149
+F05118,Dormant / At-Risk,0.149
+F01559,Digital Browsers,0.146
+F04689,Dormant / At-Risk,0.144
+F01126,Dormant / At-Risk,0.144
+F00594,Digital Browsers,0.143
+F05169,Digital Browsers,0.141
+F04985,Digital Browsers,0.14
+F03169,Casual Followers,0.14
+F02257,Digital Browsers,0.14
+F04214,Digital Browsers,0.138
+F05366,Casual Followers,0.137
+F04392,Digital Browsers,0.137
+F02775,Casual Followers,0.136
+F01710,Dormant / At-Risk,0.136
+F01765,Dormant / At-Risk,0.136
+F05959,Digital Browsers,0.135
+F02892,Dormant / At-Risk,0.135
+F00865,Dormant / At-Risk,0.134
+F04941,Digital Browsers,0.134
+F00350,Casual Followers,0.134
+F04882,Casual Followers,0.133
+F00228,Digital Browsers,0.133
+F03955,Casual Followers,0.133
+F05208,Dormant / At-Risk,0.132
+F03567,Digital Browsers,0.132
+F05598,Dormant / At-Risk,0.132
+F00035,Digital Browsers,0.131
+F01755,Dormant / At-Risk,0.13
+F02953,Casual Followers,0.13
+F01686,Dormant / At-Risk,0.13
+F00278,Digital Browsers,0.129
+F01918,Digital Browsers,0.129
+F01006,Digital Browsers,0.129
+F02698,Casual Followers,0.129
+F03481,Digital Browsers,0.128
+F05900,Dormant / At-Risk,0.128
+F05418,Dormant / At-Risk,0.128
+F02272,Dormant / At-Risk,0.128
+F05214,Dormant / At-Risk,0.127
+F05411,Digital Browsers,0.127
+F02364,Dormant / At-Risk,0.127
+F04053,Digital Browsers,0.126
+F00832,Digital Browsers,0.126
+F01748,Digital Browsers,0.126
+F05868,Dormant / At-Risk,0.125
+F00977,Casual Followers,0.125
+F04723,Digital Browsers,0.125
+F03348,Dormant / At-Risk,0.125
+F02089,Digital Browsers,0.124
+F05793,Casual Followers,0.124
+F02634,Digital Browsers,0.124
+F04145,Digital Browsers,0.123
+F04449,Digital Browsers,0.123
+F04376,Digital Browsers,0.122
+F05032,Digital Browsers,0.122
+F02114,Casual Followers,0.121
+F05243,Dormant / At-Risk,0.121
+F00368,Dormant / At-Risk,0.121
+F04469,Digital Browsers,0.12
+F02006,Digital Browsers,0.119
+F02840,Casual Followers,0.119
+F01101,Casual Followers,0.119
+F05451,Digital Browsers,0.119
+F03448,Digital Browsers,0.119
+F03935,Casual Followers,0.118
+F01922,Digital Browsers,0.118
+F02430,Dormant / At-Risk,0.117
+F05946,Casual Followers,0.117
+F02467,Digital Browsers,0.117
+F05445,Dormant / At-Risk,0.116
+F05083,Digital Browsers,0.116
+F00589,Dormant / At-Risk,0.116
+F02091,Digital Browsers,0.116
+F00515,Dormant / At-Risk,0.116
+F00622,Casual Followers,0.115
+F04172,Dormant / At-Risk,0.115
+F00786,Dormant / At-Risk,0.115
+F00123,Dormant / At-Risk,0.115
+F04867,Casual Followers,0.115
+F02612,Digital Browsers,0.115
+F03534,Digital Browsers,0.115
+F02857,Dormant / At-Risk,0.114
+F01127,Digital Browsers,0.114
+F01780,Digital Browsers,0.114
+F03084,Dormant / At-Risk,0.113
+F03300,Digital Browsers,0.112
+F02063,Digital Browsers,0.112
+F05157,Casual Followers,0.112
+F01516,Casual Followers,0.112
+F00806,Digital Browsers,0.111
+F02791,Digital Browsers,0.111
+F00420,Dormant / At-Risk,0.111
+F05709,Dormant / At-Risk,0.111
+F05520,Digital Browsers,0.111
+F02573,Dormant / At-Risk,0.111
+F04211,Digital Browsers,0.111
+F05973,Casual Followers,0.111
+F02346,Digital Browsers,0.11
+F04582,Casual Followers,0.11
+F05914,Dormant / At-Risk,0.11
+F05773,Dormant / At-Risk,0.11
+F02808,Digital Browsers,0.11
+F00926,Digital Browsers,0.11
+F03258,Digital Browsers,0.109
+F04041,Casual Followers,0.109
+F01524,Dormant / At-Risk,0.109
+F00040,Casual Followers,0.109
+F00490,Digital Browsers,0.109
+F01966,Dormant / At-Risk,0.109
+F01408,Digital Browsers,0.108
+F02024,Dormant / At-Risk,0.108
+F05101,Dormant / At-Risk,0.108
+F04784,Dormant / At-Risk,0.108
+F02096,Dormant / At-Risk,0.108
+F00153,Dormant / At-Risk,0.108
+F04986,Digital Browsers,0.108
+F04189,Casual Followers,0.108
+F01822,Dormant / At-Risk,0.108
+F00070,Digital Browsers,0.107
+F02637,Digital Browsers,0.107
+F02646,Casual Followers,0.107
+F04816,Dormant / At-Risk,0.107
+F00101,Dormant / At-Risk,0.107
+F04911,Digital Browsers,0.107
+F03393,Casual Followers,0.107
+F03176,Dormant / At-Risk,0.107
+F00901,Dormant / At-Risk,0.107
+F03166,Digital Browsers,0.107
+F01041,Casual Followers,0.107
+F00585,Casual Followers,0.106
+F04927,Casual Followers,0.106
+F03950,Digital Browsers,0.106
+F02204,Digital Browsers,0.106
+F03642,Casual Followers,0.106
+F03292,Digital Browsers,0.106
+F04858,Digital Browsers,0.106
+F01146,Digital Browsers,0.105
+F03818,Dormant / At-Risk,0.105
+F04161,Dormant / At-Risk,0.105
+F00838,Digital Browsers,0.105
+F04202,Digital Browsers,0.105
+F01507,Digital Browsers,0.105
+F02524,Digital Browsers,0.104
+F00513,Casual Followers,0.104
+F05231,Dormant / At-Risk,0.104
+F03249,Dormant / At-Risk,0.104
+F00686,Dormant / At-Risk,0.104
+F00561,Dormant / At-Risk,0.104
+F03015,Casual Followers,0.104
+F04543,Dormant / At-Risk,0.104
+F00875,Digital Browsers,0.104
+F03575,Dormant / At-Risk,0.104
+F04357,Dormant / At-Risk,0.104
+F01020,Dormant / At-Risk,0.104
+F02719,Dormant / At-Risk,0.103
+F02270,Digital Browsers,0.103
+F05454,Dormant / At-Risk,0.103
+F03806,Digital Browsers,0.103
+F01947,Digital Browsers,0.103
+F00142,Digital Browsers,0.103
+F05043,Digital Browsers,0.103
+F02856,Dormant / At-Risk,0.103
+F04590,Dormant / At-Risk,0.103
+F02242,Dormant / At-Risk,0.103
+F01376,Digital Browsers,0.103
+F01585,Dormant / At-Risk,0.103
+F00984,Digital Browsers,0.103
+F04295,Dormant / At-Risk,0.103
+F04717,Dormant / At-Risk,0.103
+F03522,Dormant / At-Risk,0.103
+F00046,Dormant / At-Risk,0.102
+F04335,Dormant / At-Risk,0.102
+F02098,Digital Browsers,0.102
+F00184,Digital Browsers,0.102
+F05614,Dormant / At-Risk,0.102
+F02150,Casual Followers,0.102
+F00962,Dormant / At-Risk,0.102
+F01149,Digital Browsers,0.102
+F03154,Dormant / At-Risk,0.102
+F02942,Digital Browsers,0.102
+F01193,Dormant / At-Risk,0.102
+F03289,Digital Browsers,0.102
+F01088,Dormant / At-Risk,0.102
+F02743,Dormant / At-Risk,0.102
+F00264,Dormant / At-Risk,0.102
+F05356,Dormant / At-Risk,0.102
+F04197,Dormant / At-Risk,0.102
+F02692,Digital Browsers,0.102
+F05222,Digital Browsers,0.101
+F00573,Digital Browsers,0.101
+F01190,Dormant / At-Risk,0.101
+F05746,Dormant / At-Risk,0.101
+F02047,Digital Browsers,0.101
+F01746,Digital Browsers,0.101
+F00176,Dormant / At-Risk,0.101
+F02022,Dormant / At-Risk,0.101
+F03468,Casual Followers,0.101
+F03439,Dormant / At-Risk,0.101
+F03511,Digital Browsers,0.101
+F02353,Digital Browsers,0.101
+F04771,Digital Browsers,0.101
+F03596,Dormant / At-Risk,0.101
+F00839,Dormant / At-Risk,0.101
+F05780,Dormant / At-Risk,0.101
+F01759,Dormant / At-Risk,0.101
+F01796,Digital Browsers,0.101
+F03255,Digital Browsers,0.101
+F05052,Dormant / At-Risk,0.101
+F04525,Digital Browsers,0.101
+F04528,Dormant / At-Risk,0.101
+F01819,Digital Browsers,0.101
+F01705,Dormant / At-Risk,0.1
+F03550,Dormant / At-Risk,0.1
+F05471,Dormant / At-Risk,0.1
+F01173,Dormant / At-Risk,0.1
+F02370,Digital Browsers,0.1
+F01036,Dormant / At-Risk,0.1
+F02944,Dormant / At-Risk,0.1
+F03454,Digital Browsers,0.1
+F02039,Dormant / At-Risk,0.1
+F05573,Dormant / At-Risk,0.1
+F03024,Dormant / At-Risk,0.1
+F05180,Casual Followers,0.1
+F04666,Digital Browsers,0.1
+F03772,Casual Followers,0.1
+F05998,Dormant / At-Risk,0.1
+F04377,Casual Followers,0.1
+F05853,Dormant / At-Risk,0.1
+F04234,Digital Browsers,0.1
+F00109,Dormant / At-Risk,0.099
+F02519,Digital Browsers,0.099
+F05089,Dormant / At-Risk,0.099
+F05342,Dormant / At-Risk,0.099
+F05507,Dormant / At-Risk,0.099
+F00983,Dormant / At-Risk,0.099
+F01927,Dormant / At-Risk,0.099
+F00706,Dormant / At-Risk,0.099
+F00829,Dormant / At-Risk,0.099
+F00813,Digital Browsers,0.099
+F01804,Digital Browsers,0.099
+F04200,Dormant / At-Risk,0.099
+F05360,Digital Browsers,0.099
+F03670,Digital Browsers,0.099
+F05701,Digital Browsers,0.099
+F05707,Digital Browsers,0.099
+F03921,Dormant / At-Risk,0.099
+F05246,Dormant / At-Risk,0.099
+F02214,Dormant / At-Risk,0.098
+F03767,Casual Followers,0.098
+F05395,Dormant / At-Risk,0.098
+F04834,Digital Browsers,0.098
+F04107,Dormant / At-Risk,0.098
+F00858,Dormant / At-Risk,0.098
+F03198,Dormant / At-Risk,0.098
+F02798,Dormant / At-Risk,0.098
+F01058,Digital Browsers,0.098
+F01203,Dormant / At-Risk,0.098
+F02964,Dormant / At-Risk,0.098
+F03418,Dormant / At-Risk,0.098
+F02965,Casual Followers,0.098
+F04433,Dormant / At-Risk,0.098
+F02109,Dormant / At-Risk,0.098
+F05761,Dormant / At-Risk,0.098
+F00067,Digital Browsers,0.098
+F00044,Dormant / At-Risk,0.098
+F00166,Dormant / At-Risk,0.098
+F05567,Dormant / At-Risk,0.098
+F05856,Dormant / At-Risk,0.098
+F00950,Dormant / At-Risk,0.098
+F04280,Digital Browsers,0.098
+F02675,Dormant / At-Risk,0.098
+F01028,Digital Browsers,0.098
+F02834,Dormant / At-Risk,0.098
+F04039,Dormant / At-Risk,0.098
+F04289,Dormant / At-Risk,0.098
+F03240,Digital Browsers,0.098
+F01846,Dormant / At-Risk,0.097
+F03631,Dormant / At-Risk,0.097
+F00718,Dormant / At-Risk,0.097
+F05440,Dormant / At-Risk,0.097
+F02010,Dormant / At-Risk,0.097
+F01999,Dormant / At-Risk,0.097
+F03524,Casual Followers,0.097
+F05412,Digital Browsers,0.097
+F05150,Dormant / At-Risk,0.097
+F05645,Digital Browsers,0.097
+F02682,Dormant / At-Risk,0.097
+F05566,Dormant / At-Risk,0.097
+F01844,Casual Followers,0.097
+F04782,Dormant / At-Risk,0.097
+F03979,Dormant / At-Risk,0.097
+F03914,Digital Browsers,0.097
+F03868,Dormant / At-Risk,0.097
+F05613,Dormant / At-Risk,0.097
+F05745,Dormant / At-Risk,0.097
+F02960,Dormant / At-Risk,0.097
+F05636,Dormant / At-Risk,0.097
+F02321,Digital Browsers,0.097
+F05108,Dormant / At-Risk,0.097
+F05093,Dormant / At-Risk,0.097
+F02192,Digital Browsers,0.097
+F01074,Digital Browsers,0.097
+F05815,Dormant / At-Risk,0.097
+F01023,Digital Browsers,0.097
+F00434,Casual Followers,0.097
+F03925,Dormant / At-Risk,0.097
+F02191,Digital Browsers,0.097
+F03006,Dormant / At-Risk,0.097
+F05899,Dormant / At-Risk,0.097
+F04832,Dormant / At-Risk,0.097
+F01863,Dormant / At-Risk,0.097
+F00866,Dormant / At-Risk,0.097
+F02072,Dormant / At-Risk,0.097
+F01786,Dormant / At-Risk,0.097
+F00524,Dormant / At-Risk,0.096
+F00939,Dormant / At-Risk,0.096
+F03080,Dormant / At-Risk,0.096
+F01244,Digital Browsers,0.096
+F00185,Dormant / At-Risk,0.096
+F05953,Dormant / At-Risk,0.096
+F05975,Dormant / At-Risk,0.096
+F03143,Dormant / At-Risk,0.096
+F05560,Dormant / At-Risk,0.096
+F04659,Digital Browsers,0.096
+F00476,Dormant / At-Risk,0.096
+F00373,Digital Browsers,0.096
+F03217,Dormant / At-Risk,0.096
+F01454,Dormant / At-Risk,0.096
+F04102,Dormant / At-Risk,0.096
+F03853,Digital Browsers,0.096
+F03848,Dormant / At-Risk,0.096
+F04018,Dormant / At-Risk,0.096
+F02871,Digital Browsers,0.096
+F00361,Dormant / At-Risk,0.096
+F00354,Dormant / At-Risk,0.096
+F01645,Dormant / At-Risk,0.096
+F05282,Digital Browsers,0.096
+F01664,Digital Browsers,0.096
+F02935,Dormant / At-Risk,0.096
+F03647,Dormant / At-Risk,0.096
+F04285,Digital Browsers,0.096
+F02410,Dormant / At-Risk,0.096
+F05321,Dormant / At-Risk,0.096
+F00405,Dormant / At-Risk,0.096
+F01090,Dormant / At-Risk,0.096
+F05373,Dormant / At-Risk,0.096
+F00834,Dormant / At-Risk,0.096
+F00827,Dormant / At-Risk,0.096
+F01610,Dormant / At-Risk,0.096
+F03303,Dormant / At-Risk,0.096
+F03384,Dormant / At-Risk,0.096
+F04637,Casual Followers,0.096
+F02703,Digital Browsers,0.096
+F02495,Digital Browsers,0.096
+F05462,Digital Browsers,0.096
+F05016,Dormant / At-Risk,0.096
+F01274,Dormant / At-Risk,0.096
+F01268,Dormant / At-Risk,0.096
+F04828,Dormant / At-Risk,0.096
+F03823,Dormant / At-Risk,0.095
+F03640,Dormant / At-Risk,0.095
+F00618,Casual Followers,0.095
+F02067,Dormant / At-Risk,0.095
+F00481,Dormant / At-Risk,0.095
+F02722,Dormant / At-Risk,0.095
+F01647,Dormant / At-Risk,0.095
+F04249,Dormant / At-Risk,0.095
+F02432,Dormant / At-Risk,0.095
+F03759,Dormant / At-Risk,0.095
+F04613,Dormant / At-Risk,0.095
+F05306,Dormant / At-Risk,0.095
+F00151,Digital Browsers,0.095
+F03518,Dormant / At-Risk,0.095
+F01940,Dormant / At-Risk,0.095
+F05147,Digital Browsers,0.095
+F01323,Dormant / At-Risk,0.095
+F01391,Casual Followers,0.095
+F02635,Digital Browsers,0.095
+F01254,Dormant / At-Risk,0.095
+F00655,Dormant / At-Risk,0.095
+F00543,Dormant / At-Risk,0.095
+F02233,Dormant / At-Risk,0.095
+F03331,Dormant / At-Risk,0.095
+F01788,Dormant / At-Risk,0.095
+F01752,Dormant / At-Risk,0.095
+F04299,Digital Browsers,0.095
+F04297,Dormant / At-Risk,0.095
+F00854,Dormant / At-Risk,0.095
+F02583,Dormant / At-Risk,0.095
+F03616,Casual Followers,0.095
+F04806,Digital Browsers,0.095
+F02591,Casual Followers,0.095
+F05058,Dormant / At-Risk,0.095
+F05311,Dormant / At-Risk,0.095
+F04635,Dormant / At-Risk,0.095
+F03408,Dormant / At-Risk,0.095
+F04185,Dormant / At-Risk,0.095
+F00104,Dormant / At-Risk,0.095
+F05920,Digital Browsers,0.095
+F05153,Dormant / At-Risk,0.095
+F04516,Dormant / At-Risk,0.095
+F00999,Dormant / At-Risk,0.094
+F05756,Dormant / At-Risk,0.094
+F04334,Dormant / At-Risk,0.094
+F03671,Dormant / At-Risk,0.094
+F00442,Digital Browsers,0.094
+F01683,Dormant / At-Risk,0.094
+F03245,Dormant / At-Risk,0.094
+F01644,Dormant / At-Risk,0.094
+F05423,Dormant / At-Risk,0.094
+F03377,Dormant / At-Risk,0.094
+F02911,Dormant / At-Risk,0.094
+F01048,Dormant / At-Risk,0.094
+F00014,Digital Browsers,0.094
+F05981,Digital Browsers,0.094
+F00021,Dormant / At-Risk,0.094
+F00003,Digital Browsers,0.094
+F04164,Dormant / At-Risk,0.094
+F02522,Dormant / At-Risk,0.094
+F03517,Digital Browsers,0.094
+F02626,Dormant / At-Risk,0.094
+F05084,Dormant / At-Risk,0.094
+F00617,Dormant / At-Risk,0.094
+F04629,Dormant / At-Risk,0.094
+F02041,Digital Browsers,0.094
+F00365,Dormant / At-Risk,0.094
+F04918,Dormant / At-Risk,0.094
+F01836,Dormant / At-Risk,0.094
+F05181,Dormant / At-Risk,0.094
+F05195,Dormant / At-Risk,0.094
+F03058,Dormant / At-Risk,0.094
+F05102,Dormant / At-Risk,0.094
+F01857,Digital Browsers,0.094
+F02466,Dormant / At-Risk,0.094
+F04269,Digital Browsers,0.094
+F02498,Dormant / At-Risk,0.094
+F02448,Dormant / At-Risk,0.094
+F02770,Dormant / At-Risk,0.094
+F05130,Casual Followers,0.094
+F00374,Dormant / At-Risk,0.094
+F01140,Digital Browsers,0.094
+F03889,Digital Browsers,0.094
+F05493,Dormant / At-Risk,0.094
+F01613,Dormant / At-Risk,0.094
+F05273,Dormant / At-Risk,0.094
+F03821,Dormant / At-Risk,0.094
+F02229,Dormant / At-Risk,0.094
+F04062,Dormant / At-Risk,0.094
+F02248,Dormant / At-Risk,0.094
+F02970,Dormant / At-Risk,0.094
+F02957,Casual Followers,0.094
+F03473,Dormant / At-Risk,0.094
+F01296,Dormant / At-Risk,0.094
+F05939,Casual Followers,0.094
+F02639,Dormant / At-Risk,0.094
+F02438,Dormant / At-Risk,0.094
+F04573,Dormant / At-Risk,0.094
+F04555,Casual Followers,0.094
+F03141,Dormant / At-Risk,0.094
+F01952,Dormant / At-Risk,0.093
+F05960,Dormant / At-Risk,0.093
+F04561,Dormant / At-Risk,0.093
+F02225,Dormant / At-Risk,0.093
+F02686,Dormant / At-Risk,0.093
+F02630,Dormant / At-Risk,0.093
+F02271,Dormant / At-Risk,0.093
+F05335,Dormant / At-Risk,0.093
+F03064,Dormant / At-Risk,0.093
+F01537,Digital Browsers,0.093
+F05552,Dormant / At-Risk,0.093
+F02501,Digital Browsers,0.093
+F04430,Casual Followers,0.093
+F02846,Dormant / At-Risk,0.093
+F00898,Dormant / At-Risk,0.093
+F02329,Digital Browsers,0.093
+F02459,Dormant / At-Risk,0.093
+F04294,Dormant / At-Risk,0.093
+F01575,Dormant / At-Risk,0.093
+F01512,Dormant / At-Risk,0.093
+F03324,Dormant / At-Risk,0.093
+F05332,Dormant / At-Risk,0.093
+F01535,Dormant / At-Risk,0.093
+F05034,Digital Browsers,0.093
+F02166,Dormant / At-Risk,0.093
+F00512,Dormant / At-Risk,0.093
+F05626,Dormant / At-Risk,0.093
+F05114,Dormant / At-Risk,0.093
+F02216,Dormant / At-Risk,0.093
+F05013,Digital Browsers,0.093
+F05172,Dormant / At-Risk,0.093
+F02941,Casual Followers,0.093
+F00584,Dormant / At-Risk,0.093
+F03907,Dormant / At-Risk,0.093
+F05081,Digital Browsers,0.093
+F00025,Dormant / At-Risk,0.093
+F05230,Dormant / At-Risk,0.093
+F05109,Dormant / At-Risk,0.093
+F02766,Dormant / At-Risk,0.093
+F00144,Dormant / At-Risk,0.093
+F03653,Dormant / At-Risk,0.093
+F04781,Digital Browsers,0.093
+F01005,Digital Browsers,0.093
+F00491,Dormant / At-Risk,0.093
+F00650,Dormant / At-Risk,0.093
+F00988,Dormant / At-Risk,0.093
+F04455,Dormant / At-Risk,0.093
+F00808,Dormant / At-Risk,0.093
+F04036,Dormant / At-Risk,0.093
+F01434,Dormant / At-Risk,0.093
+F02822,Dormant / At-Risk,0.093
+F04935,Dormant / At-Risk,0.093
+F04767,Dormant / At-Risk,0.093
+F05839,Dormant / At-Risk,0.093
+F02716,Digital Browsers,0.093
+F00332,Dormant / At-Risk,0.093
+F05693,Dormant / At-Risk,0.093
+F02978,Dormant / At-Risk,0.093
+F01514,Dormant / At-Risk,0.093
+F02252,Dormant / At-Risk,0.093
+F02575,Dormant / At-Risk,0.092
+F03694,Dormant / At-Risk,0.092
+F01764,Dormant / At-Risk,0.092
+F02014,Digital Browsers,0.092
+F01873,Dormant / At-Risk,0.092
+F04398,Dormant / At-Risk,0.092
+F02599,Dormant / At-Risk,0.092
+F05734,Dormant / At-Risk,0.092
+F03901,Dormant / At-Risk,0.092
+F01568,Dormant / At-Risk,0.092
+F03065,Dormant / At-Risk,0.092
+F02849,Digital Browsers,0.092
+F00098,Casual Followers,0.092
+F02613,Dormant / At-Risk,0.092
+F05625,Digital Browsers,0.092
+F01538,Dormant / At-Risk,0.092
+F05115,Dormant / At-Risk,0.092
+F02057,Digital Browsers,0.092
+F01749,Dormant / At-Risk,0.092
+F02247,Dormant / At-Risk,0.092
+F03407,Dormant / At-Risk,0.092
+F02685,Dormant / At-Risk,0.092
+F01258,Dormant / At-Risk,0.092
+F04578,Dormant / At-Risk,0.092
+F04522,Dormant / At-Risk,0.092
+F04521,Digital Browsers,0.092
+F00071,Dormant / At-Risk,0.092
+F00601,Digital Browsers,0.092
+F04126,Casual Followers,0.092
+F02691,Dormant / At-Risk,0.092
+F03045,Dormant / At-Risk,0.092
+F04488,Digital Browsers,0.092
+F01286,Dormant / At-Risk,0.092
+F01919,Digital Browsers,0.092
+F03540,Dormant / At-Risk,0.092
+F03771,Digital Browsers,0.092
+F02393,Dormant / At-Risk,0.092
+F02828,Dormant / At-Risk,0.092
+F03034,Dormant / At-Risk,0.092
+F00057,Digital Browsers,0.092
+F02207,Dormant / At-Risk,0.092
+F00982,Dormant / At-Risk,0.092
+F00336,Dormant / At-Risk,0.092
+F04634,Digital Browsers,0.092
+F01709,Dormant / At-Risk,0.092
+F02767,Dormant / At-Risk,0.092
+F05247,Dormant / At-Risk,0.092
+F01365,Dormant / At-Risk,0.092
+F05271,Dormant / At-Risk,0.092
+F02397,Digital Browsers,0.092
+F04600,Dormant / At-Risk,0.092
+F01404,Dormant / At-Risk,0.092
+F00245,Dormant / At-Risk,0.092
+F01072,Dormant / At-Risk,0.092
+F05113,Dormant / At-Risk,0.092
+F03186,Digital Browsers,0.092
+F02927,Dormant / At-Risk,0.092
+F05752,Digital Browsers,0.092
+F02016,Dormant / At-Risk,0.092
+F01513,Dormant / At-Risk,0.092
+F01582,Casual Followers,0.092
+F01643,Dormant / At-Risk,0.092
+F04487,Dormant / At-Risk,0.092
+F05574,Dormant / At-Risk,0.092
+F02030,Dormant / At-Risk,0.092
+F02029,Dormant / At-Risk,0.092
+F00557,Dormant / At-Risk,0.092
+F02187,Dormant / At-Risk,0.092
+F03903,Dormant / At-Risk,0.092
+F01600,Dormant / At-Risk,0.092
+F00391,Dormant / At-Risk,0.092
+F00990,Dormant / At-Risk,0.092
+F04568,Dormant / At-Risk,0.091
+F03777,Dormant / At-Risk,0.091
+F05162,Dormant / At-Risk,0.091
+F01959,Dormant / At-Risk,0.091
+F02429,Dormant / At-Risk,0.091
+F01980,Dormant / At-Risk,0.091
+F03447,Casual Followers,0.091
+F01273,Digital Browsers,0.091
+F01577,Dormant / At-Risk,0.091
+F03363,Dormant / At-Risk,0.091
+F04000,Dormant / At-Risk,0.091
+F02301,Digital Browsers,0.091
+F04690,Casual Followers,0.091
+F05338,Dormant / At-Risk,0.091
+F00567,Digital Browsers,0.091
+F02971,Dormant / At-Risk,0.091
+F04399,Dormant / At-Risk,0.091
+F00652,Dormant / At-Risk,0.091
+F00523,Digital Browsers,0.091
+F05996,Dormant / At-Risk,0.091
+F04400,Dormant / At-Risk,0.091
+F02689,Dormant / At-Risk,0.091
+F03071,Dormant / At-Risk,0.091
+F03083,Dormant / At-Risk,0.091
+F03436,Dormant / At-Risk,0.091
+F04144,Dormant / At-Risk,0.091
+F04840,Dormant / At-Risk,0.091
+F04188,Digital Browsers,0.091
+F00088,Dormant / At-Risk,0.091
+F02728,Dormant / At-Risk,0.091
+F05499,Dormant / At-Risk,0.091
+F03211,Dormant / At-Risk,0.091
+F03151,Dormant / At-Risk,0.091
+F00318,Dormant / At-Risk,0.091
+F00291,Digital Browsers,0.091
+F02493,Dormant / At-Risk,0.091
+F04093,Dormant / At-Risk,0.091
+F01792,Digital Browsers,0.091
+F03351,Digital Browsers,0.091
+F02920,Dormant / At-Risk,0.091
+F02019,Digital Browsers,0.091
+F00417,Digital Browsers,0.091
+F05694,Dormant / At-Risk,0.091
+F00447,Dormant / At-Risk,0.091
+F03588,Dormant / At-Risk,0.091
+F03532,Dormant / At-Risk,0.091
+F04803,Casual Followers,0.091
+F05718,Dormant / At-Risk,0.091
+F01194,Dormant / At-Risk,0.091
+F03358,Dormant / At-Risk,0.091
+F01100,Dormant / At-Risk,0.091
+F02733,Dormant / At-Risk,0.091
+F03579,Dormant / At-Risk,0.091
+F02552,Digital Browsers,0.091
+F00956,Dormant / At-Risk,0.091
+F05064,Digital Browsers,0.091
+F05724,Digital Browsers,0.091
+F00767,Digital Browsers,0.091
+F00734,Dormant / At-Risk,0.091
+F05204,Dormant / At-Risk,0.091
+F03678,Dormant / At-Risk,0.091
+F05682,Dormant / At-Risk,0.091
+F00785,Dormant / At-Risk,0.091
+F04667,Dormant / At-Risk,0.091
+F01925,Dormant / At-Risk,0.091
+F04676,Dormant / At-Risk,0.091
+F05185,Digital Browsers,0.091
+F05307,Dormant / At-Risk,0.091
+F01356,Dormant / At-Risk,0.091
+F01706,Dormant / At-Risk,0.091
+F01655,Digital Browsers,0.091
+F04089,Digital Browsers,0.091
+F05858,Digital Browsers,0.091
+F00954,Dormant / At-Risk,0.091
+F01001,Dormant / At-Risk,0.091
+F03226,Dormant / At-Risk,0.091
+F00259,Dormant / At-Risk,0.091
+F01316,Dormant / At-Risk,0.091
+F05372,Dormant / At-Risk,0.091
+F01427,Dormant / At-Risk,0.091
+F02741,Dormant / At-Risk,0.091
+F01360,Dormant / At-Risk,0.091
+F00393,Dormant / At-Risk,0.091
+F02860,Dormant / At-Risk,0.091
+F02433,Dormant / At-Risk,0.091
+F02408,Digital Browsers,0.091
+F04608,Dormant / At-Risk,0.091
+F04601,Dormant / At-Risk,0.091
+F02480,Digital Browsers,0.091
+F05310,Digital Browsers,0.091
+F01064,Dormant / At-Risk,0.091
+F01066,Dormant / At-Risk,0.091
+F02037,Dormant / At-Risk,0.091
+F00987,Digital Browsers,0.091
+F00141,Dormant / At-Risk,0.09
+F00203,Digital Browsers,0.09
+F01909,Dormant / At-Risk,0.09
+F02406,Digital Browsers,0.09
+F01166,Digital Browsers,0.09
+F01478,Dormant / At-Risk,0.09
+F04764,Digital Browsers,0.09
+F02094,Dormant / At-Risk,0.09
+F02288,Casual Followers,0.09
+F00445,Dormant / At-Risk,0.09
+F02144,Digital Browsers,0.09
+F02940,Dormant / At-Risk,0.09
+F01007,Dormant / At-Risk,0.09
+F03220,Dormant / At-Risk,0.09
+F05161,Digital Browsers,0.09
+F01150,Digital Browsers,0.09
+F00826,Dormant / At-Risk,0.09
+F05771,Dormant / At-Risk,0.09
+F02835,Dormant / At-Risk,0.09
+F04916,Dormant / At-Risk,0.09
+F00358,Dormant / At-Risk,0.09
+F00306,Casual Followers,0.09
+F01827,Dormant / At-Risk,0.09
+F00828,Dormant / At-Risk,0.09
+F04133,Dormant / At-Risk,0.09
+F03822,Dormant / At-Risk,0.09
+F05857,Digital Browsers,0.09
+F03856,Digital Browsers,0.09
+F03857,Dormant / At-Risk,0.09
+F04081,Dormant / At-Risk,0.09
+F02516,Dormant / At-Risk,0.09
+F02784,Dormant / At-Risk,0.09
+F00247,Casual Followers,0.09
+F03247,Digital Browsers,0.09
+F01694,Digital Browsers,0.09
+F01696,Dormant / At-Risk,0.09
+F04611,Dormant / At-Risk,0.09
+F01501,Digital Browsers,0.09
+F02482,Dormant / At-Risk,0.09
+F01649,Dormant / At-Risk,0.09
+F02717,Digital Browsers,0.09
+F04232,Casual Followers,0.09
+F04825,Dormant / At-Risk,0.09
+F05902,Dormant / At-Risk,0.09
+F02664,Casual Followers,0.09
+F03100,Dormant / At-Risk,0.09
+F03431,Dormant / At-Risk,0.09
+F05413,Digital Browsers,0.09
+F01144,Dormant / At-Risk,0.09
+F01526,Dormant / At-Risk,0.09
+F01490,Digital Browsers,0.09
+F02584,Digital Browsers,0.09
+F02559,Dormant / At-Risk,0.09
+F04240,Dormant / At-Risk,0.09
+F04327,Digital Browsers,0.09
+F00658,Dormant / At-Risk,0.09
+F05581,Dormant / At-Risk,0.09
+F05589,Dormant / At-Risk,0.09
+F03061,Digital Browsers,0.09
+F01973,Digital Browsers,0.09
+F00673,Casual Followers,0.09
+F02178,Digital Browsers,0.09
+F01556,Dormant / At-Risk,0.09
+F05503,Dormant / At-Risk,0.09
+F02453,Digital Browsers,0.09
+F05879,Digital Browsers,0.09
+F05466,Dormant / At-Risk,0.09
+F02162,Dormant / At-Risk,0.09
+F00681,Dormant / At-Risk,0.09
+F02088,Dormant / At-Risk,0.09
+F04914,Dormant / At-Risk,0.09
+F02368,Dormant / At-Risk,0.09
+F05729,Dormant / At-Risk,0.09
+F05735,Dormant / At-Risk,0.09
+F03673,Digital Browsers,0.09
+F04639,Dormant / At-Risk,0.09
+F05516,Dormant / At-Risk,0.09
+F01092,Dormant / At-Risk,0.09
+F00575,Dormant / At-Risk,0.09
+F04482,Digital Browsers,0.09
+F02373,Digital Browsers,0.09
+F01829,Dormant / At-Risk,0.09
+F01886,Dormant / At-Risk,0.09
+F04292,Casual Followers,0.09
+F03758,Dormant / At-Risk,0.09
+F01887,Dormant / At-Risk,0.09
+F03156,Dormant / At-Risk,0.09
+F00129,Digital Browsers,0.09
+F03938,Dormant / At-Risk,0.09
+F01384,Dormant / At-Risk,0.09
+F05990,Dormant / At-Risk,0.09
+F02729,Dormant / At-Risk,0.09
+F02674,Digital Browsers,0.09
+F04731,Dormant / At-Risk,0.09
+F00024,Dormant / At-Risk,0.09
+F04426,Dormant / At-Risk,0.089
+F04042,Dormant / At-Risk,0.089
+F05638,Dormant / At-Risk,0.089
+F04422,Dormant / At-Risk,0.089
+F00814,Dormant / At-Risk,0.089
+F05763,Dormant / At-Risk,0.089
+F04329,Dormant / At-Risk,0.089
+F03953,Dormant / At-Risk,0.089
+F01736,Digital Browsers,0.089
+F00993,Dormant / At-Risk,0.089
+F01669,Dormant / At-Risk,0.089
+F05279,Dormant / At-Risk,0.089
+F05278,Dormant / At-Risk,0.089
+F03049,Dormant / At-Risk,0.089
+F05977,Dormant / At-Risk,0.089
+F01734,Digital Browsers,0.089
+F04946,Digital Browsers,0.089
+F04585,Dormant / At-Risk,0.089
+F05829,Dormant / At-Risk,0.089
+F02762,Dormant / At-Risk,0.089
+F04111,Dormant / At-Risk,0.089
+F04940,Dormant / At-Risk,0.089
+F03462,Digital Browsers,0.089
+F01184,Dormant / At-Risk,0.089
+F03392,Dormant / At-Risk,0.089
+F02788,Dormant / At-Risk,0.089
+F04780,Dormant / At-Risk,0.089
+F02509,Dormant / At-Risk,0.089
+F04904,Dormant / At-Risk,0.089
+F05236,Digital Browsers,0.089
+F01619,Digital Browsers,0.089
+F01614,Dormant / At-Risk,0.089
+F03544,Dormant / At-Risk,0.089
+F04356,Digital Browsers,0.089
+F02116,Dormant / At-Risk,0.089
+F02111,Dormant / At-Risk,0.089
+F01662,Dormant / At-Risk,0.089
+F05787,Digital Browsers,0.089
+F02287,Dormant / At-Risk,0.089
+F05775,Dormant / At-Risk,0.089
+F00931,Dormant / At-Risk,0.089
+F00996,Digital Browsers,0.089
+F00919,Digital Browsers,0.089
+F05732,Dormant / At-Risk,0.089
+F01743,Dormant / At-Risk,0.089
+F05040,Dormant / At-Risk,0.089
+F01580,Digital Browsers,0.089
+F03306,Digital Browsers,0.089
+F01085,Dormant / At-Risk,0.089
+F05104,Dormant / At-Risk,0.089
+F03055,Digital Browsers,0.089
+F05025,Dormant / At-Risk,0.089
+F00721,Dormant / At-Risk,0.089
+F03918,Digital Browsers,0.089
+F04316,Digital Browsers,0.089
+F03208,Dormant / At-Risk,0.089
+F02597,Dormant / At-Risk,0.089
+F01159,Dormant / At-Risk,0.089
+F05515,Dormant / At-Risk,0.089
+F04791,Dormant / At-Risk,0.089
+F05595,Dormant / At-Risk,0.089
+F05873,Dormant / At-Risk,0.089
+F01492,Dormant / At-Risk,0.089
+F01164,Digital Browsers,0.089
+F02969,Dormant / At-Risk,0.089
+F04094,Dormant / At-Risk,0.089
+F04789,Digital Browsers,0.089
+F00960,Digital Browsers,0.089
+F03040,Dormant / At-Risk,0.089
+F02028,Dormant / At-Risk,0.089
+F00666,Dormant / At-Risk,0.089
+F02003,Dormant / At-Risk,0.089
+F02081,Dormant / At-Risk,0.089
+F02090,Casual Followers,0.089
+F02468,Dormant / At-Risk,0.089
+F05802,Digital Browsers,0.089
+F05785,Digital Browsers,0.089
+F05677,Digital Browsers,0.089
+F04863,Dormant / At-Risk,0.089
+F02577,Dormant / At-Risk,0.089
+F01142,Dormant / At-Risk,0.089
+F03775,Dormant / At-Risk,0.089
+F01899,Digital Browsers,0.089
+F00764,Dormant / At-Risk,0.089
+F03136,Dormant / At-Risk,0.089
+F01307,Dormant / At-Risk,0.089
+F05955,Digital Browsers,0.089
+F03703,Dormant / At-Risk,0.089
+F00849,Digital Browsers,0.089
+F04284,Dormant / At-Risk,0.089
+F02578,Dormant / At-Risk,0.089
+F03161,Dormant / At-Risk,0.089
+F01510,Dormant / At-Risk,0.089
+F01856,Dormant / At-Risk,0.089
+F03148,Dormant / At-Risk,0.089
+F01787,Dormant / At-Risk,0.089
+F01450,Dormant / At-Risk,0.089
+F04546,Digital Browsers,0.089
+F01325,Dormant / At-Risk,0.089
+F01299,Dormant / At-Risk,0.089
+F05903,Dormant / At-Risk,0.089
+F01314,Dormant / At-Risk,0.089
+F01209,Dormant / At-Risk,0.089
+F03453,Digital Browsers,0.089
+F03506,Casual Followers,0.089
+F04737,Digital Browsers,0.089
+F04729,Dormant / At-Risk,0.089
+F01333,Dormant / At-Risk,0.089
+F02693,Dormant / At-Risk,0.089
+F04532,Casual Followers,0.089
+F00043,Digital Browsers,0.089
+F00038,Dormant / At-Risk,0.089
+F02731,Dormant / At-Risk,0.089
+F05992,Dormant / At-Risk,0.088
+F02688,Casual Followers,0.088
+F00499,Digital Browsers,0.088
+F03413,Dormant / At-Risk,0.088
+F04538,Dormant / At-Risk,0.088
+F04544,Dormant / At-Risk,0.088
+F01345,Dormant / At-Risk,0.088
+F05931,Dormant / At-Risk,0.088
+F04147,Dormant / At-Risk,0.088
+F02707,Digital Browsers,0.088
+F01357,Dormant / At-Risk,0.088
+F01370,Dormant / At-Risk,0.088
+F03495,Casual Followers,0.088
+F04513,Digital Browsers,0.088
+F00346,Dormant / At-Risk,0.088
+F00760,Digital Browsers,0.088
+F03144,Dormant / At-Risk,0.088
+F01880,Dormant / At-Risk,0.088
+F01955,Digital Browsers,0.088
+F05962,Dormant / At-Risk,0.088
+F01292,Digital Browsers,0.088
+F05934,Dormant / At-Risk,0.088
+F04835,Dormant / At-Risk,0.088
+F01853,Dormant / At-Risk,0.088
+F01847,Digital Browsers,0.088
+F01862,Dormant / At-Risk,0.088
+F04857,Dormant / At-Risk,0.088
+F03354,Digital Browsers,0.088
+F02585,Dormant / At-Risk,0.088
+F05512,Casual Followers,0.088
+F02055,Dormant / At-Risk,0.088
+F04378,Digital Browsers,0.088
+F04388,Dormant / At-Risk,0.088
+F00717,Dormant / At-Risk,0.088
+F00722,Dormant / At-Risk,0.088
+F03543,Digital Browsers,0.088
+F04499,Dormant / At-Risk,0.088
+F05006,Dormant / At-Risk,0.088
+F02175,Dormant / At-Risk,0.088
+F02160,Casual Followers,0.088
+F00181,Dormant / At-Risk,0.088
+F04136,Dormant / At-Risk,0.088
+F03365,Digital Browsers,0.088
+F03572,Dormant / At-Risk,0.088
+F03574,Digital Browsers,0.088
+F05490,Dormant / At-Risk,0.088
+F01078,Casual Followers,0.088
+F00265,Dormant / At-Risk,0.088
+F05896,Dormant / At-Risk,0.088
+F05496,Digital Browsers,0.088
+F02568,Casual Followers,0.088
+F03203,Digital Browsers,0.088
+F03205,Digital Browsers,0.088
+F05795,Digital Browsers,0.088
+F03998,Dormant / At-Risk,0.088
+F05111,Dormant / At-Risk,0.088
+F04648,Digital Browsers,0.088
+F00922,Dormant / At-Risk,0.088
+F00925,Dormant / At-Risk,0.088
+F03897,Dormant / At-Risk,0.088
+F00569,Dormant / At-Risk,0.088
+F05728,Dormant / At-Risk,0.088
+F03296,Dormant / At-Risk,0.088
+F05296,Digital Browsers,0.088
+F03577,Casual Followers,0.088
+F04064,Digital Browsers,0.088
+F02854,Dormant / At-Risk,0.088
+F00792,Digital Browsers,0.088
+F03119,Digital Browsers,0.088
+F04423,Dormant / At-Risk,0.088
+F04732,Digital Browsers,0.088
+F02240,Digital Browsers,0.088
+F04995,Dormant / At-Risk,0.088
+F04304,Dormant / At-Risk,0.088
+F00582,Casual Followers,0.088
+F05002,Digital Browsers,0.088
+F01469,Dormant / At-Risk,0.088
+F01470,Dormant / At-Risk,0.088
+F01671,Dormant / At-Risk,0.088
+F01673,Casual Followers,0.088
+F04589,Dormant / At-Risk,0.088
+F04902,Dormant / At-Risk,0.088
+F00257,Dormant / At-Risk,0.088
+F01658,Digital Browsers,0.088
+F01713,Dormant / At-Risk,0.088
+F05866,Dormant / At-Risk,0.088
+F05086,Casual Followers,0.088
+F00030,Digital Browsers,0.088
+F00600,Dormant / At-Risk,0.088
+F04712,Dormant / At-Risk,0.088
+F04439,Dormant / At-Risk,0.088
+F01721,Digital Browsers,0.088
+F02998,Dormant / At-Risk,0.088
+F02907,Dormant / At-Risk,0.088
+F02298,Dormant / At-Risk,0.088
+F02285,Dormant / At-Risk,0.088
+F01050,Dormant / At-Risk,0.088
+F01026,Casual Followers,0.088
+F01392,Dormant / At-Risk,0.088
+F01145,Dormant / At-Risk,0.088
+F01937,Dormant / At-Risk,0.088
+F00427,Digital Browsers,0.088
+F04969,Dormant / At-Risk,0.088
+F02865,Dormant / At-Risk,0.088
+F00758,Dormant / At-Risk,0.088
+F02841,Dormant / At-Risk,0.088
+F05449,Dormant / At-Risk,0.088
+F03475,Digital Browsers,0.088
+F03466,Dormant / At-Risk,0.088
+F01420,Dormant / At-Risk,0.088
+F05477,Dormant / At-Risk,0.088
+F04112,Digital Browsers,0.088
+F05855,Dormant / At-Risk,0.087
+F04874,Dormant / At-Risk,0.087
+F05232,Digital Browsers,0.087
+F04494,Digital Browsers,0.087
+F01648,Dormant / At-Risk,0.087
+F05017,Dormant / At-Risk,0.087
+F04350,Dormant / At-Risk,0.087
+F02246,Dormant / At-Risk,0.087
+F02532,Digital Browsers,0.087
+F02190,Dormant / At-Risk,0.087
+F05849,Dormant / At-Risk,0.087
+F02234,Casual Followers,0.087
+F02042,Dormant / At-Risk,0.087
+F05126,Dormant / At-Risk,0.087
+F02087,Digital Browsers,0.087
+F00669,Dormant / At-Risk,0.087
+F03558,Dormant / At-Risk,0.087
+F01132,Digital Browsers,0.087
+F05575,Dormant / At-Risk,0.087
+F04650,Dormant / At-Risk,0.087
+F03180,Dormant / At-Risk,0.087
+F05211,Digital Browsers,0.087
+F03676,Dormant / At-Risk,0.087
+F00546,Digital Browsers,0.087
+F03803,Digital Browsers,0.087
+F03790,Dormant / At-Risk,0.087
+F04930,Dormant / At-Risk,0.087
+F02265,Dormant / At-Risk,0.087
+F04030,Dormant / At-Risk,0.087
+F04069,Dormant / At-Risk,0.087
+F04072,Digital Browsers,0.087
+F03152,Digital Browsers,0.087
+F02676,Dormant / At-Risk,0.087
+F04149,Digital Browsers,0.087
+F01117,Dormant / At-Risk,0.087
+F05854,Dormant / At-Risk,0.087
+F00281,Digital Browsers,0.087
+F04777,Dormant / At-Risk,0.087
+F02357,Dormant / At-Risk,0.087
+F03922,Digital Browsers,0.087
+F03704,Dormant / At-Risk,0.087
+F04847,Dormant / At-Risk,0.087
+F02426,Dormant / At-Risk,0.087
+F01978,Digital Browsers,0.087
+F04251,Dormant / At-Risk,0.087
+F04755,Digital Browsers,0.087
+F05837,Dormant / At-Risk,0.087
+F02815,Dormant / At-Risk,0.087
+F02995,Dormant / At-Risk,0.087
+F01707,Dormant / At-Risk,0.087
+F05300,Digital Browsers,0.087
+F01551,Dormant / At-Risk,0.087
+F04797,Dormant / At-Risk,0.087
+F04255,Digital Browsers,0.087
+F02600,Dormant / At-Risk,0.087
+F04884,Dormant / At-Risk,0.087
+F04893,Dormant / At-Risk,0.087
+F05485,Dormant / At-Risk,0.087
+F02483,Dormant / At-Risk,0.087
+F00632,Digital Browsers,0.087
+F02946,Dormant / At-Risk,0.087
+F02932,Dormant / At-Risk,0.087
+F03899,Dormant / At-Risk,0.087
+F00483,Dormant / At-Risk,0.087
+F00479,Dormant / At-Risk,0.087
+F01486,Dormant / At-Risk,0.087
+F00651,Dormant / At-Risk,0.087
+F00366,Dormant / At-Risk,0.087
+F02289,Dormant / At-Risk,0.087
+F01121,Casual Followers,0.087
+F01131,Dormant / At-Risk,0.087
+F02485,Dormant / At-Risk,0.087
+F05459,Dormant / At-Risk,0.087
+F05269,Dormant / At-Risk,0.087
+F03246,Dormant / At-Risk,0.087
+F01398,Dormant / At-Risk,0.087
+F01009,Dormant / At-Risk,0.087
+F01062,Dormant / At-Risk,0.087
+F01025,Digital Browsers,0.087
+F02097,Dormant / At-Risk,0.087
+F02157,Dormant / At-Risk,0.087
+F03035,Digital Browsers,0.087
+F00588,Dormant / At-Risk,0.087
+F02490,Dormant / At-Risk,0.087
+F01024,Dormant / At-Risk,0.087
+F01019,Dormant / At-Risk,0.087
+F05094,Dormant / At-Risk,0.087
+F05069,Dormant / At-Risk,0.087
+F00564,Dormant / At-Risk,0.087
+F03894,Dormant / At-Risk,0.087
+F05716,Digital Browsers,0.087
+F01730,Dormant / At-Risk,0.087
+F04453,Dormant / At-Risk,0.087
+F04456,Dormant / At-Risk,0.087
+F03912,Digital Browsers,0.087
+F04470,Dormant / At-Risk,0.087
+F01482,Digital Browsers,0.087
+F00690,Dormant / At-Risk,0.087
+F03535,Casual Followers,0.087
+F03362,Dormant / At-Risk,0.087
+F00580,Dormant / At-Risk,0.087
+F02976,Dormant / At-Risk,0.087
+F05928,Digital Browsers,0.087
+F04668,Dormant / At-Risk,0.087
+F00687,Dormant / At-Risk,0.087
+F05910,Dormant / At-Risk,0.087
+F03122,Dormant / At-Risk,0.087
+F04766,Dormant / At-Risk,0.087
+F00293,Dormant / At-Risk,0.087
+F04373,Dormant / At-Risk,0.087
+F02403,Digital Browsers,0.087
+F00824,Dormant / At-Risk,0.087
+F00822,Dormant / At-Risk,0.087
+F00840,Digital Browsers,0.087
+F02436,Dormant / At-Risk,0.087
+F00389,Digital Browsers,0.087
+F00766,Dormant / At-Risk,0.087
+F02254,Digital Browsers,0.087
+F04942,Dormant / At-Risk,0.087
+F04956,Dormant / At-Risk,0.087
+F00780,Dormant / At-Risk,0.087
+F01263,Dormant / At-Risk,0.087
+F00049,Digital Browsers,0.087
+F02678,Dormant / At-Risk,0.087
+F01326,Dormant / At-Risk,0.087
+F04817,Dormant / At-Risk,0.087
+F05405,Dormant / At-Risk,0.087
+F05918,Dormant / At-Risk,0.087
+F01895,Casual Followers,0.087
+F02720,Dormant / At-Risk,0.087
+F01906,Dormant / At-Risk,0.087
+F03387,Digital Browsers,0.087
+F05476,Dormant / At-Risk,0.087
+F01186,Dormant / At-Risk,0.087
+F01239,Dormant / At-Risk,0.087
+F04535,Digital Browsers,0.087
+F04533,Digital Browsers,0.087
+F05747,Dormant / At-Risk,0.087
+F05949,Dormant / At-Risk,0.087
+F04540,Dormant / At-Risk,0.087
+F02656,Dormant / At-Risk,0.087
+F02660,Dormant / At-Risk,0.087
+F00762,Casual Followers,0.087
+F04999,Casual Followers,0.087
+F05146,Dormant / At-Risk,0.087
+F05748,Dormant / At-Risk,0.087
+F05439,Digital Browsers,0.087
+F04379,Dormant / At-Risk,0.087
+F00700,Digital Browsers,0.087
+F01282,Dormant / At-Risk,0.087
+F02027,Dormant / At-Risk,0.087
+F03792,Dormant / At-Risk,0.087
+F00708,Dormant / At-Risk,0.087
+F01377,Dormant / At-Risk,0.087
+F01368,Dormant / At-Risk,0.087
+F00504,Dormant / At-Risk,0.087
+F05447,Dormant / At-Risk,0.087
+F05448,Dormant / At-Risk,0.087
+F02354,Digital Browsers,0.087
+F02352,Dormant / At-Risk,0.087
+F01840,Dormant / At-Risk,0.087
+F01910,Casual Followers,0.087
+F04586,Dormant / At-Risk,0.087
+F03072,Digital Browsers,0.087
+F01838,Dormant / At-Risk,0.087
+F01198,Digital Browsers,0.087
+F00339,Dormant / At-Risk,0.087
+F00810,Dormant / At-Risk,0.087
+F01447,Dormant / At-Risk,0.087
+F04193,Dormant / At-Risk,0.086
+F02736,Dormant / At-Risk,0.086
+F01279,Dormant / At-Risk,0.086
+F00023,Casual Followers,0.086
+F05952,Dormant / At-Risk,0.086
+F00262,Dormant / At-Risk,0.086
+F01485,Dormant / At-Risk,0.086
+F04869,Dormant / At-Risk,0.086
+F00068,Dormant / At-Risk,0.086
+F04849,Dormant / At-Risk,0.086
+F00116,Dormant / At-Risk,0.086
+F04537,Digital Browsers,0.086
+F00779,Dormant / At-Risk,0.086
+F00033,Dormant / At-Risk,0.086
+F04176,Dormant / At-Risk,0.086
+F04173,Dormant / At-Risk,0.086
+F00111,Dormant / At-Risk,0.086
+F04738,Dormant / At-Risk,0.086
+F03891,Dormant / At-Risk,0.086
+F03902,Dormant / At-Risk,0.086
+F02694,Digital Browsers,0.086
+F04746,Dormant / At-Risk,0.086
+F03947,Digital Browsers,0.086
+F00497,Dormant / At-Risk,0.086
+F04603,Dormant / At-Risk,0.086
+F04206,Digital Browsers,0.086
+F01523,Digital Browsers,0.086
+F03360,Digital Browsers,0.086
+F02221,Digital Browsers,0.086
+F05968,Digital Browsers,0.086
+F02956,Dormant / At-Risk,0.086
+F03530,Dormant / At-Risk,0.086
+F03420,Digital Browsers,0.086
+F02421,Dormant / At-Risk,0.086
+F01223,Dormant / At-Risk,0.086
+F01224,Dormant / At-Risk,0.086
+F04272,Dormant / At-Risk,0.086
+F02875,Dormant / At-Risk,0.086
+F04617,Dormant / At-Risk,0.086
+F05453,Digital Browsers,0.086
+F03541,Dormant / At-Risk,0.086
+F00287,Dormant / At-Risk,0.086
+F00528,Digital Browsers,0.086
+F03917,Digital Browsers,0.086
+F02986,Dormant / At-Risk,0.086
+F05391,Dormant / At-Risk,0.086
+F05397,Dormant / At-Risk,0.086
+F04844,Dormant / At-Risk,0.086
+F05730,Dormant / At-Risk,0.086
+F03095,Digital Browsers,0.086
+F04148,Digital Browsers,0.086
+F00576,Dormant / At-Risk,0.086
+F03116,Digital Browsers,0.086
+F03290,Digital Browsers,0.086
+F00772,Dormant / At-Risk,0.086
+F03350,Digital Browsers,0.086
+F05041,Dormant / At-Risk,0.086
+F01634,Dormant / At-Risk,0.086
+F05508,Dormant / At-Risk,0.086
+F01104,Dormant / At-Risk,0.086
+F03602,Dormant / At-Risk,0.086
+F03625,Dormant / At-Risk,0.086
+F03479,Dormant / At-Risk,0.086
+F01415,Dormant / At-Risk,0.086
+F05505,Dormant / At-Risk,0.086
+F00554,Digital Browsers,0.086
+F04614,Dormant / At-Risk,0.086
+F00364,Dormant / At-Risk,0.086
+F02007,Dormant / At-Risk,0.086
+F00392,Dormant / At-Risk,0.086
+F00802,Dormant / At-Risk,0.086
+F00797,Dormant / At-Risk,0.086
+F05605,Digital Browsers,0.086
+F01861,Dormant / At-Risk,0.086
+F03725,Digital Browsers,0.086
+F03150,Dormant / At-Risk,0.086
+F03179,Dormant / At-Risk,0.086
+F03165,Dormant / At-Risk,0.086
+F00857,Dormant / At-Risk,0.086
+F03696,Dormant / At-Risk,0.086
+F05656,Dormant / At-Risk,0.086
+F00125,Digital Browsers,0.086
+F05602,Digital Browsers,0.086
+F05615,Dormant / At-Risk,0.086
+F00787,Casual Followers,0.086
+F05192,Digital Browsers,0.086
+F05190,Dormant / At-Risk,0.086
+F04075,Dormant / At-Risk,0.086
+F04019,Dormant / At-Risk,0.086
+F04074,Digital Browsers,0.086
+F04657,Dormant / At-Risk,0.086
+F03740,Casual Followers,0.086
+F03741,Dormant / At-Risk,0.086
+F03197,Dormant / At-Risk,0.086
+F03661,Digital Browsers,0.086
+F04429,Dormant / At-Risk,0.086
+F01690,Dormant / At-Risk,0.086
+F00672,Dormant / At-Risk,0.086
+F03520,Digital Browsers,0.086
+F01297,Dormant / At-Risk,0.086
+F05997,Dormant / At-Risk,0.086
+F04820,Dormant / At-Risk,0.086
+F02624,Dormant / At-Risk,0.086
+F04814,Dormant / At-Risk,0.086
+F04818,Dormant / At-Risk,0.086
+F02627,Digital Browsers,0.086
+F04158,Dormant / At-Risk,0.086
+F02422,Dormant / At-Risk,0.086
+F05744,Dormant / At-Risk,0.086
+F00518,Dormant / At-Risk,0.086
+F04515,Dormant / At-Risk,0.086
+F02652,Digital Browsers,0.086
+F02662,Digital Browsers,0.086
+F04953,Dormant / At-Risk,0.086
+F02312,Dormant / At-Risk,0.086
+F04987,Dormant / At-Risk,0.086
+F04300,Dormant / At-Risk,0.086
+F02926,Dormant / At-Risk,0.086
+F05767,Dormant / At-Risk,0.086
+F03547,Dormant / At-Risk,0.086
+F04672,Dormant / At-Risk,0.086
+F04673,Dormant / At-Risk,0.086
+F04397,Digital Browsers,0.086
+F04909,Dormant / At-Risk,0.086
+F04910,Dormant / At-Risk,0.086
+F05168,Digital Browsers,0.086
+F01929,Dormant / At-Risk,0.086
+F04683,Dormant / At-Risk,0.086
+F00390,Dormant / At-Risk,0.086
+F04978,Dormant / At-Risk,0.086
+F05712,Dormant / At-Risk,0.086
+F03022,Dormant / At-Risk,0.086
+F02134,Dormant / At-Risk,0.086
+F00619,Dormant / At-Risk,0.086
+F04704,Dormant / At-Risk,0.086
+F04457,Dormant / At-Risk,0.086
+F02036,Digital Browsers,0.086
+F02038,Dormant / At-Risk,0.086
+F03877,Digital Browsers,0.086
+F01650,Dormant / At-Risk,0.086
+F01653,Dormant / At-Risk,0.086
+F01656,Dormant / At-Risk,0.086
+F01699,Dormant / At-Risk,0.086
+F03224,Dormant / At-Risk,0.086
+F05556,Dormant / At-Risk,0.086
+F04876,Dormant / At-Risk,0.086
+F01703,Digital Browsers,0.086
+F05320,Casual Followers,0.086
+F04134,Dormant / At-Risk,0.086
+F04786,Dormant / At-Risk,0.086
+F02491,Dormant / At-Risk,0.086
+F00432,Digital Browsers,0.086
+F03956,Dormant / At-Risk,0.086
+F00473,Digital Browsers,0.086
+F03048,Dormant / At-Risk,0.086
+F01044,Dormant / At-Risk,0.086
+F01675,Digital Browsers,0.086
+F00633,Digital Browsers,0.086
+F02908,Dormant / At-Risk,0.086
+F02291,Digital Browsers,0.086
+F02486,Dormant / At-Risk,0.086
+F05691,Dormant / At-Risk,0.086
+F02462,Dormant / At-Risk,0.086
+F00290,Dormant / At-Risk,0.086
+F02796,Digital Browsers,0.086
+F00274,Dormant / At-Risk,0.086
+F04768,Dormant / At-Risk,0.086
+F04774,Dormant / At-Risk,0.086
+F02348,Dormant / At-Risk,0.086
+F05792,Dormant / At-Risk,0.086
+F00411,Dormant / At-Risk,0.086
+F00398,Dormant / At-Risk,0.086
+F03697,Dormant / At-Risk,0.086
+F00894,Dormant / At-Risk,0.086
+F03103,Dormant / At-Risk,0.086
+F02324,Dormant / At-Risk,0.086
+F03248,Dormant / At-Risk,0.086
+F05240,Dormant / At-Risk,0.086
+F01666,Digital Browsers,0.086
+F04363,Dormant / At-Risk,0.086
+F02794,Dormant / At-Risk,0.086
+F02533,Dormant / At-Risk,0.086
+F02827,Dormant / At-Risk,0.086
+F00237,Dormant / At-Risk,0.086
+F05688,Dormant / At-Risk,0.086
+F00670,Dormant / At-Risk,0.086
+F03844,Dormant / At-Risk,0.086
+F05107,Dormant / At-Risk,0.086
+F01750,Dormant / At-Risk,0.086
+F03681,Dormant / At-Risk,0.086
+F05685,Dormant / At-Risk,0.086
+F03267,Dormant / At-Risk,0.086
+F01756,Dormant / At-Risk,0.086
+F00548,Dormant / At-Risk,0.085
+F05984,Dormant / At-Risk,0.085
+F00041,Dormant / At-Risk,0.085
+F05409,Dormant / At-Risk,0.085
+F05436,Dormant / At-Risk,0.085
+F03427,Dormant / At-Risk,0.085
+F04812,Dormant / At-Risk,0.085
+F01290,Dormant / At-Risk,0.085
+F05390,Dormant / At-Risk,0.085
+F04182,Dormant / At-Risk,0.085
+F00134,Dormant / At-Risk,0.085
+F05915,Dormant / At-Risk,0.085
+F04142,Dormant / At-Risk,0.085
+F01574,Dormant / At-Risk,0.085
+F01191,Dormant / At-Risk,0.085
+F01527,Digital Browsers,0.085
+F01520,Digital Browsers,0.085
+F01532,Dormant / At-Risk,0.085
+F00053,Casual Followers,0.085
+F03051,Dormant / At-Risk,0.085
+F00472,Dormant / At-Risk,0.085
+F02949,Dormant / At-Risk,0.085
+F02904,Casual Followers,0.085
+F03927,Dormant / At-Risk,0.085
+F00629,Dormant / At-Risk,0.085
+F05060,Dormant / At-Risk,0.085
+F03027,Dormant / At-Risk,0.085
+F03852,Digital Browsers,0.085
+F02902,Dormant / At-Risk,0.085
+F05467,Dormant / At-Risk,0.085
+F05472,Dormant / At-Risk,0.085
+F01168,Digital Browsers,0.085
+F01403,Dormant / At-Risk,0.085
+F05377,Dormant / At-Risk,0.085
+F00593,Digital Browsers,0.085
+F03314,Dormant / At-Risk,0.085
+F00224,Digital Browsers,0.085
+F00182,Digital Browsers,0.085
+F05331,Digital Browsers,0.085
+F02556,Digital Browsers,0.085
+F04861,Dormant / At-Risk,0.085
+F01458,Dormant / At-Risk,0.085
+F01471,Dormant / At-Risk,0.085
+F03539,Dormant / At-Risk,0.085
+F01187,Digital Browsers,0.085
+F00183,Dormant / At-Risk,0.085
+F04137,Dormant / At-Risk,0.085
+F04236,Digital Browsers,0.085
+F04615,Digital Browsers,0.085
+F04612,Dormant / At-Risk,0.085
+F05547,Dormant / At-Risk,0.085
+F01466,Dormant / At-Risk,0.085
+F01452,Dormant / At-Risk,0.085
+F04353,Digital Browsers,0.085
+F05131,Dormant / At-Risk,0.085
+F02031,Dormant / At-Risk,0.085
+F03874,Dormant / At-Risk,0.085
+F04702,Dormant / At-Risk,0.085
+F00702,Digital Browsers,0.085
+F05670,Dormant / At-Risk,0.085
+F05788,Digital Browsers,0.085
+F00401,Dormant / At-Risk,0.085
+F00558,Digital Browsers,0.085
+F05710,Digital Browsers,0.085
+F05066,Digital Browsers,0.085
+F05105,Digital Browsers,0.085
+F04810,Digital Browsers,0.085
+F02739,Dormant / At-Risk,0.085
+F02594,Dormant / At-Risk,0.085
+F01609,Dormant / At-Risk,0.085
+F04594,Dormant / At-Risk,0.085
+F02566,Digital Browsers,0.085
+F00160,Dormant / At-Risk,0.085
+F01120,Dormant / At-Risk,0.085
+F01125,Dormant / At-Risk,0.085
+F05509,Digital Browsers,0.085
+F03580,Digital Browsers,0.085
+F02546,Dormant / At-Risk,0.085
+F02561,Digital Browsers,0.085
+F03244,Dormant / At-Risk,0.085
+F01158,Dormant / At-Risk,0.085
+F05484,Dormant / At-Risk,0.085
+F02861,Dormant / At-Risk,0.085
+F04962,Digital Browsers,0.085
+F00726,Dormant / At-Risk,0.085
+F00727,Dormant / At-Risk,0.085
+F00728,Dormant / At-Risk,0.085
+F00769,Dormant / At-Risk,0.085
+F00757,Dormant / At-Risk,0.085
+F01983,Dormant / At-Risk,0.085
+F02025,Dormant / At-Risk,0.085
+F00404,Dormant / At-Risk,0.085
+F00697,Dormant / At-Risk,0.085
+F00704,Digital Browsers,0.085
+F00773,Dormant / At-Risk,0.085
+F02118,Digital Browsers,0.085
+F05085,Dormant / At-Risk,0.085
+F04685,Digital Browsers,0.085
+F05133,Dormant / At-Risk,0.085
+F01621,Digital Browsers,0.085
+F05284,Dormant / At-Risk,0.085
+F04877,Dormant / At-Risk,0.085
+F04885,Dormant / At-Risk,0.085
+F01014,Digital Browsers,0.085
+F03307,Dormant / At-Risk,0.085
+F03564,Dormant / At-Risk,0.085
+F03623,Dormant / At-Risk,0.085
+F05286,Dormant / At-Risk,0.085
+F01084,Dormant / At-Risk,0.085
+F01563,Digital Browsers,0.085
+F01584,Digital Browsers,0.085
+F02513,Dormant / At-Risk,0.085
+F04795,Dormant / At-Risk,0.085
+F04243,Dormant / At-Risk,0.085
+F04625,Digital Browsers,0.085
+F03665,Dormant / At-Risk,0.085
+F03668,Dormant / At-Risk,0.085
+F03599,Digital Browsers,0.085
+F03601,Dormant / At-Risk,0.085
+F05830,Dormant / At-Risk,0.085
+F02431,Dormant / At-Risk,0.085
+F02829,Dormant / At-Risk,0.085
+F01934,Digital Browsers,0.085
+F04427,Dormant / At-Risk,0.085
+F04662,Dormant / At-Risk,0.085
+F04665,Dormant / At-Risk,0.085
+F00755,Digital Browsers,0.085
+F05818,Dormant / At-Risk,0.085
+F03731,Digital Browsers,0.085
+F01811,Dormant / At-Risk,0.085
+F04406,Dormant / At-Risk,0.085
+F00742,Dormant / At-Risk,0.085
+F00746,Dormant / At-Risk,0.085
+F02009,Dormant / At-Risk,0.085
+F02015,Digital Browsers,0.085
+F03118,Digital Browsers,0.085
+F01883,Dormant / At-Risk,0.085
+F02412,Dormant / At-Risk,0.085
+F04092,Digital Browsers,0.085
+F05184,Dormant / At-Risk,0.085
+F03163,Casual Followers,0.085
+F03171,Dormant / At-Risk,0.085
+F01854,Dormant / At-Risk,0.085
+F05608,Dormant / At-Risk,0.085
+F03721,Dormant / At-Risk,0.085
+F03714,Dormant / At-Risk,0.085
+F00902,Dormant / At-Risk,0.085
+F01962,Digital Browsers,0.085
+F01912,Dormant / At-Risk,0.085
+F01866,Dormant / At-Risk,0.085
+F04077,Digital Browsers,0.085
+F02779,Casual Followers,0.085
+F02785,Dormant / At-Risk,0.085
+F02790,Digital Browsers,0.085
+F04474,Dormant / At-Risk,0.085
+F04467,Dormant / At-Risk,0.085
+F00239,Dormant / At-Risk,0.085
+F03231,Dormant / At-Risk,0.085
+F01738,Dormant / At-Risk,0.085
+F01015,Digital Browsers,0.085
+F03191,Dormant / At-Risk,0.085
+F03204,Digital Browsers,0.085
+F00270,Digital Browsers,0.085
+F03218,Dormant / At-Risk,0.085
+F03270,Dormant / At-Risk,0.085
+F02506,Digital Browsers,0.085
+F02507,Dormant / At-Risk,0.085
+F02492,Casual Followers,0.085
+F01790,Dormant / At-Risk,0.085
+F00953,Dormant / At-Risk,0.085
+F04640,Dormant / At-Risk,0.085
+F04651,Digital Browsers,0.085
+F00941,Dormant / At-Risk,0.085
+F02458,Dormant / At-Risk,0.085
+F00949,Dormant / At-Risk,0.085
+F05623,Digital Browsers,0.085
+F00302,Dormant / At-Risk,0.085
+F04043,Dormant / At-Risk,0.085
+F03182,Dormant / At-Risk,0.085
+F05216,Dormant / At-Risk,0.085
+F05760,Digital Browsers,0.085
+F04303,Dormant / At-Risk,0.085
+F03975,Digital Browsers,0.085
+F04994,Dormant / At-Risk,0.085
+F03993,Dormant / At-Risk,0.085
+F03962,Dormant / At-Risk,0.085
+F05758,Dormant / At-Risk,0.085
+F02170,Digital Browsers,0.085
+F02180,Dormant / At-Risk,0.085
+F01264,Digital Browsers,0.085
+F01317,Dormant / At-Risk,0.085
+F01320,Dormant / At-Risk,0.085
+F02985,Dormant / At-Risk,0.085
+F05008,Casual Followers,0.085
+F05024,Digital Browsers,0.085
+F02758,Digital Browsers,0.085
+F01151,Dormant / At-Risk,0.085
+F05455,Digital Browsers,0.085
+F02609,Digital Browsers,0.085
+F04514,Dormant / At-Risk,0.085
+F03345,Dormant / At-Risk,0.085
+F03399,Dormant / At-Risk,0.085
+F04157,Dormant / At-Risk,0.085
+F03376,Dormant / At-Risk,0.085
+F01446,Dormant / At-Risk,0.085
+F01449,Dormant / At-Risk,0.085
+F03463,Digital Browsers,0.085
+F02760,Dormant / At-Risk,0.085
+F02666,Dormant / At-Risk,0.085
+F04551,Digital Browsers,0.085
+F01302,Digital Browsers,0.085
+F00069,Digital Browsers,0.085
+F01210,Dormant / At-Risk,0.085
+F01227,Dormant / At-Risk,0.085
+F05942,Digital Browsers,0.084
+F01349,Casual Followers,0.084
+F01216,Digital Browsers,0.084
+F04576,Dormant / At-Risk,0.084
+F02750,Digital Browsers,0.084
+F04560,Dormant / At-Risk,0.084
+F04510,Dormant / At-Risk,0.084
+F03507,Dormant / At-Risk,0.084
+F04108,Dormant / At-Risk,0.084
+F00200,Dormant / At-Risk,0.084
+F00143,Digital Browsers,0.084
+F02744,Dormant / At-Risk,0.084
+F01161,Dormant / At-Risk,0.084
+F01265,Digital Browsers,0.084
+F01276,Dormant / At-Risk,0.084
+F04317,Digital Browsers,0.084
+F04326,Digital Browsers,0.084
+F00547,Dormant / At-Risk,0.084
+F04330,Dormant / At-Risk,0.084
+F02308,Digital Browsers,0.084
+F04983,Dormant / At-Risk,0.084
+F04973,Dormant / At-Risk,0.084
+F02979,Digital Browsers,0.084
+F04725,Dormant / At-Risk,0.084
+F05759,Dormant / At-Risk,0.084
+F05766,Dormant / At-Risk,0.084
+F05770,Dormant / At-Risk,0.084
+F00078,Dormant / At-Risk,0.084
+F00099,Dormant / At-Risk,0.084
+F02724,Dormant / At-Risk,0.084
+F00360,Dormant / At-Risk,0.084
+F00348,Dormant / At-Risk,0.084
+F03184,Dormant / At-Risk,0.084
+F05225,Dormant / At-Risk,0.084
+F00853,Dormant / At-Risk,0.084
+F05557,Digital Browsers,0.084
+F00942,Dormant / At-Risk,0.084
+F02494,Dormant / At-Risk,0.084
+F04647,Dormant / At-Risk,0.084
+F04649,Dormant / At-Risk,0.084
+F00325,Digital Browsers,0.084
+F00277,Dormant / At-Risk,0.084
+F02809,Dormant / At-Risk,0.084
+F02817,Dormant / At-Risk,0.084
+F02819,Dormant / At-Risk,0.084
+F01791,Dormant / At-Risk,0.084
+F01798,Dormant / At-Risk,0.084
+F03695,Dormant / At-Risk,0.084
+F04044,Dormant / At-Risk,0.084
+F01031,Dormant / At-Risk,0.084
+F01729,Dormant / At-Risk,0.084
+F03271,Dormant / At-Risk,0.084
+F01063,Dormant / At-Risk,0.084
+F02535,Dormant / At-Risk,0.084
+F02536,Digital Browsers,0.084
+F03644,Dormant / At-Risk,0.084
+F04463,Digital Browsers,0.084
+F04438,Dormant / At-Risk,0.084
+F05859,Digital Browsers,0.084
+F00248,Dormant / At-Risk,0.084
+F00238,Digital Browsers,0.084
+F04443,Dormant / At-Risk,0.084
+F01771,Dormant / At-Risk,0.084
+F05258,Dormant / At-Risk,0.084
+F01949,Dormant / At-Risk,0.084
+F01956,Dormant / At-Risk,0.084
+F03773,Digital Browsers,0.084
+F01867,Digital Browsers,0.084
+F05596,Dormant / At-Risk,0.084
+F03723,Digital Browsers,0.084
+F03711,Digital Browsers,0.084
+F01783,Digital Browsers,0.084
+F00907,Dormant / At-Risk,0.084
+F00864,Dormant / At-Risk,0.084
+F03157,Dormant / At-Risk,0.084
+F04921,Dormant / At-Risk,0.084
+F04929,Dormant / At-Risk,0.084
+F04933,Dormant / At-Risk,0.084
+F02417,Dormant / At-Risk,0.084
+F02802,Digital Browsers,0.084
+F03699,Digital Browsers,0.084
+F05178,Digital Browsers,0.084
+F05612,Dormant / At-Risk,0.084
+F05160,Dormant / At-Risk,0.084
+F01868,Dormant / At-Risk,0.084
+F01924,Dormant / At-Risk,0.084
+F00818,Dormant / At-Risk,0.084
+F00842,Dormant / At-Risk,0.084
+F00299,Dormant / At-Risk,0.084
+F00781,Dormant / At-Risk,0.084
+F04425,Dormant / At-Risk,0.084
+F04412,Dormant / At-Risk,0.084
+F00811,Dormant / At-Risk,0.084
+F04283,Dormant / At-Risk,0.084
+F02842,Digital Browsers,0.084
+F01944,Dormant / At-Risk,0.084
+F01945,Dormant / At-Risk,0.084
+F04632,Digital Browsers,0.084
+F05851,Dormant / At-Risk,0.084
+F01095,Digital Browsers,0.084
+F05546,Digital Browsers,0.084
+F01548,Casual Followers,0.084
+F00252,Dormant / At-Risk,0.084
+F03619,Digital Browsers,0.084
+F03626,Dormant / At-Risk,0.084
+F05285,Digital Browsers,0.084
+F05290,Digital Browsers,0.084
+F04889,Dormant / At-Risk,0.084
+F01054,Dormant / At-Risk,0.084
+F04694,Dormant / At-Risk,0.084
+F04699,Dormant / At-Risk,0.084
+F05132,Dormant / At-Risk,0.084
+F05138,Digital Browsers,0.084
+F05145,Dormant / At-Risk,0.084
+F01935,Digital Browsers,0.084
+F04964,Digital Browsers,0.084
+F04968,Dormant / At-Risk,0.084
+F04032,Digital Browsers,0.084
+F03134,Dormant / At-Risk,0.084
+F03088,Dormant / At-Risk,0.084
+F00422,Dormant / At-Risk,0.084
+F02867,Dormant / At-Risk,0.084
+F04943,Digital Browsers,0.084
+F04960,Digital Browsers,0.084
+F03294,Dormant / At-Risk,0.084
+F03259,Dormant / At-Risk,0.084
+F03257,Dormant / At-Risk,0.084
+F05280,Dormant / At-Risk,0.084
+F01160,Dormant / At-Risk,0.084
+F05501,Dormant / At-Risk,0.084
+F03590,Dormant / At-Risk,0.084
+F03316,Digital Browsers,0.084
+F02547,Digital Browsers,0.084
+F00161,Dormant / At-Risk,0.084
+F00216,Dormant / At-Risk,0.084
+F00205,Dormant / At-Risk,0.084
+F01115,Digital Browsers,0.084
+F00260,Dormant / At-Risk,0.084
+F04788,Digital Browsers,0.084
+F01591,Digital Browsers,0.084
+F05737,Dormant / At-Risk,0.084
+F05046,Dormant / At-Risk,0.084
+F03114,Dormant / At-Risk,0.084
+F00714,Dormant / At-Risk,0.084
+F00719,Dormant / At-Risk,0.084
+F04395,Dormant / At-Risk,0.084
+F03789,Dormant / At-Risk,0.084
+F05782,Digital Browsers,0.084
+F04761,Digital Browsers,0.084
+F04286,Dormant / At-Risk,0.084
+F03987,Digital Browsers,0.084
+F03110,Dormant / At-Risk,0.084
+F03113,Dormant / At-Risk,0.084
+F04688,Dormant / At-Risk,0.084
+F04346,Dormant / At-Risk,0.084
+F00679,Dormant / At-Risk,0.084
+F03876,Dormant / At-Risk,0.084
+F03820,Dormant / At-Risk,0.084
+F03842,Dormant / At-Risk,0.084
+F01558,Dormant / At-Risk,0.084
+F01113,Digital Browsers,0.084
+F03353,Dormant / At-Risk,0.084
+F01393,Dormant / At-Risk,0.084
+F02560,Digital Browsers,0.084
+F02586,Digital Browsers,0.084
+F02752,Dormant / At-Risk,0.084
+F01488,Dormant / At-Risk,0.084
+F03369,Dormant / At-Risk,0.084
+F03312,Dormant / At-Risk,0.084
+F01156,Dormant / At-Risk,0.084
+F00232,Dormant / At-Risk,0.084
+F03321,Dormant / At-Risk,0.084
+F01570,Digital Browsers,0.084
+F00606,Dormant / At-Risk,0.084
+F04703,Dormant / At-Risk,0.084
+F03026,Digital Browsers,0.084
+F02154,Dormant / At-Risk,0.084
+F00615,Dormant / At-Risk,0.084
+F02334,Dormant / At-Risk,0.084
+F02343,Dormant / At-Risk,0.084
+F00387,Digital Browsers,0.084
+F05794,Digital Browsers,0.084
+F03858,Dormant / At-Risk,0.084
+F00636,Dormant / At-Risk,0.084
+F05067,Casual Followers,0.084
+F02127,Dormant / At-Risk,0.084
+F02219,Dormant / At-Risk,0.084
+F03926,Digital Browsers,0.084
+F03904,Dormant / At-Risk,0.084
+F00017,Dormant / At-Risk,0.084
+F00056,Dormant / At-Risk,0.084
+F00051,Dormant / At-Risk,0.084
+F05991,Dormant / At-Risk,0.084
+F05988,Digital Browsers,0.084
+F04217,Digital Browsers,0.084
+F02615,Dormant / At-Risk,0.084
+F04821,Digital Browsers,0.084
+F04824,Dormant / At-Risk,0.084
+F04843,Dormant / At-Risk,0.084
+F05394,Dormant / At-Risk,0.084
+F05404,Digital Browsers,0.084
+F03445,Digital Browsers,0.084
+F03437,Digital Browsers,0.084
+F04213,Digital Browsers,0.084
+F03531,Digital Browsers,0.084
+F02697,Dormant / At-Risk,0.084
+F05965,Dormant / At-Risk,0.084
+F00552,Dormant / At-Risk,0.084
+F00502,Dormant / At-Risk,0.084
+F02280,Dormant / At-Risk,0.084
+F00731,Dormant / At-Risk,0.083
+F00765,Dormant / At-Risk,0.083
+F02726,Dormant / At-Risk,0.083
+F05974,Dormant / At-Risk,0.083
+F00696,Digital Browsers,0.083
+F00005,Dormant / At-Risk,0.083
+F04174,Dormant / At-Risk,0.083
+F04004,Dormant / At-Risk,0.083
+F04229,Dormant / At-Risk,0.083
+F00084,Digital Browsers,0.083
+F02665,Dormant / At-Risk,0.083
+F02711,Dormant / At-Risk,0.083
+F00020,Digital Browsers,0.083
+F04233,Dormant / At-Risk,0.083
+F04596,Dormant / At-Risk,0.083
+F05821,Digital Browsers,0.083
+F05819,Dormant / At-Risk,0.083
+F03210,Dormant / At-Risk,0.083
+F04198,Digital Browsers,0.083
+F02773,Digital Browsers,0.083
+F03851,Dormant / At-Risk,0.083
+F05637,Dormant / At-Risk,0.083
+F04888,Digital Browsers,0.083
+F04890,Dormant / At-Risk,0.083
+F03865,Digital Browsers,0.083
+F03836,Digital Browsers,0.083
+F00665,Dormant / At-Risk,0.083
+F00783,Dormant / At-Risk,0.083
+F05234,Digital Browsers,0.083
+F01733,Dormant / At-Risk,0.083
+F03869,Digital Browsers,0.083
+F05606,Dormant / At-Risk,0.083
+F05583,Dormant / At-Risk,0.083
+F04015,Dormant / At-Risk,0.083
+F00321,Dormant / At-Risk,0.083
+F01640,Dormant / At-Risk,0.083
+F01641,Digital Browsers,0.083
+F00489,Digital Browsers,0.083
+F01596,Dormant / At-Risk,0.083
+F01670,Dormant / At-Risk,0.083
+F00517,Dormant / At-Risk,0.083
+F03952,Dormant / At-Risk,0.083
+F01618,Digital Browsers,0.083
+F00923,Dormant / At-Risk,0.083
+F02870,Dormant / At-Risk,0.083
+F00904,Digital Browsers,0.083
+F02825,Digital Browsers,0.083
+F02463,Dormant / At-Risk,0.083
+F02464,Dormant / At-Risk,0.083
+F03680,Dormant / At-Risk,0.083
+F01017,Digital Browsers,0.083
+F01052,Dormant / At-Risk,0.083
+F03663,Dormant / At-Risk,0.083
+F02831,Dormant / At-Risk,0.083
+F02888,Digital Browsers,0.083
+F02395,Dormant / At-Risk,0.083
+F02414,Dormant / At-Risk,0.083
+F02804,Dormant / At-Risk,0.083
+F02811,Dormant / At-Risk,0.083
+F02504,Dormant / At-Risk,0.083
+F03718,Digital Browsers,0.083
+F03720,Digital Browsers,0.083
+F03309,Digital Browsers,0.083
+F01569,Dormant / At-Risk,0.083
+F01907,Digital Browsers,0.083
+F05363,Dormant / At-Risk,0.083
+F05324,Dormant / At-Risk,0.083
+F03388,Digital Browsers,0.083
+F03115,Digital Browsers,0.083
+F01977,Dormant / At-Risk,0.083
+F01964,Dormant / At-Risk,0.083
+F01982,Dormant / At-Risk,0.083
+F03323,Dormant / At-Risk,0.083
+F01491,Digital Browsers,0.083
+F03278,Dormant / At-Risk,0.083
+F03281,Dormant / At-Risk,0.083
+F04682,Digital Browsers,0.083
+F05136,Dormant / At-Risk,0.083
+F05092,Digital Browsers,0.083
+F05097,Dormant / At-Risk,0.083
+F05099,Dormant / At-Risk,0.083
+F03099,Dormant / At-Risk,0.083
+F03107,Dormant / At-Risk,0.083
+F01967,Dormant / At-Risk,0.083
+F00158,Dormant / At-Risk,0.083
+F00146,Digital Browsers,0.083
+F00189,Digital Browsers,0.083
+F00992,Dormant / At-Risk,0.083
+F00980,Dormant / At-Risk,0.083
+F04458,Dormant / At-Risk,0.083
+F00195,Dormant / At-Risk,0.083
+F04118,Dormant / At-Risk,0.083
+F00644,Dormant / At-Risk,0.083
+F05695,Dormant / At-Risk,0.083
+F05698,Digital Browsers,0.083
+F04359,Casual Followers,0.083
+F00194,Digital Browsers,0.083
+F05568,Dormant / At-Risk,0.083
+F05550,Dormant / At-Risk,0.083
+F05551,Digital Browsers,0.083
+F03754,Digital Browsers,0.083
+F04431,Digital Browsers,0.083
+F00603,Dormant / At-Risk,0.083
+F02910,Digital Browsers,0.083
+F02296,Digital Browsers,0.083
+F04348,Dormant / At-Risk,0.083
+F01108,Dormant / At-Risk,0.083
+F04773,Dormant / At-Risk,0.083
+F05534,Dormant / At-Risk,0.083
+F01130,Dormant / At-Risk,0.083
+F05525,Dormant / At-Risk,0.083
+F02351,Dormant / At-Risk,0.083
+F05514,Dormant / At-Risk,0.083
+F05492,Digital Browsers,0.083
+F02318,Dormant / At-Risk,0.083
+F00945,Digital Browsers,0.083
+F00986,Dormant / At-Risk,0.083
+F00979,Dormant / At-Risk,0.083
+F00226,Dormant / At-Risk,0.083
+F01094,Digital Browsers,0.083
+F01097,Dormant / At-Risk,0.083
+F05513,Digital Browsers,0.083
+F00553,Dormant / At-Risk,0.083
+F00532,Dormant / At-Risk,0.083
+F03142,Dormant / At-Risk,0.083
+F02062,Dormant / At-Risk,0.083
+F00511,Dormant / At-Risk,0.083
+F00500,Dormant / At-Risk,0.083
+F04306,Digital Browsers,0.083
+F02048,Dormant / At-Risk,0.083
+F02049,Digital Browsers,0.083
+F01540,Dormant / At-Risk,0.083
+F01534,Digital Browsers,0.083
+F01511,Dormant / At-Risk,0.083
+F03349,Dormant / At-Risk,0.083
+F03396,Dormant / At-Risk,0.083
+F04322,Digital Browsers,0.083
+F00349,Dormant / At-Risk,0.083
+F02044,Digital Browsers,0.083
+F01463,Digital Browsers,0.083
+F04117,Digital Browsers,0.083
+F00173,Dormant / At-Risk,0.083
+F00177,Dormant / At-Risk,0.083
+F00266,Dormant / At-Risk,0.083
+F04495,Digital Browsers,0.083
+F04262,Dormant / At-Risk,0.083
+F01163,Digital Browsers,0.083
+F01143,Dormant / At-Risk,0.083
+F01189,Digital Browsers,0.083
+F03618,Dormant / At-Risk,0.083
+F02344,Dormant / At-Risk,0.083
+F01178,Dormant / At-Risk,0.083
+F05045,Digital Browsers,0.083
+F05050,Digital Browsers,0.083
+F05385,Dormant / At-Risk,0.083
+F03411,Dormant / At-Risk,0.083
+F01378,Dormant / At-Risk,0.083
+F01400,Dormant / At-Risk,0.083
+F05065,Dormant / At-Risk,0.083
+F05054,Digital Browsers,0.083
+F01444,Dormant / At-Risk,0.083
+F04581,Digital Browsers,0.083
+F03944,Digital Browsers,0.083
+F03946,Digital Browsers,0.083
+F01300,Digital Browsers,0.083
+F01295,Dormant / At-Risk,0.083
+F01402,Digital Browsers,0.083
+F02950,Dormant / At-Risk,0.083
+F02955,Digital Browsers,0.083
+F01199,Digital Browsers,0.083
+F05843,Dormant / At-Risk,0.083
+F04976,Dormant / At-Risk,0.083
+F02311,Digital Browsers,0.083
+F01240,Dormant / At-Risk,0.083
+F04744,Dormant / At-Risk,0.083
+F05881,Dormant / At-Risk,0.083
+F05865,Dormant / At-Risk,0.083
+F03497,Dormant / At-Risk,0.083
+F02106,Dormant / At-Risk,0.083
+F02132,Digital Browsers,0.083
+F02135,Dormant / At-Risk,0.083
+F02210,Digital Browsers,0.083
+F03886,Dormant / At-Risk,0.083
+F01339,Dormant / At-Risk,0.083
+F03440,Dormant / At-Risk,0.083
+F01311,Dormant / At-Risk,0.083
+F01350,Dormant / At-Risk,0.083
+F05398,Dormant / At-Risk,0.083
+F01386,Dormant / At-Risk,0.083
+F04548,Digital Browsers,0.083
+F01329,Dormant / At-Risk,0.083
+F03409,Casual Followers,0.083
+F05727,Dormant / At-Risk,0.083
+F05717,Dormant / At-Risk,0.083
+F01354,Dormant / At-Risk,0.083
+F03038,Dormant / At-Risk,0.083
+F03041,Digital Browsers,0.083
+F05027,Dormant / At-Risk,0.083
+F03014,Digital Browsers,0.083
+F03036,Digital Browsers,0.083
+F00531,Digital Browsers,0.083
+F00579,Dormant / At-Risk,0.083
+F03896,Digital Browsers,0.083
+F05010,Dormant / At-Risk,0.083
+F02276,Digital Browsers,0.083
+F02277,Dormant / At-Risk,0.083
+F03505,Dormant / At-Risk,0.083
+F04523,Digital Browsers,0.083
+F03013,Dormant / At-Risk,0.083
+F03885,Dormant / At-Risk,0.083
+F00526,Digital Browsers,0.083
+F02592,Dormant / At-Risk,0.083
+F04864,Dormant / At-Risk,0.083
+F02567,Dormant / At-Risk,0.083
+F00775,Digital Browsers,0.083
+F04793,Casual Followers,0.083
+F02543,Digital Browsers,0.083
+F02545,Digital Browsers,0.083
+F04802,Dormant / At-Risk,0.083
+F03813,Digital Browsers,0.083
+F00789,Dormant / At-Risk,0.083
+F03781,Digital Browsers,0.083
+F00426,Dormant / At-Risk,0.083
+F01742,Digital Browsers,0.083
+F01789,Digital Browsers,0.083
+F02596,Digital Browsers,0.083
+F05924,Digital Browsers,0.083
+F03192,Dormant / At-Risk,0.083
+F03195,Digital Browsers,0.083
+F01831,Dormant / At-Risk,0.083
+F01617,Dormant / At-Risk,0.083
+F05256,Dormant / At-Risk,0.083
+F04622,Digital Browsers,0.083
+F05206,Digital Browsers,0.083
+F01812,Dormant / At-Risk,0.083
+F04654,Dormant / At-Risk,0.083
+F03272,Dormant / At-Risk,0.083
+F03178,Digital Browsers,0.083
+F03999,Dormant / At-Risk,0.083
+F00409,Digital Browsers,0.083
+F03222,Dormant / At-Risk,0.083
+F04646,Dormant / At-Risk,0.083
+F02614,Dormant / At-Risk,0.083
+F01843,Dormant / At-Risk,0.083
+F05191,Dormant / At-Risk,0.083
+F05193,Dormant / At-Risk,0.083
+F02636,Dormant / At-Risk,0.082
+F05958,Dormant / At-Risk,0.082
+F05940,Digital Browsers,0.082
+F05943,Dormant / At-Risk,0.082
+F04008,Dormant / At-Risk,0.082
+F01763,Digital Browsers,0.082
+F04642,Dormant / At-Risk,0.082
+F05218,Dormant / At-Risk,0.082
+F01728,Digital Browsers,0.082
+F01711,Dormant / At-Risk,0.082
+F04626,Digital Browsers,0.082
+F05198,Dormant / At-Risk,0.082
+F01695,Digital Browsers,0.082
+F00369,Dormant / At-Risk,0.082
+F01793,Dormant / At-Risk,0.082
+F05925,Digital Browsers,0.082
+F00753,Digital Browsers,0.082
+F02569,Digital Browsers,0.082
+F02563,Digital Browsers,0.082
+F02548,Dormant / At-Risk,0.082
+F02541,Dormant / At-Risk,0.082
+F04794,Digital Browsers,0.082
+F03850,Dormant / At-Risk,0.082
+F05630,Dormant / At-Risk,0.082
+F05622,Dormant / At-Risk,0.082
+F04868,Dormant / At-Risk,0.082
+F02787,Casual Followers,0.082
+F05648,Dormant / At-Risk,0.082
+F03809,Dormant / At-Risk,0.082
+F01280,Digital Browsers,0.082
+F03504,Casual Followers,0.082
+F05029,Digital Browsers,0.082
+F00527,Dormant / At-Risk,0.082
+F00530,Digital Browsers,0.082
+F02281,Dormant / At-Risk,0.082
+F03017,Dormant / At-Risk,0.082
+F02182,Dormant / At-Risk,0.082
+F02249,Dormant / At-Risk,0.082
+F05062,Dormant / At-Risk,0.082
+F03047,Dormant / At-Risk,0.082
+F02269,Dormant / At-Risk,0.082
+F05028,Digital Browsers,0.082
+F05430,Digital Browsers,0.082
+F03480,Dormant / At-Risk,0.082
+F03471,Digital Browsers,0.082
+F05733,Dormant / At-Risk,0.082
+F05725,Dormant / At-Risk,0.082
+F05061,Digital Browsers,0.082
+F03492,Digital Browsers,0.082
+F01361,Dormant / At-Risk,0.082
+F03426,Dormant / At-Risk,0.082
+F03030,Digital Browsers,0.082
+F02996,Digital Browsers,0.082
+F02989,Dormant / At-Risk,0.082
+F01334,Casual Followers,0.082
+F04539,Casual Followers,0.082
+F04710,Dormant / At-Risk,0.082
+F02095,Dormant / At-Risk,0.082
+F03887,Dormant / At-Risk,0.082
+F03888,Dormant / At-Risk,0.082
+F05874,Dormant / At-Risk,0.082
+F05875,Dormant / At-Risk,0.082
+F04083,Casual Followers,0.082
+F01285,Dormant / At-Risk,0.082
+F01278,Digital Browsers,0.082
+F03527,Digital Browsers,0.082
+F01231,Digital Browsers,0.082
+F01270,Dormant / At-Risk,0.082
+F01275,Digital Browsers,0.082
+F04745,Dormant / At-Risk,0.082
+F04739,Dormant / At-Risk,0.082
+F05846,Dormant / At-Risk,0.082
+F05848,Dormant / At-Risk,0.082
+F02251,Digital Browsers,0.082
+F02236,Dormant / At-Risk,0.082
+F04728,Dormant / At-Risk,0.082
+F02231,Dormant / At-Risk,0.082
+F02220,Digital Browsers,0.082
+F02227,Dormant / At-Risk,0.082
+F01246,Digital Browsers,0.082
+F01214,Dormant / At-Risk,0.082
+F03932,Dormant / At-Risk,0.082
+F01424,Dormant / At-Risk,0.082
+F04558,Dormant / At-Risk,0.082
+F01445,Dormant / At-Risk,0.082
+F01440,Dormant / At-Risk,0.082
+F03928,Digital Browsers,0.082
+F05364,Dormant / At-Risk,0.082
+F05369,Digital Browsers,0.082
+F01324,Digital Browsers,0.082
+F01430,Dormant / At-Risk,0.082
+F05371,Dormant / At-Risk,0.082
+F05359,Dormant / At-Risk,0.082
+F01411,Dormant / At-Risk,0.082
+F00242,Dormant / At-Risk,0.082
+F05380,Digital Browsers,0.082
+F05376,Dormant / At-Risk,0.082
+F01379,Dormant / At-Risk,0.082
+F04349,Digital Browsers,0.082
+F04340,Digital Browsers,0.082
+F04343,Digital Browsers,0.082
+F02335,Digital Browsers,0.082
+F03546,Dormant / At-Risk,0.082
+F03537,Dormant / At-Risk,0.082
+F05435,Digital Browsers,0.082
+F05426,Digital Browsers,0.082
+F03610,Dormant / At-Risk,0.082
+F01076,Dormant / At-Risk,0.082
+F01079,Digital Browsers,0.082
+F01222,Dormant / At-Risk,0.082
+F04504,Digital Browsers,0.082
+F01181,Dormant / At-Risk,0.082
+F04261,Digital Browsers,0.082
+F04263,Dormant / At-Risk,0.082
+F03620,Digital Browsers,0.082
+F03573,Dormant / At-Risk,0.082
+F03578,Dormant / At-Risk,0.082
+F03589,Digital Browsers,0.082
+F04055,Dormant / At-Risk,0.082
+F04101,Dormant / At-Risk,0.082
+F04085,Dormant / At-Risk,0.082
+F01483,Dormant / At-Risk,0.082
+F01462,Casual Followers,0.082
+F03939,Digital Browsers,0.082
+F04331,Dormant / At-Risk,0.082
+F01531,Digital Browsers,0.082
+F04307,Digital Browsers,0.082
+F05070,Dormant / At-Risk,0.082
+F05129,Dormant / At-Risk,0.082
+F00549,Dormant / At-Risk,0.082
+F03936,Digital Browsers,0.082
+F05137,Dormant / At-Risk,0.082
+F00215,Dormant / At-Risk,0.082
+F05494,Digital Browsers,0.082
+F05498,Dormant / At-Risk,0.082
+F05487,Digital Browsers,0.082
+F04971,Dormant / At-Risk,0.082
+F02863,Dormant / At-Risk,0.082
+F03659,Digital Browsers,0.082
+F02336,Dormant / At-Risk,0.082
+F02362,Dormant / At-Risk,0.082
+F02337,Dormant / At-Risk,0.082
+F02901,Dormant / At-Risk,0.082
+F02898,Dormant / At-Risk,0.082
+F04362,Dormant / At-Risk,0.082
+F00880,Digital Browsers,0.082
+F00592,Dormant / At-Risk,0.082
+F03859,Dormant / At-Risk,0.082
+F04919,Digital Browsers,0.082
+F04922,Digital Browsers,0.082
+F04122,Digital Browsers,0.082
+F04169,Dormant / At-Risk,0.082
+F05678,Digital Browsers,0.082
+F00609,Digital Browsers,0.082
+F02918,Digital Browsers,0.082
+F00204,Dormant / At-Risk,0.082
+F00159,Digital Browsers,0.082
+F03687,Dormant / At-Risk,0.082
+F05076,Digital Browsers,0.082
+F03359,Dormant / At-Risk,0.082
+F01601,Digital Browsers,0.082
+F01581,Digital Browsers,0.082
+F04664,Dormant / At-Risk,0.082
+F01972,Digital Browsers,0.082
+F05351,Digital Browsers,0.082
+F05344,Digital Browsers,0.082
+F01870,Digital Browsers,0.082
+F04680,Digital Browsers,0.082
+F04402,Dormant / At-Risk,0.082
+F00868,Digital Browsers,0.082
+F00948,Dormant / At-Risk,0.082
+F03633,Digital Browsers,0.082
+F02381,Dormant / At-Risk,0.082
+F02878,Dormant / At-Risk,0.082
+F03745,Digital Browsers,0.082
+F03682,Digital Browsers,0.082
+F00918,Digital Browsers,0.082
+F00915,Dormant / At-Risk,0.082
+F00967,Dormant / At-Risk,0.082
+F00892,Dormant / At-Risk,0.082
+F00879,Casual Followers,0.082
+F03389,Dormant / At-Risk,0.082
+F01435,Dormant / At-Risk,0.082
+F03336,Dormant / At-Risk,0.082
+F03339,Dormant / At-Risk,0.082
+F04595,Digital Browsers,0.082
+F05288,Dormant / At-Risk,0.082
+F01665,Digital Browsers,0.082
+F01657,Dormant / At-Risk,0.082
+F01651,Dormant / At-Risk,0.082
+F05743,Dormant / At-Risk,0.082
+F00519,Casual Followers,0.082
+F03964,Dormant / At-Risk,0.082
+F00457,Digital Browsers,0.082
+F00451,Dormant / At-Risk,0.082
+F03971,Dormant / At-Risk,0.082
+F01806,Dormant / At-Risk,0.082
+F04061,Dormant / At-Risk,0.082
+F04023,Digital Browsers,0.082
+F03138,Dormant / At-Risk,0.082
+F03130,Dormant / At-Risk,0.082
+F05740,Dormant / At-Risk,0.082
+F01638,Digital Browsers,0.082
+F05229,Dormant / At-Risk,0.082
+F03285,Dormant / At-Risk,0.082
+F01732,Dormant / At-Risk,0.082
+F03863,Dormant / At-Risk,0.082
+F03867,Dormant / At-Risk,0.082
+F05586,Dormant / At-Risk,0.082
+F00859,Dormant / At-Risk,0.082
+F03840,Dormant / At-Risk,0.082
+F00634,Dormant / At-Risk,0.082
+F00620,Casual Followers,0.082
+F00625,Dormant / At-Risk,0.082
+F02512,Digital Browsers,0.082
+F02476,Digital Browsers,0.082
+F02769,Digital Browsers,0.082
+F02528,Digital Browsers,0.082
+F03738,Dormant / At-Risk,0.082
+F04410,Dormant / At-Risk,0.082
+F04411,Digital Browsers,0.082
+F01632,Digital Browsers,0.082
+F05993,Dormant / At-Risk,0.082
+F04210,Dormant / At-Risk,0.082
+F00097,Digital Browsers,0.082
+F05971,Digital Browsers,0.082
+F05980,Digital Browsers,0.082
+F05659,Digital Browsers,0.082
+F05923,Dormant / At-Risk,0.082
+F05912,Digital Browsers,0.082
+F04235,Digital Browsers,0.082
+F04218,Digital Browsers,0.082
+F00015,Casual Followers,0.082
+F04813,Digital Browsers,0.082
+F00073,Dormant / At-Risk,0.082
+F00063,Dormant / At-Risk,0.082
+F04194,Digital Browsers,0.082
+F04184,Digital Browsers,0.082
+F05774,Dormant / At-Risk,0.082
+F04275,Digital Browsers,0.082
+F04822,Dormant / At-Risk,0.082
+F00699,Dormant / At-Risk,0.082
+F02679,Dormant / At-Risk,0.082
+F00022,Dormant / At-Risk,0.082
+F04370,Digital Browsers,0.082
+F03802,Dormant / At-Risk,0.081
+F00110,Dormant / At-Risk,0.081
+F04204,Digital Browsers,0.081
+F02683,Dormant / At-Risk,0.081
+F04250,Digital Browsers,0.081
+F03622,Dormant / At-Risk,0.081
+F03624,Dormant / At-Risk,0.081
+F03627,Dormant / At-Risk,0.081
+F03614,Digital Browsers,0.081
+F04082,Digital Browsers,0.081
+F05888,Dormant / At-Risk,0.081
+F05889,Dormant / At-Risk,0.081
+F02361,Dormant / At-Risk,0.081
+F01215,Dormant / At-Risk,0.081
+F01204,Digital Browsers,0.081
+F05421,Dormant / At-Risk,0.081
+F05872,Digital Browsers,0.081
+F05864,Dormant / At-Risk,0.081
+F03592,Dormant / At-Risk,0.081
+F05500,Dormant / At-Risk,0.081
+F03559,Digital Browsers,0.081
+F03542,Digital Browsers,0.081
+F04511,Dormant / At-Risk,0.081
+F01247,Dormant / At-Risk,0.081
+F05268,Digital Browsers,0.081
+F05238,Digital Browsers,0.081
+F03295,Digital Browsers,0.081
+F00372,Digital Browsers,0.081
+F03961,Digital Browsers,0.081
+F00459,Digital Browsers,0.081
+F01611,Dormant / At-Risk,0.081
+F05789,Dormant / At-Risk,0.081
+F05784,Dormant / At-Risk,0.081
+F00384,Dormant / At-Risk,0.081
+F04010,Dormant / At-Risk,0.081
+F05224,Dormant / At-Risk,0.081
+F01830,Digital Browsers,0.081
+F04281,Dormant / At-Risk,0.081
+F00400,Digital Browsers,0.081
+F05798,Digital Browsers,0.081
+F01852,Dormant / At-Risk,0.081
+F03159,Digital Browsers,0.081
+F03206,Dormant / At-Risk,0.081
+F03984,Digital Browsers,0.081
+F03986,Dormant / At-Risk,0.081
+F02427,Dormant / At-Risk,0.081
+F02799,Dormant / At-Risk,0.081
+F02853,Digital Browsers,0.081
+F02855,Dormant / At-Risk,0.081
+F04415,Dormant / At-Risk,0.081
+F04894,Dormant / At-Risk,0.081
+F03117,Digital Browsers,0.081
+F01901,Dormant / At-Risk,0.081
+F00310,Dormant / At-Risk,0.081
+F00312,Dormant / At-Risk,0.081
+F00441,Dormant / At-Risk,0.081
+F05812,Casual Followers,0.081
+F04016,Dormant / At-Risk,0.081
+F04029,Dormant / At-Risk,0.081
+F04035,Digital Browsers,0.081
+F04021,Digital Browsers,0.081
+F04024,Dormant / At-Risk,0.081
+F03299,Dormant / At-Risk,0.081
+F05197,Digital Browsers,0.081
+F01762,Digital Browsers,0.081
+F03215,Digital Browsers,0.081
+F05235,Dormant / At-Risk,0.081
+F01180,Digital Browsers,0.081
+F05482,Digital Browsers,0.081
+F05461,Digital Browsers,0.081
+F05465,Dormant / At-Risk,0.081
+F04503,Digital Browsers,0.081
+F05422,Dormant / At-Risk,0.081
+F05425,Digital Browsers,0.081
+F05532,Dormant / At-Risk,0.081
+F05537,Dormant / At-Risk,0.081
+F03609,Digital Browsers,0.081
+F03597,Dormant / At-Risk,0.081
+F04748,Casual Followers,0.081
+F02411,Dormant / At-Risk,0.081
+F02383,Casual Followers,0.081
+F01073,Dormant / At-Risk,0.081
+F02317,Digital Browsers,0.081
+F02341,Dormant / At-Risk,0.081
+F02350,Dormant / At-Risk,0.081
+F02314,Digital Browsers,0.081
+F01123,Dormant / At-Risk,0.081
+F05142,Digital Browsers,0.081
+F03109,Dormant / At-Risk,0.081
+F01583,Digital Browsers,0.081
+F03371,Digital Browsers,0.081
+F04678,Dormant / At-Risk,0.081
+F04679,Digital Browsers,0.081
+F01898,Dormant / At-Risk,0.081
+F01930,Digital Browsers,0.081
+F01969,Dormant / At-Risk,0.081
+F02005,Digital Browsers,0.081
+F05158,Dormant / At-Risk,0.081
+F02564,Dormant / At-Risk,0.081
+F02488,Digital Browsers,0.081
+F03834,Dormant / At-Risk,0.081
+F03825,Digital Browsers,0.081
+F03839,Digital Browsers,0.081
+F01921,Dormant / At-Risk,0.081
+F02847,Digital Browsers,0.081
+F04891,Digital Browsers,0.081
+F03873,Dormant / At-Risk,0.081
+F00713,Casual Followers,0.081
+F03830,Digital Browsers,0.081
+F00881,Dormant / At-Risk,0.081
+F01421,Dormant / At-Risk,0.081
+F01961,Digital Browsers,0.081
+F03326,Dormant / At-Risk,0.081
+F01579,Digital Browsers,0.081
+F03920,Dormant / At-Risk,0.081
+F04302,Digital Browsers,0.081
+F03342,Casual Followers,0.081
+F01477,Dormant / At-Risk,0.081
+F01455,Digital Browsers,0.081
+F01517,Dormant / At-Risk,0.081
+F04602,Dormant / At-Risk,0.081
+F05312,Digital Browsers,0.081
+F05303,Digital Browsers,0.081
+F01560,Dormant / At-Risk,0.081
+F05319,Dormant / At-Risk,0.081
+F05309,Digital Browsers,0.081
+F01287,Digital Browsers,0.081
+F01288,Dormant / At-Risk,0.081
+F00613,Dormant / At-Risk,0.081
+F05441,Dormant / At-Risk,0.081
+F05850,Dormant / At-Risk,0.081
+F02224,Dormant / At-Risk,0.081
+F02924,Digital Browsers,0.081
+F02934,Dormant / At-Risk,0.081
+F01319,Dormant / At-Risk,0.081
+F03494,Dormant / At-Risk,0.081
+F04997,Dormant / At-Risk,0.081
+F04998,Digital Browsers,0.081
+F02968,Dormant / At-Risk,0.081
+F02962,Dormant / At-Risk,0.081
+F03898,Digital Browsers,0.081
+F00535,Digital Browsers,0.081
+F03933,Dormant / At-Risk,0.081
+F02074,Casual Followers,0.081
+F02881,Dormant / At-Risk,0.081
+F02444,Dormant / At-Risk,0.081
+F04584,Dormant / At-Risk,0.081
+F04577,Digital Browsers,0.081
+F01993,Digital Browsers,0.081
+F05110,Digital Browsers,0.081
+F05077,Digital Browsers,0.081
+F02033,Digital Browsers,0.081
+F02833,Dormant / At-Risk,0.081
+F02884,Dormant / At-Risk,0.081
+F03675,Dormant / At-Risk,0.081
+F00997,Dormant / At-Risk,0.081
+F01432,Digital Browsers,0.081
+F00845,Digital Browsers,0.081
+F05588,Dormant / At-Risk,0.081
+F05565,Dormant / At-Risk,0.081
+F02983,Dormant / At-Risk,0.081
+F05019,Digital Browsers,0.081
+F02268,Dormant / At-Risk,0.081
+F02189,Dormant / At-Risk,0.081
+F00578,Digital Browsers,0.081
+F02130,Digital Browsers,0.081
+F02196,Dormant / At-Risk,0.081
+F04715,Dormant / At-Risk,0.081
+F04707,Dormant / At-Risk,0.081
+F02203,Casual Followers,0.081
+F03003,Dormant / At-Risk,0.081
+F02173,Dormant / At-Risk,0.081
+F04697,Digital Browsers,0.081
+F03020,Dormant / At-Risk,0.081
+F02169,Dormant / At-Risk,0.081
+F02215,Dormant / At-Risk,0.081
+F00352,Dormant / At-Risk,0.081
+F00246,Dormant / At-Risk,0.081
+F00279,Digital Browsers,0.081
+F00319,Digital Browsers,0.081
+F04059,Digital Browsers,0.081
+F01451,Dormant / At-Risk,0.081
+F03429,Dormant / At-Risk,0.081
+F01372,Digital Browsers,0.081
+F00284,Casual Followers,0.081
+F00288,Dormant / At-Risk,0.081
+F00289,Dormant / At-Risk,0.081
+F00362,Dormant / At-Risk,0.081
+F01047,Digital Browsers,0.081
+F01051,Dormant / At-Risk,0.081
+F02823,Dormant / At-Risk,0.081
+F03660,Digital Browsers,0.081
+F03667,Casual Followers,0.081
+F03717,Digital Browsers,0.081
+F04337,Dormant / At-Risk,0.081
+F04339,Dormant / At-Risk,0.081
+F00602,Digital Browsers,0.081
+F05697,Dormant / At-Risk,0.081
+F04695,Dormant / At-Risk,0.081
+F05679,Digital Browsers,0.081
+F04447,Dormant / At-Risk,0.081
+F04934,Dormant / At-Risk,0.081
+F04938,Dormant / At-Risk,0.081
+F00157,Casual Followers,0.081
+F01429,Dormant / At-Risk,0.081
+F05368,Dormant / At-Risk,0.081
+F00227,Casual Followers,0.081
+F00055,Casual Followers,0.081
+F00130,Dormant / At-Risk,0.081
+F00064,Digital Browsers,0.081
+F05624,Casual Followers,0.081
+F00077,Dormant / At-Risk,0.081
+F02757,Dormant / At-Risk,0.081
+F05936,Digital Browsers,0.081
+F00737,Dormant / At-Risk,0.081
+F00692,Digital Browsers,0.081
+F00747,Digital Browsers,0.081
+F02782,Digital Browsers,0.081
+F05633,Dormant / At-Risk,0.081
+F00009,Digital Browsers,0.081
+F02677,Dormant / At-Risk,0.081
+F04224,Digital Browsers,0.081
+F02619,Digital Browsers,0.081
+F02604,Digital Browsers,0.081
+F03766,Casual Followers,0.081
+F01833,Dormant / At-Risk,0.081
+F04645,Digital Browsers,0.081
+F04631,Dormant / At-Risk,0.081
+F00790,Dormant / At-Risk,0.081
+F00791,Digital Browsers,0.081
+F03782,Digital Browsers,0.081
+F03784,Digital Browsers,0.081
+F00836,Dormant / At-Risk,0.081
+F00830,Dormant / At-Risk,0.081
+F05922,Dormant / At-Risk,0.081
+F04805,Digital Browsers,0.081
+F04800,Dormant / At-Risk,0.081
+F00027,Digital Browsers,0.081
+F02695,Casual Followers,0.081
+F04221,Dormant / At-Risk,0.081
+F02602,Dormant / At-Risk,0.081
+F04191,Digital Browsers,0.08
+F00008,Dormant / At-Risk,0.08
+F02589,Dormant / At-Risk,0.08
+F02549,Digital Browsers,0.08
+F02754,Dormant / At-Risk,0.08
+F02755,Dormant / At-Risk,0.08
+F00749,Dormant / At-Risk,0.08
+F00752,Digital Browsers,0.08
+F00754,Dormant / At-Risk,0.08
+F03804,Dormant / At-Risk,0.08
+F03729,Digital Browsers,0.08
+F03817,Digital Browsers,0.08
+F05174,Digital Browsers,0.08
+F04658,Digital Browsers,0.08
+F01712,Dormant / At-Risk,0.08
+F05658,Dormant / At-Risk,0.08
+F03801,Digital Browsers,0.08
+F05617,Dormant / At-Risk,0.08
+F00803,Dormant / At-Risk,0.08
+F00788,Digital Browsers,0.08
+F05629,Casual Followers,0.08
+F05634,Dormant / At-Risk,0.08
+F00139,Digital Browsers,0.08
+F02644,Dormant / At-Risk,0.08
+F05221,Digital Browsers,0.08
+F00128,Dormant / At-Risk,0.08
+F00048,Digital Browsers,0.08
+F04180,Dormant / At-Risk,0.08
+F00066,Dormant / At-Risk,0.08
+F00042,Digital Browsers,0.08
+F03459,Dormant / At-Risk,0.08
+F05048,Casual Followers,0.08
+F05037,Digital Browsers,0.08
+F00234,Casual Followers,0.08
+F00212,Dormant / At-Risk,0.08
+F03651,Digital Browsers,0.08
+F04151,Digital Browsers,0.08
+F04154,Dormant / At-Risk,0.08
+F00199,Dormant / At-Risk,0.08
+F00190,Digital Browsers,0.08
+F00171,Dormant / At-Risk,0.08
+F00156,Casual Followers,0.08
+F04437,Dormant / At-Risk,0.08
+F04923,Digital Browsers,0.08
+F04159,Dormant / At-Risk,0.08
+F04345,Dormant / At-Risk,0.08
+F03915,Digital Browsers,0.08
+F00647,Casual Followers,0.08
+F05687,Dormant / At-Risk,0.08
+F02451,Dormant / At-Risk,0.08
+F02814,Dormant / At-Risk,0.08
+F01067,Dormant / At-Risk,0.08
+F03719,Dormant / At-Risk,0.08
+F00970,Dormant / At-Risk,0.08
+F03679,Dormant / At-Risk,0.08
+F03643,Digital Browsers,0.08
+F01055,Digital Browsers,0.08
+F01010,Dormant / At-Risk,0.08
+F03415,Digital Browsers,0.08
+F00276,Digital Browsers,0.08
+F00304,Dormant / At-Risk,0.08
+F04048,Casual Followers,0.08
+F00283,Digital Browsers,0.08
+F04698,Digital Browsers,0.08
+F03025,Digital Browsers,0.08
+F02105,Digital Browsers,0.08
+F02218,Dormant / At-Risk,0.08
+F04705,Digital Browsers,0.08
+F01313,Digital Browsers,0.08
+F04552,Dormant / At-Risk,0.08
+F01355,Dormant / At-Risk,0.08
+F01340,Digital Browsers,0.08
+F01332,Digital Browsers,0.08
+F03032,Casual Followers,0.08
+F02126,Casual Followers,0.08
+F02993,Dormant / At-Risk,0.08
+F05738,Digital Browsers,0.08
+F05021,Dormant / At-Risk,0.08
+F05011,Dormant / At-Risk,0.08
+F05604,Dormant / At-Risk,0.08
+F05580,Dormant / At-Risk,0.08
+F05561,Digital Browsers,0.08
+F00891,Dormant / At-Risk,0.08
+F00877,Dormant / At-Risk,0.08
+F02839,Dormant / At-Risk,0.08
+F02843,Digital Browsers,0.08
+F02876,Digital Browsers,0.08
+F04556,Digital Browsers,0.08
+F01395,Dormant / At-Risk,0.08
+F03081,Dormant / At-Risk,0.08
+F02473,Dormant / At-Risk,0.08
+F02398,Dormant / At-Risk,0.08
+F02402,Dormant / At-Risk,0.08
+F02392,Dormant / At-Risk,0.08
+F00556,Digital Browsers,0.08
+F01293,Digital Browsers,0.08
+F05419,Digital Browsers,0.08
+F05407,Digital Browsers,0.08
+F05388,Digital Browsers,0.08
+F02961,Dormant / At-Risk,0.08
+F01281,Dormant / At-Risk,0.08
+F03515,Digital Browsers,0.08
+F05845,Dormant / At-Risk,0.08
+F02243,Dormant / At-Risk,0.08
+F04724,Digital Browsers,0.08
+F05852,Digital Browsers,0.08
+F01232,Digital Browsers,0.08
+F05443,Digital Browsers,0.08
+F05428,Dormant / At-Risk,0.08
+F01494,Digital Browsers,0.08
+F05765,Digital Browsers,0.08
+F01571,Dormant / At-Risk,0.08
+F04588,Dormant / At-Risk,0.08
+F03401,Dormant / At-Risk,0.08
+F03390,Digital Browsers,0.08
+F01931,Dormant / At-Risk,0.08
+F03310,Digital Browsers,0.08
+F05703,Digital Browsers,0.08
+F03878,Dormant / At-Risk,0.08
+F03860,Digital Browsers,0.08
+F03843,Dormant / At-Risk,0.08
+F04899,Dormant / At-Risk,0.08
+F02850,Dormant / At-Risk,0.08
+F02837,Casual Followers,0.08
+F02534,Dormant / At-Risk,0.08
+F02538,Dormant / At-Risk,0.08
+F02792,Digital Browsers,0.08
+F02487,Digital Browsers,0.08
+F02478,Digital Browsers,0.08
+F01889,Dormant / At-Risk,0.08
+F01637,Digital Browsers,0.08
+F03311,Digital Browsers,0.08
+F03366,Digital Browsers,0.08
+F03368,Digital Browsers,0.08
+F03478,Casual Followers,0.08
+F02284,Digital Browsers,0.08
+F02290,Digital Browsers,0.08
+F01111,Dormant / At-Risk,0.08
+F04948,Digital Browsers,0.08
+F02439,Dormant / At-Risk,0.08
+F02866,Dormant / At-Risk,0.08
+F04758,Digital Browsers,0.08
+F03655,Casual Followers,0.08
+F03658,Casual Followers,0.08
+F05538,Digital Browsers,0.08
+F05479,Dormant / At-Risk,0.08
+F05196,Casual Followers,0.08
+F04627,Dormant / At-Risk,0.08
+F05825,Digital Browsers,0.08
+F04619,Dormant / At-Risk,0.08
+F04597,Dormant / At-Risk,0.08
+F01904,Dormant / At-Risk,0.08
+F00315,Digital Browsers,0.08
+F00301,Dormant / At-Risk,0.08
+F05749,Digital Browsers,0.08
+F05754,Digital Browsers,0.08
+F03158,Dormant / At-Risk,0.08
+F00385,Digital Browsers,0.08
+F04274,Dormant / At-Risk,0.08
+F03967,Dormant / At-Risk,0.08
+F00437,Dormant / At-Risk,0.08
+F05262,Dormant / At-Risk,0.08
+F03252,Dormant / At-Risk,0.08
+F01646,Dormant / At-Risk,0.08
+F01687,Dormant / At-Risk,0.08
+F01677,Digital Browsers,0.08
+F01714,Dormant / At-Risk,0.08
+F03552,Dormant / At-Risk,0.08
+F01154,Digital Browsers,0.08
+F01155,Digital Browsers,0.08
+F04519,Digital Browsers,0.08
+F03582,Digital Browsers,0.08
+F00255,Digital Browsers,0.08
+F00292,Dormant / At-Risk,0.08
+F02294,Digital Browsers,0.08
+F02371,Digital Browsers,0.08
+F01081,Digital Browsers,0.08
+F02650,Dormant / At-Risk,0.08
+F04841,Dormant / At-Risk,0.08
+F04209,Dormant / At-Risk,0.08
+F00169,Digital Browsers,0.08
+F00037,Digital Browsers,0.08
+F02672,Digital Browsers,0.08
+F04227,Dormant / At-Risk,0.079
+F05909,Digital Browsers,0.079
+F00168,Dormant / At-Risk,0.079
+F00720,Digital Browsers,0.079
+F04195,Digital Browsers,0.079
+F04175,Dormant / At-Risk,0.079
+F00054,Digital Browsers,0.079
+F00058,Digital Browsers,0.079
+F00122,Dormant / At-Risk,0.079
+F00075,Digital Browsers,0.079
+F00090,Casual Followers,0.079
+F00091,Dormant / At-Risk,0.079
+F00127,Dormant / At-Risk,0.079
+F02723,Dormant / At-Risk,0.079
+F04872,Dormant / At-Risk,0.079
+F04386,Dormant / At-Risk,0.079
+F04367,Dormant / At-Risk,0.079
+F05650,Casual Followers,0.079
+F00776,Digital Browsers,0.079
+F05665,Digital Browsers,0.079
+F05652,Dormant / At-Risk,0.079
+F03797,Digital Browsers,0.079
+F03798,Dormant / At-Risk,0.079
+F02606,Dormant / At-Risk,0.079
+F05932,Digital Browsers,0.079
+F02687,Digital Browsers,0.079
+F01082,Digital Browsers,0.079
+F02315,Digital Browsers,0.079
+F02307,Dormant / At-Risk,0.079
+F02323,Dormant / At-Risk,0.079
+F02372,Digital Browsers,0.079
+F02377,Dormant / At-Risk,0.079
+F04132,Dormant / At-Risk,0.079
+F00256,Digital Browsers,0.079
+F00244,Digital Browsers,0.079
+F04078,Digital Browsers,0.079
+F03586,Dormant / At-Risk,0.079
+F04466,Digital Browsers,0.079
+F03654,Casual Followers,0.079
+F01212,Digital Browsers,0.079
+F05433,Digital Browsers,0.079
+F01225,Digital Browsers,0.079
+F05483,Dormant / At-Risk,0.079
+F05458,Digital Browsers,0.079
+F04493,Casual Followers,0.079
+F01167,Dormant / At-Risk,0.079
+F01169,Digital Browsers,0.079
+F01170,Dormant / At-Risk,0.079
+F05478,Digital Browsers,0.079
+F03598,Digital Browsers,0.079
+F03646,Dormant / At-Risk,0.079
+F01093,Digital Browsers,0.079
+F04491,Dormant / At-Risk,0.079
+F05524,Dormant / At-Risk,0.079
+F01075,Digital Browsers,0.079
+F02328,Dormant / At-Risk,0.079
+F02331,Digital Browsers,0.079
+F02442,Digital Browsers,0.079
+F02428,Dormant / At-Risk,0.079
+F02895,Digital Browsers,0.079
+F01119,Dormant / At-Risk,0.079
+F05432,Dormant / At-Risk,0.079
+F03525,Dormant / At-Risk,0.079
+F01260,Casual Followers,0.079
+F01266,Dormant / At-Risk,0.079
+F01267,Dormant / At-Risk,0.079
+F02925,Digital Browsers,0.079
+F04992,Dormant / At-Risk,0.079
+F02155,Digital Browsers,0.079
+F05402,Dormant / At-Risk,0.079
+F05392,Dormant / At-Risk,0.079
+F00572,Digital Browsers,0.079
+F00574,Digital Browsers,0.079
+F00539,Digital Browsers,0.079
+F00525,Dormant / At-Risk,0.079
+F02245,Digital Browsers,0.079
+F02981,Digital Browsers,0.079
+F02137,Digital Browsers,0.079
+F02131,Dormant / At-Risk,0.079
+F05713,Dormant / At-Risk,0.079
+F04541,Digital Browsers,0.079
+F04536,Digital Browsers,0.079
+F04524,Dormant / At-Risk,0.079
+F01344,Dormant / At-Risk,0.079
+F01312,Dormant / At-Risk,0.079
+F03031,Digital Browsers,0.079
+F02188,Dormant / At-Risk,0.079
+F02999,Digital Browsers,0.079
+F02177,Digital Browsers,0.079
+F04693,Digital Browsers,0.079
+F02152,Digital Browsers,0.079
+F04440,Dormant / At-Risk,0.079
+F00192,Digital Browsers,0.079
+F02919,Dormant / At-Risk,0.079
+F02922,Dormant / At-Risk,0.079
+F00976,Casual Followers,0.079
+F01033,Casual Followers,0.079
+F05036,Digital Browsers,0.079
+F04046,Dormant / At-Risk,0.079
+F00327,Digital Browsers,0.079
+F00345,Digital Browsers,0.079
+F00356,Dormant / At-Risk,0.079
+F00341,Digital Browsers,0.079
+F00343,Dormant / At-Risk,0.079
+F03416,Dormant / At-Risk,0.079
+F01367,Dormant / At-Risk,0.079
+F03428,Digital Browsers,0.079
+F00989,Digital Browsers,0.079
+F00991,Digital Browsers,0.079
+F01008,Dormant / At-Risk,0.079
+F03690,Digital Browsers,0.079
+F02445,Digital Browsers,0.079
+F02449,Digital Browsers,0.079
+F02502,Digital Browsers,0.079
+F02505,Digital Browsers,0.079
+F02874,Dormant / At-Risk,0.079
+F02390,Dormant / At-Risk,0.079
+F02880,Digital Browsers,0.079
+F00503,Casual Followers,0.079
+F00493,Digital Browsers,0.079
+F00545,Digital Browsers,0.079
+F03077,Dormant / At-Risk,0.079
+F03078,Dormant / At-Risk,0.079
+F03073,Digital Browsers,0.079
+F02079,Dormant / At-Risk,0.079
+F02068,Digital Browsers,0.079
+F05123,Casual Followers,0.079
+F05078,Digital Browsers,0.079
+F02085,Digital Browsers,0.079
+F03085,Casual Followers,0.079
+F03090,Dormant / At-Risk,0.079
+F03140,Digital Browsers,0.079
+F03145,Digital Browsers,0.079
+F03133,Digital Browsers,0.079
+F01990,Digital Browsers,0.079
+F00522,Digital Browsers,0.079
+F00509,Dormant / At-Risk,0.079
+F00510,Digital Browsers,0.079
+F04567,Digital Browsers,0.079
+F02882,Digital Browsers,0.079
+F03746,Dormant / At-Risk,0.079
+F00893,Dormant / At-Risk,0.079
+F00884,Digital Browsers,0.079
+F00890,Dormant / At-Risk,0.079
+F05584,Dormant / At-Risk,0.079
+F05587,Digital Browsers,0.079
+F00851,Dormant / At-Risk,0.079
+F03827,Digital Browsers,0.079
+F01905,Dormant / At-Risk,0.079
+F01957,Digital Browsers,0.079
+F05328,Digital Browsers,0.079
+F01567,Digital Browsers,0.079
+F04591,Digital Browsers,0.079
+F03394,Dormant / At-Risk,0.079
+F03340,Dormant / At-Risk,0.079
+F03341,Digital Browsers,0.079
+F01461,Dormant / At-Risk,0.079
+F01542,Digital Browsers,0.079
+F05361,Digital Browsers,0.079
+F05762,Digital Browsers,0.079
+F00533,Dormant / At-Risk,0.079
+F04308,Digital Browsers,0.079
+F04315,Casual Followers,0.079
+F05313,Dormant / At-Risk,0.079
+F03280,Digital Browsers,0.079
+F01595,Digital Browsers,0.079
+F03325,Dormant / At-Risk,0.079
+F02012,Dormant / At-Risk,0.079
+F03112,Dormant / At-Risk,0.079
+F01885,Dormant / At-Risk,0.079
+F01869,Dormant / At-Risk,0.079
+F03824,Dormant / At-Risk,0.079
+F00657,Digital Browsers,0.079
+F05639,Dormant / At-Risk,0.079
+F02765,Digital Browsers,0.079
+F02521,Digital Browsers,0.079
+F02510,Digital Browsers,0.079
+F04897,Dormant / At-Risk,0.079
+F02848,Digital Browsers,0.079
+F05642,Dormant / At-Risk,0.079
+F05643,Digital Browsers,0.079
+F00815,Digital Browsers,0.079
+F00440,Digital Browsers,0.079
+F05753,Digital Browsers,0.079
+F03283,Dormant / At-Risk,0.079
+F01946,Dormant / At-Risk,0.079
+F01893,Dormant / At-Risk,0.079
+F04025,Dormant / At-Risk,0.079
+F04013,Digital Browsers,0.079
+F04028,Dormant / At-Risk,0.079
+F04022,Digital Browsers,0.079
+F05202,Dormant / At-Risk,0.079
+F01800,Dormant / At-Risk,0.079
+F04605,Digital Browsers,0.079
+F04609,Dormant / At-Risk,0.079
+F01716,Dormant / At-Risk,0.079
+F03242,Dormant / At-Risk,0.079
+F01761,Digital Browsers,0.079
+F05255,Digital Browsers,0.079
+F05261,Digital Browsers,0.079
+F03265,Dormant / At-Risk,0.079
+F03264,Dormant / At-Risk,0.079
+F03963,Digital Browsers,0.079
+F03949,Digital Browsers,0.079
+F00435,Dormant / At-Risk,0.079
+F00486,Dormant / At-Risk,0.079
+F01772,Digital Browsers,0.079
+F01774,Digital Browsers,0.079
+F00367,Dormant / At-Risk,0.079
+F00381,Digital Browsers,0.079
+F03225,Digital Browsers,0.079
+F03160,Digital Browsers,0.079
+F05167,Dormant / At-Risk,0.079
+F04643,Dormant / At-Risk,0.079
+F03727,Digital Browsers,0.079
+F03734,Dormant / At-Risk,0.079
+F00821,Digital Browsers,0.079
+F03808,Digital Browsers,0.079
+F03787,Digital Browsers,0.079
+F00768,Dormant / At-Risk,0.079
+F05919,Digital Browsers,0.079
+F05921,Dormant / At-Risk,0.079
+F02544,Dormant / At-Risk,0.079
+F02759,Dormant / At-Risk,0.079
+F02763,Digital Browsers,0.079
+F00093,Digital Browsers,0.079
+F05987,Dormant / At-Risk,0.079
+F05999,Digital Browsers,0.079
+F00039,Dormant / At-Risk,0.078
+F00032,Digital Browsers,0.078
+F02838,Digital Browsers,0.078
+F02877,Digital Browsers,0.078
+F02868,Digital Browsers,0.078
+F02821,Digital Browsers,0.078
+F04162,Dormant / At-Risk,0.078
+F04141,Digital Browsers,0.078
+F04928,Dormant / At-Risk,0.078
+F04912,Dormant / At-Risk,0.078
+F04772,Dormant / At-Risk,0.078
+F04750,Dormant / At-Risk,0.078
+F02330,Digital Browsers,0.078
+F00233,Digital Browsers,0.078
+F00235,Dormant / At-Risk,0.078
+F02903,Casual Followers,0.078
+F02385,Digital Browsers,0.078
+F04965,Dormant / At-Risk,0.078
+F04950,Digital Browsers,0.078
+F04945,Digital Browsers,0.078
+F03706,Dormant / At-Risk,0.078
+F03692,Dormant / At-Risk,0.078
+F03750,Digital Browsers,0.078
+F03742,Dormant / At-Risk,0.078
+F00659,Dormant / At-Risk,0.078
+F03883,Digital Browsers,0.078
+F03871,Dormant / At-Risk,0.078
+F05706,Digital Browsers,0.078
+F03708,Dormant / At-Risk,0.078
+F04408,Casual Followers,0.078
+F04409,Digital Browsers,0.078
+F04403,Digital Browsers,0.078
+F05628,Casual Followers,0.078
+F00667,Digital Browsers,0.078
+F00653,Dormant / At-Risk,0.078
+F03733,Digital Browsers,0.078
+F00860,Digital Browsers,0.078
+F03739,Casual Followers,0.078
+F03728,Digital Browsers,0.078
+F04424,Digital Browsers,0.078
+F04414,Digital Browsers,0.078
+F04485,Digital Browsers,0.078
+F04489,Digital Browsers,0.078
+F04479,Dormant / At-Risk,0.078
+F03657,Digital Browsers,0.078
+F01105,Digital Browsers,0.078
+F05504,Dormant / At-Risk,0.078
+F01071,Dormant / At-Risk,0.078
+F01042,Digital Browsers,0.078
+F01011,Digital Browsers,0.078
+F01049,Dormant / At-Risk,0.078
+F05689,Digital Browsers,0.078
+F00598,Digital Browsers,0.078
+F00590,Dormant / At-Risk,0.078
+F00591,Dormant / At-Risk,0.078
+F05554,Digital Browsers,0.078
+F00913,Dormant / At-Risk,0.078
+F04138,Digital Browsers,0.078
+F02360,Dormant / At-Risk,0.078
+F02900,Dormant / At-Risk,0.078
+F02936,Dormant / At-Risk,0.078
+F02937,Digital Browsers,0.078
+F04730,Digital Browsers,0.078
+F04719,Dormant / At-Risk,0.078
+F05880,Digital Browsers,0.078
+F02980,Dormant / At-Risk,0.078
+F02181,Dormant / At-Risk,0.078
+F02899,Dormant / At-Risk,0.078
+F02199,Casual Followers,0.078
+F03029,Digital Browsers,0.078
+F05063,Digital Browsers,0.078
+F02282,Casual Followers,0.078
+F05033,Dormant / At-Risk,0.078
+F05708,Casual Followers,0.078
+F03945,Digital Browsers,0.078
+F05393,Digital Browsers,0.078
+F01321,Dormant / At-Risk,0.078
+F04559,Digital Browsers,0.078
+F03514,Dormant / At-Risk,0.078
+F04500,Digital Browsers,0.078
+F03528,Casual Followers,0.078
+F01233,Digital Browsers,0.078
+F01219,Digital Browsers,0.078
+F01255,Digital Browsers,0.078
+F03621,Casual Followers,0.078
+F03554,Dormant / At-Risk,0.078
+F05424,Dormant / At-Risk,0.078
+F02122,Digital Browsers,0.078
+F02153,Dormant / At-Risk,0.078
+F02142,Casual Followers,0.078
+F02133,Dormant / At-Risk,0.078
+F03023,Digital Browsers,0.078
+F04714,Casual Followers,0.078
+F00357,Digital Browsers,0.078
+F00344,Dormant / At-Risk,0.078
+F00296,Dormant / At-Risk,0.078
+F04067,Dormant / At-Risk,0.078
+F04052,Casual Followers,0.078
+F04097,Dormant / At-Risk,0.078
+F05088,Casual Followers,0.078
+F05079,Dormant / At-Risk,0.078
+F05100,Dormant / At-Risk,0.078
+F03069,Digital Browsers,0.078
+F03101,Digital Browsers,0.078
+F03106,Digital Browsers,0.078
+F03098,Digital Browsers,0.078
+F02064,Dormant / At-Risk,0.078
+F03972,Dormant / At-Risk,0.078
+F05764,Casual Followers,0.078
+F05769,Dormant / At-Risk,0.078
+F05349,Dormant / At-Risk,0.078
+F01480,Digital Browsers,0.078
+F01456,Digital Browsers,0.078
+F05357,Dormant / At-Risk,0.078
+F01397,Digital Browsers,0.078
+F01394,Dormant / At-Risk,0.078
+F03931,Casual Followers,0.078
+F03457,Dormant / At-Risk,0.078
+F01330,Dormant / At-Risk,0.078
+F04563,Casual Followers,0.078
+F01382,Digital Browsers,0.078
+F01383,Casual Followers,0.078
+F01406,Digital Browsers,0.078
+F01913,Digital Browsers,0.078
+F01914,Digital Browsers,0.078
+F05170,Digital Browsers,0.078
+F01894,Casual Followers,0.078
+F01882,Dormant / At-Risk,0.078
+F04663,Casual Followers,0.078
+F00388,Dormant / At-Risk,0.078
+F04034,Dormant / At-Risk,0.078
+F04014,Casual Followers,0.078
+F00322,Casual Followers,0.078
+F00323,Digital Browsers,0.078
+F00308,Dormant / At-Risk,0.078
+F03202,Dormant / At-Risk,0.078
+F03190,Digital Browsers,0.078
+F01802,Dormant / At-Risk,0.078
+F05813,Dormant / At-Risk,0.078
+F04656,Casual Followers,0.078
+F05194,Dormant / At-Risk,0.078
+F05182,Digital Browsers,0.078
+F03951,Digital Browsers,0.078
+F01674,Dormant / At-Risk,0.078
+F01660,Casual Followers,0.078
+F01700,Dormant / At-Risk,0.078
+F01701,Casual Followers,0.078
+F00456,Dormant / At-Risk,0.078
+F00485,Dormant / At-Risk,0.078
+F00464,Digital Browsers,0.078
+F03957,Digital Browsers,0.078
+F05315,Digital Browsers,0.078
+F05302,Digital Browsers,0.078
+F01515,Digital Browsers,0.078
+F03400,Digital Browsers,0.078
+F05346,Dormant / At-Risk,0.078
+F05334,Digital Browsers,0.078
+F05329,Digital Browsers,0.078
+F03328,Digital Browsers,0.078
+F03320,Dormant / At-Risk,0.078
+F01784,Digital Browsers,0.078
+F05227,Digital Browsers,0.078
+F05219,Digital Browsers,0.078
+F04628,Dormant / At-Risk,0.078
+F05790,Digital Browsers,0.078
+F00453,Dormant / At-Risk,0.078
+F04278,Dormant / At-Risk,0.078
+F04268,Digital Browsers,0.078
+F04040,Digital Browsers,0.078
+F00347,Dormant / At-Risk,0.078
+F03230,Dormant / At-Risk,0.078
+F03233,Digital Browsers,0.078
+F03216,Digital Browsers,0.078
+F03219,Dormant / At-Risk,0.078
+F03263,Digital Browsers,0.078
+F05796,Casual Followers,0.078
+F03251,Digital Browsers,0.078
+F03302,Digital Browsers,0.078
+F03287,Digital Browsers,0.078
+F01606,Digital Browsers,0.078
+F05250,Dormant / At-Risk,0.078
+F04177,Digital Browsers,0.078
+F02699,Dormant / At-Risk,0.078
+F02673,Dormant / At-Risk,0.078
+F02582,Casual Followers,0.078
+F02518,Dormant / At-Risk,0.078
+F02774,Digital Browsers,0.078
+F02776,Digital Browsers,0.078
+F02452,Dormant / At-Risk,0.078
+F02801,Digital Browsers,0.078
+F02508,Digital Browsers,0.078
+F04900,Digital Browsers,0.078
+F05651,Dormant / At-Risk,0.078
+F04371,Digital Browsers,0.078
+F00748,Digital Browsers,0.078
+F00059,Digital Browsers,0.078
+F00047,Digital Browsers,0.078
+F00100,Digital Browsers,0.078
+F00723,Digital Browsers,0.078
+F05657,Dormant / At-Risk,0.078
+F05649,Casual Followers,0.078
+F02704,Digital Browsers,0.078
+F00132,Digital Browsers,0.078
+F00135,Dormant / At-Risk,0.078
+F00108,Digital Browsers,0.078
+F00060,Dormant / At-Risk,0.078
+F02727,Dormant / At-Risk,0.078
+F04839,Digital Browsers,0.078
+F04826,Dormant / At-Risk,0.078
+F02608,Digital Browsers,0.078
+F02654,Dormant / At-Risk,0.078
+F04836,Digital Browsers,0.077
+F04842,Digital Browsers,0.077
+F04827,Digital Browsers,0.077
+F02708,Digital Browsers,0.077
+F00081,Dormant / At-Risk,0.077
+F00065,Digital Browsers,0.077
+F05675,Digital Browsers,0.077
+F05661,Dormant / At-Risk,0.077
+F04381,Dormant / At-Risk,0.077
+F03785,Digital Browsers,0.077
+F03768,Digital Browsers,0.077
+F03760,Digital Browsers,0.077
+F03762,Dormant / At-Risk,0.077
+F02805,Digital Browsers,0.077
+F02806,Dormant / At-Risk,0.077
+F02416,Dormant / At-Risk,0.077
+F04932,Dormant / At-Risk,0.077
+F04881,Digital Browsers,0.077
+F02489,Digital Browsers,0.077
+F02789,Dormant / At-Risk,0.077
+F02778,Digital Browsers,0.077
+F02751,Dormant / At-Risk,0.077
+F02579,Digital Browsers,0.077
+F04855,Dormant / At-Risk,0.077
+F02580,Digital Browsers,0.077
+F02746,Digital Browsers,0.077
+F04807,Dormant / At-Risk,0.077
+F04230,Digital Browsers,0.077
+F05911,Digital Browsers,0.077
+F00167,Digital Browsers,0.077
+F04225,Digital Browsers,0.077
+F04190,Casual Followers,0.077
+F00095,Digital Browsers,0.077
+F06000,Dormant / At-Risk,0.077
+F03254,Digital Browsers,0.077
+F05251,Dormant / At-Risk,0.077
+F05237,Dormant / At-Risk,0.077
+F01725,Digital Browsers,0.077
+F01720,Dormant / At-Risk,0.077
+F00376,Digital Browsers,0.077
+F04296,Dormant / At-Risk,0.077
+F00335,Digital Browsers,0.077
+F01781,Digital Browsers,0.077
+F01785,Digital Browsers,0.077
+F05212,Dormant / At-Risk,0.077
+F03317,Dormant / At-Risk,0.077
+F03357,Dormant / At-Risk,0.077
+F01597,Digital Browsers,0.077
+F01602,Digital Browsers,0.077
+F01592,Digital Browsers,0.077
+F01552,Digital Browsers,0.077
+F03282,Dormant / At-Risk,0.077
+F00516,Casual Followers,0.077
+F00446,Digital Browsers,0.077
+F00480,Dormant / At-Risk,0.077
+F00468,Digital Browsers,0.077
+F01654,Dormant / At-Risk,0.077
+F05277,Digital Browsers,0.077
+F03253,Digital Browsers,0.077
+F03172,Dormant / At-Risk,0.077
+F01839,Digital Browsers,0.077
+F05187,Digital Browsers,0.077
+F05175,Digital Browsers,0.077
+F01817,Digital Browsers,0.077
+F05199,Casual Followers,0.077
+F01799,Digital Browsers,0.077
+F00337,Digital Browsers,0.077
+F05823,Digital Browsers,0.077
+F04027,Digital Browsers,0.077
+F04012,Digital Browsers,0.077
+F01915,Digital Browsers,0.077
+F04671,Digital Browsers,0.077
+F01366,Digital Browsers,0.077
+F01359,Dormant / At-Risk,0.077
+F01412,Dormant / At-Risk,0.077
+F01416,Dormant / At-Risk,0.077
+F01407,Digital Browsers,0.077
+F03452,Dormant / At-Risk,0.077
+F03444,Dormant / At-Risk,0.077
+F01328,Dormant / At-Risk,0.077
+F01331,Digital Browsers,0.077
+F01426,Digital Browsers,0.077
+F01389,Digital Browsers,0.077
+F04569,Dormant / At-Risk,0.077
+F03929,Digital Browsers,0.077
+F04318,Digital Browsers,0.077
+F04305,Digital Browsers,0.077
+F01541,Digital Browsers,0.077
+F03057,Dormant / At-Risk,0.077
+F01965,Digital Browsers,0.077
+F01981,Digital Browsers,0.077
+F03105,Dormant / At-Risk,0.077
+F02076,Casual Followers,0.077
+F05124,Dormant / At-Risk,0.077
+F05125,Dormant / At-Risk,0.077
+F02045,Casual Followers,0.077
+F00295,Digital Browsers,0.077
+F04098,Digital Browsers,0.077
+F05056,Casual Followers,0.077
+F04706,Dormant / At-Risk,0.077
+F03569,Digital Browsers,0.077
+F03608,Digital Browsers,0.077
+F01220,Dormant / At-Risk,0.077
+F03563,Digital Browsers,0.077
+F03536,Digital Browsers,0.077
+F01206,Digital Browsers,0.077
+F01202,Dormant / At-Risk,0.077
+F01256,Digital Browsers,0.077
+F01245,Digital Browsers,0.077
+F03512,Casual Followers,0.077
+F03513,Casual Followers,0.077
+F03501,Digital Browsers,0.077
+F01272,Dormant / At-Risk,0.077
+F03486,Digital Browsers,0.077
+F05438,Dormant / At-Risk,0.077
+F00616,Digital Browsers,0.077
+F01305,Casual Followers,0.077
+F04545,Digital Browsers,0.077
+F03005,Digital Browsers,0.077
+F03009,Digital Browsers,0.077
+F05022,Dormant / At-Risk,0.077
+F02987,Dormant / At-Risk,0.077
+F02973,Dormant / At-Risk,0.077
+F02977,Dormant / At-Risk,0.077
+F02256,Digital Browsers,0.077
+F04974,Casual Followers,0.077
+F04742,Digital Browsers,0.077
+F04718,Dormant / At-Risk,0.077
+F04721,Casual Followers,0.077
+F02379,Digital Browsers,0.077
+F02365,Digital Browsers,0.077
+F02305,Dormant / At-Risk,0.077
+F02295,Dormant / At-Risk,0.077
+F02338,Digital Browsers,0.077
+F00929,Digital Browsers,0.077
+F00920,Casual Followers,0.077
+F00969,Digital Browsers,0.077
+F03716,Dormant / At-Risk,0.077
+F01012,Digital Browsers,0.077
+F01004,Digital Browsers,0.077
+F00973,Digital Browsers,0.077
+F04442,Digital Browsers,0.077
+F00637,Digital Browsers,0.077
+F00638,Casual Followers,0.077
+F00630,Casual Followers,0.077
+F03855,Dormant / At-Risk,0.077
+F04333,Digital Browsers,0.077
+F05540,Dormant / At-Risk,0.077
+F05533,Digital Browsers,0.077
+F03656,Dormant / At-Risk,0.077
+F05619,Digital Browsers,0.077
+F00833,Digital Browsers,0.077
+F04418,Digital Browsers,0.077
+F00784,Digital Browsers,0.077
+F00709,Dormant / At-Risk,0.077
+F03826,Dormant / At-Risk,0.077
+F05607,Digital Browsers,0.077
+F05590,Digital Browsers,0.077
+F03713,Digital Browsers,0.077
+F05572,Digital Browsers,0.077
+F05577,Dormant / At-Risk,0.077
+F02384,Dormant / At-Risk,0.077
+F02355,Digital Browsers,0.077
+F04949,Dormant / At-Risk,0.077
+F02864,Digital Browsers,0.077
+F04759,Dormant / At-Risk,0.077
+F04749,Dormant / At-Risk,0.077
+F00218,Dormant / At-Risk,0.077
+F00208,Dormant / At-Risk,0.077
+F00149,Dormant / At-Risk,0.077
+F04120,Digital Browsers,0.077
+F02887,Casual Followers,0.077
+F02872,Dormant / At-Risk,0.077
+F02391,Dormant / At-Risk,0.077
+F02824,Digital Browsers,0.077
+F02670,Digital Browsers,0.077
+F05963,Digital Browsers,0.076
+F05951,Digital Browsers,0.076
+F04993,Digital Browsers,0.076
+F00155,Casual Followers,0.076
+F00007,Casual Followers,0.076
+F00113,Digital Browsers,0.076
+F03425,Dormant / At-Risk,0.076
+F01505,Dormant / At-Risk,0.076
+F01506,Digital Browsers,0.076
+F02388,Digital Browsers,0.076
+F01459,Digital Browsers,0.076
+F00730,Dormant / At-Risk,0.076
+F04610,Casual Followers,0.076
+F03378,Casual Followers,0.076
+F04570,Digital Browsers,0.076
+F04580,Casual Followers,0.076
+F03412,Digital Browsers,0.076
+F00872,Digital Browsers,0.076
+F02905,Dormant / At-Risk,0.076
+F04770,Dormant / At-Risk,0.076
+F04778,Digital Browsers,0.076
+F01892,Casual Followers,0.076
+F01970,Digital Browsers,0.076
+F05144,Digital Browsers,0.076
+F00282,Digital Browsers,0.076
+F05840,Dormant / At-Risk,0.076
+F00317,Casual Followers,0.076
+F01994,Digital Browsers,0.076
+F04309,Dormant / At-Risk,0.076
+F03959,Digital Browsers,0.076
+F01753,Casual Followers,0.076
+F05621,Dormant / At-Risk,0.076
+F02440,Digital Browsers,0.076
+F00782,Digital Browsers,0.076
+F05618,Digital Browsers,0.076
+F03406,Dormant / At-Risk,0.076
+F00677,Digital Browsers,0.076
+F00693,Digital Browsers,0.076
+F00711,Dormant / At-Risk,0.076
+F05355,Dormant / At-Risk,0.076
+F02322,Dormant / At-Risk,0.076
+F01522,Digital Browsers,0.076
+F05327,Digital Browsers,0.076
+F02474,Digital Browsers,0.076
+F00688,Digital Browsers,0.076
+F04980,Digital Browsers,0.076
+F03227,Dormant / At-Risk,0.076
+F03298,Digital Browsers,0.076
+F02527,Dormant / At-Risk,0.076
+F03104,Dormant / At-Risk,0.076
+F04720,Digital Browsers,0.076
+F01726,Dormant / At-Risk,0.076
+F05122,Dormant / At-Risk,0.076
+F01950,Casual Followers,0.076
+F01241,Casual Followers,0.076
+F02638,Dormant / At-Risk,0.076
+F03794,Digital Browsers,0.076
+F03800,Digital Browsers,0.076
+F03880,Dormant / At-Risk,0.076
+F05475,Digital Browsers,0.076
+F01205,Digital Browsers,0.076
+F01207,Dormant / At-Risk,0.076
+F01208,Digital Browsers,0.076
+F01172,Digital Browsers,0.076
+F04598,Dormant / At-Risk,0.076
+F04620,Dormant / At-Risk,0.076
+F03402,Digital Browsers,0.076
+F03356,Digital Browsers,0.076
+F04509,Digital Browsers,0.076
+F05047,Dormant / At-Risk,0.076
+F05053,Dormant / At-Risk,0.076
+F00639,Casual Followers,0.076
+F04461,Digital Browsers,0.076
+F02239,Dormant / At-Risk,0.076
+F03587,Dormant / At-Risk,0.076
+F00597,Dormant / At-Risk,0.076
+F01590,Digital Browsers,0.076
+F02217,Digital Browsers,0.076
+F05318,Digital Browsers,0.076
+F00568,Digital Browsers,0.076
+F00581,Casual Followers,0.076
+F02195,Digital Browsers,0.076
+F05731,Digital Browsers,0.076
+F05806,Digital Browsers,0.076
+F03900,Dormant / At-Risk,0.076
+F03747,Digital Browsers,0.076
+F04407,Digital Browsers,0.076
+F03819,Digital Browsers,0.076
+F00943,Dormant / At-Risk,0.076
+F00334,Digital Browsers,0.076
+F01689,Dormant / At-Risk,0.076
+F05801,Casual Followers,0.076
+F01691,Dormant / At-Risk,0.076
+F01663,Digital Browsers,0.076
+F05272,Digital Browsers,0.076
+F05820,Casual Followers,0.076
+F02645,Dormant / At-Risk,0.076
+F05527,Casual Followers,0.076
+F04871,Dormant / At-Risk,0.076
+F02139,Digital Browsers,0.076
+F03305,Digital Browsers,0.076
+F00897,Dormant / At-Risk,0.076
+F03710,Digital Browsers,0.076
+F00488,Digital Browsers,0.076
+F05275,Dormant / At-Risk,0.076
+F02108,Dormant / At-Risk,0.076
+F01229,Digital Browsers,0.076
+F04907,Dormant / At-Risk,0.076
+F01261,Dormant / At-Risk,0.076
+F05074,Casual Followers,0.076
+F02093,Digital Browsers,0.076
+F04696,Dormant / At-Risk,0.076
+F03076,Dormant / At-Risk,0.076
+F05579,Dormant / At-Risk,0.076
+F02657,Casual Followers,0.076
+F00475,Digital Browsers,0.076
+F05741,Dormant / At-Risk,0.076
+F03677,Digital Browsers,0.076
+F03684,Casual Followers,0.076
+F00544,Dormant / At-Risk,0.076
+F05410,Digital Browsers,0.076
+F00474,Digital Browsers,0.076
+F02167,Dormant / At-Risk,0.076
+F02555,Digital Browsers,0.076
+F04660,Digital Browsers,0.076
+F04880,Dormant / At-Risk,0.076
+F04895,Casual Followers,0.076
+F00958,Digital Browsers,0.076
+F05582,Casual Followers,0.076
+F00878,Digital Browsers,0.076
+F00917,Digital Browsers,0.076
+F02554,Digital Browsers,0.076
+F04033,Digital Browsers,0.076
+F05217,Casual Followers,0.076
+F01740,Digital Browsers,0.076
+F04179,Casual Followers,0.076
+F05203,Digital Browsers,0.076
+F05205,Casual Followers,0.076
+F04066,Digital Browsers,0.076
+F00136,Dormant / At-Risk,0.076
+F04156,Dormant / At-Risk,0.076
+F04163,Digital Browsers,0.076
+F04037,Digital Browsers,0.076
+F03988,Digital Browsers,0.076
+F04276,Digital Browsers,0.076
+F04065,Digital Browsers,0.076
+F05916,Casual Followers,0.076
+F05926,Dormant / At-Risk,0.076
+F00172,Digital Browsers,0.076
+F00001,Casual Followers,0.076
+F04060,Digital Browsers,0.076
+F00209,Digital Browsers,0.076
+F00258,Digital Browsers,0.076
+F03916,Digital Browsers,0.076
+F00211,Digital Browsers,0.076
+F05878,Casual Followers,0.076
+F03043,Digital Browsers,0.076
+F01920,Digital Browsers,0.076
+F01876,Dormant / At-Risk,0.076
+F04054,Dormant / At-Risk,0.076
+F02812,Digital Browsers,0.076
+F01147,Digital Browsers,0.076
+F01185,Dormant / At-Risk,0.076
+F02879,Casual Followers,0.076
+F02982,Digital Browsers,0.076
+F01116,Digital Browsers,0.076
+F05510,Dormant / At-Risk,0.076
+F01137,Digital Browsers,0.076
+F02945,Digital Browsers,0.076
+F02967,Casual Followers,0.076
+F02771,Dormant / At-Risk,0.076
+F04216,Dormant / At-Risk,0.075
+F05979,Dormant / At-Risk,0.075
+F02780,Digital Browsers,0.075
+F02984,Dormant / At-Risk,0.075
+F03012,Dormant / At-Risk,0.075
+F02931,Casual Followers,0.075
+F01877,Digital Browsers,0.075
+F01841,Dormant / At-Risk,0.075
+F01850,Digital Browsers,0.075
+F00230,Digital Browsers,0.075
+F04127,Dormant / At-Risk,0.075
+F04165,Digital Browsers,0.075
+F04166,Digital Browsers,0.075
+F00074,Dormant / At-Risk,0.075
+F00102,Casual Followers,0.075
+F04196,Casual Followers,0.075
+F04245,Dormant / At-Risk,0.075
+F04121,Digital Browsers,0.075
+F01908,Dormant / At-Risk,0.075
+F01911,Dormant / At-Risk,0.075
+F01917,Digital Browsers,0.075
+F04020,Digital Browsers,0.075
+F01828,Casual Followers,0.075
+F05948,Digital Browsers,0.075
+F04212,Dormant / At-Risk,0.075
+F04674,Casual Followers,0.075
+F02590,Dormant / At-Risk,0.075
+F03124,Digital Browsers,0.075
+F03125,Digital Browsers,0.075
+F03174,Casual Followers,0.075
+F04661,Dormant / At-Risk,0.075
+F01442,Digital Browsers,0.075
+F01399,Dormant / At-Risk,0.075
+F01387,Digital Browsers,0.075
+F00467,Dormant / At-Risk,0.075
+F02172,Casual Followers,0.075
+F00496,Casual Followers,0.075
+F05322,Dormant / At-Risk,0.075
+F00542,Digital Browsers,0.075
+F05298,Casual Followers,0.075
+F03155,Digital Browsers,0.075
+F03063,Digital Browsers,0.075
+F05559,Casual Followers,0.075
+F00985,Dormant / At-Risk,0.075
+F02658,Dormant / At-Risk,0.075
+F01346,Digital Browsers,0.075
+F02120,Casual Followers,0.075
+F05297,Digital Browsers,0.075
+F05799,Digital Browsers,0.075
+F00433,Casual Followers,0.075
+F00429,Digital Browsers,0.075
+F02143,Casual Followers,0.075
+F02148,Dormant / At-Risk,0.075
+F05283,Digital Browsers,0.075
+F00889,Digital Browsers,0.075
+F02526,Digital Browsers,0.075
+F02696,Casual Followers,0.075
+F04815,Dormant / At-Risk,0.075
+F01068,Digital Browsers,0.075
+F01077,Dormant / At-Risk,0.075
+F02621,Casual Followers,0.075
+F02572,Dormant / At-Risk,0.075
+F01661,Digital Browsers,0.075
+F01681,Casual Followers,0.075
+F00379,Dormant / At-Risk,0.075
+F00383,Digital Browsers,0.075
+F00386,Digital Browsers,0.075
+F00410,Digital Browsers,0.075
+F00370,Digital Browsers,0.075
+F04420,Digital Browsers,0.075
+F04347,Dormant / At-Risk,0.075
+F00947,Dormant / At-Risk,0.075
+F05325,Casual Followers,0.075
+F00614,Casual Followers,0.075
+F02275,Dormant / At-Risk,0.075
+F04505,Dormant / At-Risk,0.075
+F04508,Digital Browsers,0.075
+F02222,Digital Browsers,0.075
+F04641,Casual Followers,0.075
+F03337,Dormant / At-Risk,0.075
+F03338,Dormant / At-Risk,0.075
+F04604,Dormant / At-Risk,0.075
+F03367,Casual Followers,0.075
+F03268,Dormant / At-Risk,0.075
+F03343,Digital Browsers,0.075
+F05468,Casual Followers,0.075
+F01197,Dormant / At-Risk,0.075
+F01177,Dormant / At-Risk,0.075
+F02642,Casual Followers,0.075
+F03892,Casual Followers,0.075
+F01718,Digital Browsers,0.075
+F02017,Digital Browsers,0.075
+F02050,Digital Browsers,0.075
+F01953,Digital Browsers,0.075
+F05245,Dormant / At-Risk,0.075
+F01037,Dormant / At-Risk,0.075
+F01039,Dormant / At-Risk,0.075
+F01046,Digital Browsers,0.075
+F03147,Digital Browsers,0.075
+F04740,Dormant / At-Risk,0.075
+F05542,Dormant / At-Risk,0.075
+F05523,Dormant / At-Risk,0.075
+F04630,Digital Browsers,0.075
+F03221,Digital Browsers,0.075
+F03293,Digital Browsers,0.075
+F04967,Dormant / At-Risk,0.075
+F02349,Dormant / At-Risk,0.075
+F02472,Dormant / At-Risk,0.075
+F00736,Digital Browsers,0.075
+F05699,Digital Browsers,0.075
+F04979,Casual Followers,0.075
+F03490,Digital Browsers,0.075
+F04975,Casual Followers,0.075
+F02356,Digital Browsers,0.075
+F02394,Digital Browsers,0.075
+F02454,Digital Browsers,0.075
+F04139,Dormant / At-Risk,0.075
+F03997,Digital Browsers,0.075
+F04001,Dormant / At-Risk,0.075
+F03948,Digital Browsers,0.075
+F01745,Dormant / At-Risk,0.075
+F00324,Dormant / At-Risk,0.075
+F00275,Digital Browsers,0.075
+F05860,Digital Browsers,0.075
+F05155,Digital Browsers,0.075
+F00311,Dormant / At-Risk,0.075
+F04360,Dormant / At-Risk,0.075
+F02021,Dormant / At-Risk,0.075
+F01974,Dormant / At-Risk,0.075
+F05151,Dormant / At-Risk,0.075
+F02909,Dormant / At-Risk,0.075
+F04751,Digital Browsers,0.075
+F02862,Digital Browsers,0.075
+F02873,Digital Browsers,0.075
+F05463,Dormant / At-Risk,0.075
+F03286,Dormant / At-Risk,0.075
+F00861,Dormant / At-Risk,0.075
+F00863,Casual Followers,0.075
+F00819,Dormant / At-Risk,0.075
+F00771,Digital Browsers,0.075
+F03521,Digital Browsers,0.075
+F04607,Digital Browsers,0.075
+F05384,Digital Browsers,0.075
+F04579,Dormant / At-Risk,0.075
+F01453,Digital Browsers,0.075
+F04981,Digital Browsers,0.075
+F02286,Casual Followers,0.075
+F00162,Dormant / At-Risk,0.075
+F05967,Dormant / At-Risk,0.075
+F00174,Dormant / At-Risk,0.075
+F05913,Digital Browsers,0.075
+F01103,Digital Browsers,0.075
+F01820,Digital Browsers,0.075
+F01864,Casual Followers,0.075
+F01807,Digital Browsers,0.074
+F01776,Digital Browsers,0.074
+F05223,Digital Browsers,0.074
+F04095,Casual Followers,0.074
+F01960,Dormant / At-Risk,0.074
+F04207,Digital Browsers,0.074
+F05937,Dormant / At-Risk,0.074
+F04049,Digital Browsers,0.074
+F01472,Dormant / At-Risk,0.074
+F00016,Digital Browsers,0.074
+F04984,Dormant / At-Risk,0.074
+F00165,Dormant / At-Risk,0.074
+F00089,Dormant / At-Risk,0.074
+F02342,Digital Browsers,0.074
+F05632,Casual Followers,0.074
+F00843,Digital Browsers,0.074
+F03460,Digital Browsers,0.074
+F02382,Digital Browsers,0.074
+F02363,Digital Browsers,0.074
+F02367,Dormant / At-Risk,0.074
+F05007,Casual Followers,0.074
+F00756,Casual Followers,0.074
+F00761,Casual Followers,0.074
+F00774,Digital Browsers,0.074
+F05669,Dormant / At-Risk,0.074
+F03279,Digital Browsers,0.074
+F03385,Digital Browsers,0.074
+F00801,Digital Browsers,0.074
+F04583,Digital Browsers,0.074
+F05350,Dormant / At-Risk,0.074
+F02340,Dormant / At-Risk,0.074
+F00871,Digital Browsers,0.074
+F02211,Digital Browsers,0.074
+F05768,Digital Browsers,0.074
+F00495,Digital Browsers,0.074
+F00492,Dormant / At-Risk,0.074
+F00471,Digital Browsers,0.074
+F01327,Digital Browsers,0.074
+F05599,Casual Followers,0.074
+F03707,Dormant / At-Risk,0.074
+F03629,Digital Browsers,0.074
+F02138,Digital Browsers,0.074
+F00928,Dormant / At-Risk,0.074
+F00463,Digital Browsers,0.074
+F01436,Casual Followers,0.074
+F01635,Casual Followers,0.074
+F02174,Digital Browsers,0.074
+F05051,Casual Followers,0.074
+F05726,Casual Followers,0.074
+F05714,Casual Followers,0.074
+F03562,Digital Browsers,0.074
+F02238,Dormant / At-Risk,0.074
+F05057,Dormant / At-Risk,0.074
+F03187,Dormant / At-Risk,0.074
+F04908,Digital Browsers,0.074
+F02503,Dormant / At-Risk,0.074
+F02465,Casual Followers,0.074
+F03498,Dormant / At-Risk,0.074
+F04531,Dormant / At-Risk,0.074
+F02333,Casual Followers,0.074
+F02304,Digital Browsers,0.074
+F03837,Digital Browsers,0.074
+F03847,Digital Browsers,0.074
+F03879,Casual Followers,0.074
+F04366,Dormant / At-Risk,0.074
+F03913,Dormant / At-Risk,0.074
+F03793,Dormant / At-Risk,0.074
+F03942,Dormant / At-Risk,0.074
+F03941,Digital Browsers,0.074
+F01250,Digital Browsers,0.074
+F01252,Digital Browsers,0.074
+F02641,Digital Browsers,0.074
+F03086,Digital Browsers,0.074
+F02851,Casual Followers,0.074
+F02764,Digital Browsers,0.074
+F02826,Digital Browsers,0.074
+F01171,Dormant / At-Risk,0.074
+F04361,Digital Browsers,0.074
+F05862,Dormant / At-Risk,0.074
+F00297,Digital Browsers,0.074
+F05139,Digital Browsers,0.074
+F02859,Dormant / At-Risk,0.074
+F01992,Digital Browsers,0.074
+F05140,Dormant / At-Risk,0.074
+F01890,Digital Browsers,0.074
+F03018,Digital Browsers,0.074
+F00267,Casual Followers,0.074
+F05164,Digital Browsers,0.074
+F05883,Digital Browsers,0.074
+F04267,Digital Browsers,0.074
+F01757,Digital Browsers,0.074
+F03996,Digital Browsers,0.074
+F03995,Casual Followers,0.074
+F04804,Digital Browsers,0.074
+F05511,Digital Browsers,0.074
+F02954,Casual Followers,0.074
+F01110,Casual Followers,0.074
+F00019,Digital Browsers,0.074
+F01616,Casual Followers,0.074
+F02632,Digital Browsers,0.074
+F02684,Digital Browsers,0.074
+F05249,Casual Followers,0.074
+F05252,Digital Browsers,0.074
+F05128,Digital Browsers,0.074
+F05259,Casual Followers,0.074
+F03094,Digital Browsers,0.074
+F03111,Digital Browsers,0.074
+F01942,Digital Browsers,0.074
+F01086,Digital Browsers,0.074
+F05834,Digital Browsers,0.074
+F02668,Casual Followers,0.074
+F02611,Digital Browsers,0.074
+F01304,Digital Browsers,0.074
+F02663,Casual Followers,0.074
+F04354,Digital Browsers,0.074
+F04675,Digital Browsers,0.074
+F05563,Casual Followers,0.074
+F01351,Digital Browsers,0.074
+F05091,Dormant / At-Risk,0.074
+F04898,Casual Followers,0.074
+F05096,Dormant / At-Risk,0.074
+F05777,Digital Browsers,0.074
+F05786,Digital Browsers,0.074
+F00436,Digital Browsers,0.074
+F00431,Digital Browsers,0.074
+F01188,Digital Browsers,0.074
+F04220,Digital Browsers,0.074
+F00882,Casual Followers,0.073
+F00886,Casual Followers,0.073
+F00933,Casual Followers,0.073
+F02206,Casual Followers,0.073
+F05408,Digital Browsers,0.073
+F01338,Dormant / At-Risk,0.073
+F02202,Casual Followers,0.073
+F01594,Dormant / At-Risk,0.073
+F01639,Digital Browsers,0.073
+F05030,Digital Browsers,0.073
+F03639,Casual Followers,0.073
+F04478,Digital Browsers,0.073
+F00529,Casual Followers,0.073
+F03751,Digital Browsers,0.073
+F01578,Dormant / At-Risk,0.073
+F03612,Casual Followers,0.073
+F03213,Casual Followers,0.073
+F00621,Digital Browsers,0.073
+F00674,Casual Followers,0.073
+F02320,Digital Browsers,0.073
+F03446,Casual Followers,0.073
+F03570,Digital Browsers,0.073
+F02176,Digital Browsers,0.073
+F01371,Digital Browsers,0.073
+F03347,Digital Browsers,0.073
+F03315,Casual Followers,0.073
+F03327,Casual Followers,0.073
+F04492,Digital Browsers,0.073
+F00607,Digital Browsers,0.073
+F03632,Dormant / At-Risk,0.073
+F04550,Digital Browsers,0.073
+F03185,Digital Browsers,0.073
+F03301,Digital Browsers,0.073
+F02297,Digital Browsers,0.073
+F05907,Digital Browsers,0.073
+F00148,Dormant / At-Risk,0.073
+F00154,Digital Browsers,0.073
+F04990,Digital Browsers,0.073
+F00198,Digital Browsers,0.073
+F00178,Digital Browsers,0.073
+F04153,Dormant / At-Risk,0.073
+F05957,Digital Browsers,0.073
+F00062,Digital Browsers,0.073
+F01902,Casual Followers,0.073
+F04150,Digital Browsers,0.073
+F00118,Digital Browsers,0.073
+F01473,Casual Followers,0.073
+F01467,Digital Browsers,0.073
+F05663,Casual Followers,0.073
+F01474,Casual Followers,0.073
+F00796,Digital Browsers,0.073
+F05370,Dormant / At-Risk,0.073
+F03383,Digital Browsers,0.073
+F05646,Digital Browsers,0.073
+F04618,Digital Browsers,0.073
+F05668,Dormant / At-Risk,0.073
+F03465,Digital Browsers,0.073
+F02200,Digital Browsers,0.073
+F01554,Digital Browsers,0.073
+F01536,Casual Followers,0.073
+F02300,Digital Browsers,0.073
+F02303,Digital Browsers,0.073
+F02151,Digital Browsers,0.073
+F04441,Casual Followers,0.073
+F02080,Digital Browsers,0.073
+F02035,Digital Browsers,0.073
+F05521,Casual Followers,0.073
+F01717,Digital Browsers,0.073
+F05248,Digital Browsers,0.073
+F01043,Digital Browsers,0.073
+F01679,Digital Browsers,0.073
+F02008,Dormant / At-Risk,0.073
+F05835,Digital Browsers,0.073
+F03730,Casual Followers,0.073
+F00412,Casual Followers,0.073
+F04875,Digital Browsers,0.073
+F02625,Digital Browsers,0.073
+F02714,Digital Browsers,0.073
+F03769,Digital Browsers,0.073
+F00413,Casual Followers,0.073
+F05072,Digital Browsers,0.073
+F05087,Digital Browsers,0.073
+F00443,Casual Followers,0.073
+F00487,Casual Followers,0.073
+F01284,Digital Browsers,0.073
+F01269,Dormant / At-Risk,0.073
+F03102,Casual Followers,0.073
+F01234,Digital Browsers,0.073
+F01310,Digital Browsers,0.073
+F01301,Digital Browsers,0.073
+F03170,Digital Browsers,0.073
+F03149,Casual Followers,0.073
+F03207,Digital Browsers,0.073
+F03895,Digital Browsers,0.073
+F00454,Dormant / At-Risk,0.073
+F05779,Dormant / At-Risk,0.073
+F03688,Casual Followers,0.073
+F02553,Casual Followers,0.073
+F02550,Casual Followers,0.073
+F05539,Dormant / At-Risk,0.073
+F01089,Digital Browsers,0.073
+F05469,Casual Followers,0.073
+F00300,Casual Followers,0.073
+F01226,Casual Followers,0.073
+F04762,Digital Browsers,0.073
+F02869,Dormant / At-Risk,0.073
+F04369,Digital Browsers,0.073
+F03841,Digital Browsers,0.073
+F03838,Dormant / At-Risk,0.073
+F04241,Digital Browsers,0.073
+F05886,Digital Browsers,0.073
+F00225,Casual Followers,0.073
+F00243,Casual Followers,0.073
+F05871,Dormant / At-Risk,0.073
+F03978,Casual Followers,0.073
+F04310,Digital Browsers,0.073
+F04311,Digital Browsers,0.073
+F03974,Digital Browsers,0.073
+F01195,Digital Browsers,0.073
+F04809,Casual Followers,0.073
+F02959,Digital Browsers,0.073
+F02930,Casual Followers,0.073
+F01926,Digital Browsers,0.073
+F01928,Digital Browsers,0.073
+F02947,Digital Browsers,0.073
+F00031,Digital Browsers,0.073
+F01825,Dormant / At-Risk,0.072
+F01810,Digital Browsers,0.072
+F05526,Digital Browsers,0.072
+F00305,Casual Followers,0.072
+F01794,Digital Browsers,0.072
+F04287,Digital Browsers,0.072
+F05836,Digital Browsers,0.072
+F05847,Digital Browsers,0.072
+F04007,Casual Followers,0.072
+F02032,Casual Followers,0.072
+F04005,Dormant / At-Risk,0.072
+F00272,Digital Browsers,0.072
+F00355,Digital Browsers,0.072
+F00359,Casual Followers,0.072
+F00280,Digital Browsers,0.072
+F01986,Casual Followers,0.072
+F01985,Digital Browsers,0.072
+F04692,Digital Browsers,0.072
+F04385,Digital Browsers,0.072
+F04355,Casual Followers,0.072
+F03893,Casual Followers,0.072
+F03890,Dormant / At-Risk,0.072
+F05817,Casual Followers,0.072
+F02013,Digital Browsers,0.072
+F04375,Casual Followers,0.072
+F04384,Digital Browsers,0.072
+F01211,Casual Followers,0.072
+F01218,Dormant / At-Risk,0.072
+F01243,Digital Browsers,0.072
+F02915,Digital Browsers,0.072
+F05518,Digital Browsers,0.072
+F01253,Digital Browsers,0.072
+F03092,Casual Followers,0.072
+F05528,Dormant / At-Risk,0.072
+F01692,Digital Browsers,0.072
+F00957,Casual Followers,0.072
+F02601,Digital Browsers,0.072
+F02511,Digital Browsers,0.072
+F05414,Casual Followers,0.072
+F00916,Digital Browsers,0.072
+F00900,Dormant / At-Risk,0.072
+F03128,Dormant / At-Risk,0.072
+F03153,Digital Browsers,0.072
+F05576,Digital Browsers,0.072
+F02709,Dormant / At-Risk,0.072
+F04870,Digital Browsers,0.072
+F02605,Digital Browsers,0.072
+F02661,Casual Followers,0.072
+F03075,Dormant / At-Risk,0.072
+F03028,Casual Followers,0.072
+F02011,Casual Followers,0.072
+F05828,Casual Followers,0.072
+F03835,Digital Browsers,0.072
+F03779,Digital Browsers,0.072
+F02820,Casual Followers,0.072
+F04787,Digital Browsers,0.072
+F05488,Digital Browsers,0.072
+F00222,Casual Followers,0.072
+F04324,Digital Browsers,0.072
+F01849,Digital Browsers,0.072
+F03019,Digital Browsers,0.072
+F05884,Digital Browsers,0.072
+F04239,Dormant / At-Risk,0.072
+F04109,Casual Followers,0.072
+F02283,Digital Browsers,0.072
+F01562,Casual Followers,0.072
+F02419,Casual Followers,0.072
+F01428,Digital Browsers,0.072
+F04936,Casual Followers,0.072
+F05416,Digital Browsers,0.072
+F01363,Casual Followers,0.072
+F05018,Casual Followers,0.072
+F02244,Digital Browsers,0.072
+F05662,Casual Followers,0.072
+F00566,Casual Followers,0.072
+F00611,Casual Followers,0.072
+F01521,Casual Followers,0.072
+F05012,Dormant / At-Risk,0.072
+F03593,Digital Browsers,0.072
+F03584,Digital Browsers,0.072
+F04497,Casual Followers,0.072
+F04944,Digital Browsers,0.072
+F01630,Digital Browsers,0.072
+F05098,Digital Browsers,0.072
+F05305,Casual Followers,0.072
+F04481,Digital Browsers,0.072
+F05750,Casual Followers,0.072
+F00505,Digital Browsers,0.072
+F00439,Digital Browsers,0.072
+F01586,Digital Browsers,0.072
+F04448,Dormant / At-Risk,0.072
+F02101,Casual Followers,0.072
+F05293,Dormant / At-Risk,0.072
+F04446,Digital Browsers,0.072
+F03672,Digital Browsers,0.072
+F02146,Digital Browsers,0.072
+F01688,Casual Followers,0.072
+F03662,Digital Browsers,0.072
+F04747,Digital Browsers,0.072
+F04277,Digital Browsers,0.072
+F04238,Casual Followers,0.072
+F03451,Digital Browsers,0.072
+F04526,Casual Followers,0.072
+F03994,Digital Browsers,0.072
+F01465,Casual Followers,0.072
+F05381,Digital Browsers,0.072
+F01504,Digital Browsers,0.072
+F03488,Digital Browsers,0.072
+F02434,Digital Browsers,0.072
+F05635,Casual Followers,0.072
+F01162,Casual Followers,0.072
+F04757,Casual Followers,0.072
+F04776,Digital Browsers,0.072
+F02990,Digital Browsers,0.072
+F01138,Casual Followers,0.072
+F03477,Digital Browsers,0.072
+F03493,Digital Browsers,0.072
+F03395,Digital Browsers,0.072
+F05671,Digital Browsers,0.072
+F05379,Digital Browsers,0.072
+F03419,Casual Followers,0.072
+F02598,Digital Browsers,0.071
+F00981,Digital Browsers,0.071
+F04851,Digital Browsers,0.071
+F05450,Casual Followers,0.071
+F00974,Digital Browsers,0.071
+F02581,Casual Followers,0.071
+F00921,Digital Browsers,0.071
+F00934,Digital Browsers,0.071
+F00968,Dormant / At-Risk,0.071
+F00061,Dormant / At-Risk,0.071
+F00131,Digital Browsers,0.071
+F00094,Casual Followers,0.071
+F00083,Casual Followers,0.071
+F05156,Digital Browsers,0.071
+F04050,Casual Followers,0.071
+F00191,Digital Browsers,0.071
+F05207,Digital Browsers,0.071
+F00036,Casual Followers,0.071
+F05901,Casual Followers,0.071
+F00119,Casual Followers,0.071
+F00072,Digital Browsers,0.071
+F02649,Casual Followers,0.071
+F04862,Digital Browsers,0.071
+F04873,Casual Followers,0.071
+F02622,Digital Browsers,0.071
+F02768,Dormant / At-Risk,0.071
+F02897,Digital Browsers,0.071
+F01174,Casual Followers,0.071
+F04368,Digital Browsers,0.071
+F00395,Casual Followers,0.071
+F02669,Casual Followers,0.071
+F02671,Digital Browsers,0.071
+F05470,Casual Followers,0.071
+F04421,Digital Browsers,0.071
+F03911,Casual Followers,0.071
+F03881,Casual Followers,0.071
+F05210,Dormant / At-Risk,0.071
+F00197,Casual Followers,0.071
+F01837,Dormant / At-Risk,0.071
+F01731,Digital Browsers,0.071
+F05242,Digital Browsers,0.071
+F01652,Casual Followers,0.071
+F05267,Casual Followers,0.071
+F01352,Digital Browsers,0.071
+F01553,Digital Browsers,0.071
+F05031,Casual Followers,0.071
+F03549,Digital Browsers,0.071
+F05333,Digital Browsers,0.071
+F04462,Casual Followers,0.071
+F04920,Digital Browsers,0.071
+F02423,Casual Followers,0.071
+F03212,Dormant / At-Risk,0.071
+F02413,Dormant / At-Risk,0.071
+F05396,Digital Browsers,0.071
+F03239,Digital Browsers,0.071
+F03313,Digital Browsers,0.071
+F02401,Digital Browsers,0.071
+F00477,Casual Followers,0.071
+F02117,Digital Browsers,0.071
+F00448,Casual Followers,0.071
+F05291,Digital Browsers,0.071
+F01659,Digital Browsers,0.071
+F01682,Digital Browsers,0.071
+F04454,Digital Browsers,0.071
+F00536,Digital Browsers,0.071
+F02159,Casual Followers,0.071
+F00540,Digital Browsers,0.071
+F02136,Digital Browsers,0.071
+F02129,Digital Browsers,0.071
+F02450,Casual Followers,0.071
+F02208,Digital Browsers,0.071
+F05406,Digital Browsers,0.071
+F02366,Digital Browsers,0.071
+F00750,Casual Followers,0.071
+F03982,Digital Browsers,0.071
+F00624,Digital Browsers,0.071
+F05382,Digital Browsers,0.071
+F00691,Digital Browsers,0.071
+F02327,Casual Followers,0.071
+F04977,Casual Followers,0.071
+F04557,Dormant / At-Risk,0.071
+F05654,Casual Followers,0.071
+F05640,Casual Followers,0.071
+F00905,Digital Browsers,0.071
+F00812,Digital Browsers,0.071
+F02407,Digital Browsers,0.071
+F02409,Digital Browsers,0.071
+F02435,Casual Followers,0.071
+F03461,Digital Browsers,0.071
+F00846,Digital Browsers,0.071
+F04996,Digital Browsers,0.071
+F03930,Casual Followers,0.071
+F01954,Dormant / At-Risk,0.071
+F04254,Casual Followers,0.071
+F03969,Casual Followers,0.071
+F00241,Dormant / At-Risk,0.071
+F03958,Digital Browsers,0.071
+F02972,Casual Followers,0.071
+F03044,Casual Followers,0.071
+F02793,Digital Browsers,0.071
+F00076,Digital Browsers,0.071
+F04223,Casual Followers,0.071
+F04199,Dormant / At-Risk,0.071
+F04203,Casual Followers,0.071
+F00011,Casual Followers,0.071
+F04178,Casual Followers,0.07
+F01118,Digital Browsers,0.07
+F02939,Digital Browsers,0.07
+F04128,Casual Followers,0.07
+F04293,Casual Followers,0.07
+F04091,Casual Followers,0.07
+F04279,Casual Followers,0.07
+F05876,Casual Followers,0.07
+F03923,Casual Followers,0.07
+F00210,Casual Followers,0.07
+F01958,Casual Followers,0.07
+F01897,Digital Browsers,0.07
+F01891,Digital Browsers,0.07
+F03484,Casual Followers,0.07
+F02339,Digital Browsers,0.07
+F01525,Digital Browsers,0.07
+F02424,Digital Browsers,0.07
+F02387,Digital Browsers,0.07
+F03433,Digital Browsers,0.07
+F05620,Dormant / At-Risk,0.07
+F00903,Digital Browsers,0.07
+F00807,Casual Followers,0.07
+F00906,Digital Browsers,0.07
+F00716,Casual Followers,0.07
+F03483,Digital Browsers,0.07
+F00678,Casual Followers,0.07
+F04547,Casual Followers,0.07
+F02262,Digital Browsers,0.07
+F03581,Digital Browsers,0.07
+F03509,Casual Followers,0.07
+F01375,Dormant / At-Risk,0.07
+F03304,Digital Browsers,0.07
+F03243,Casual Followers,0.07
+F02374,Digital Browsers,0.07
+F04621,Digital Browsers,0.07
+F05023,Casual Followers,0.07
+F02279,Casual Followers,0.07
+F04502,Digital Browsers,0.07
+F04507,Digital Browsers,0.07
+F02274,Digital Browsers,0.07
+F00596,Digital Browsers,0.07
+F05348,Digital Browsers,0.07
+F00610,Casual Followers,0.07
+F05353,Digital Browsers,0.07
+F01547,Casual Followers,0.07
+F04831,Casual Followers,0.07
+F01083,Casual Followers,0.07
+F01091,Casual Followers,0.07
+F01040,Casual Followers,0.07
+F00004,Digital Browsers,0.07
+F04265,Casual Followers,0.07
+F00353,Digital Browsers,0.07
+F00314,Casual Followers,0.07
+F00326,Casual Followers,0.07
+F01979,Casual Followers,0.07
+F05241,Casual Followers,0.07
+F05228,Digital Browsers,0.07
+F05254,Casual Followers,0.07
+F01719,Casual Followers,0.07
+F02740,Casual Followers,0.07
+F02718,Digital Browsers,0.07
+F01818,Digital Browsers,0.07
+F00006,Digital Browsers,0.07
+F04100,Digital Browsers,0.07
+F05603,Casual Followers,0.07
+F01341,Casual Followers,0.07
+F01353,Casual Followers,0.07
+F00927,Casual Followers,0.07
+F02595,Dormant / At-Risk,0.07
+F05578,Casual Followers,0.07
+F00946,Casual Followers,0.07
+F05549,Casual Followers,0.07
+F03082,Casual Followers,0.07
+F02700,Casual Followers,0.07
+F02633,Casual Followers,0.07
+F02749,Casual Followers,0.07
+F04428,Casual Followers,0.07
+F05080,Digital Browsers,0.07
+F05075,Digital Browsers,0.07
+F00428,Digital Browsers,0.07
+F00450,Casual Followers,0.07
+F02115,Digital Browsers,0.07
+F05274,Casual Followers,0.07
+F01627,Casual Followers,0.07
+F05295,Casual Followers,0.07
+F00460,Dormant / At-Risk,0.07
+F00550,Digital Browsers,0.07
+F03604,Digital Browsers,0.07
+F04471,Digital Browsers,0.07
+F00520,Digital Browsers,0.07
+F02205,Casual Followers,0.07
+F02156,Digital Browsers,0.07
+F02183,Digital Browsers,0.07
+F05106,Casual Followers,0.07
+F02923,Digital Browsers,0.07
+F03108,Digital Browsers,0.07
+F01165,Casual Followers,0.07
+F03087,Digital Browsers,0.07
+F02690,Casual Followers,0.07
+F04372,Digital Browsers,0.07
+F02054,Digital Browsers,0.07
+F03776,Digital Browsers,0.07
+F03807,Digital Browsers,0.07
+F04338,Digital Browsers,0.07
+F03732,Dormant / At-Risk,0.07
+F03828,Dormant / At-Risk,0.07
+F05804,Digital Browsers,0.07
+F02000,Casual Followers,0.07
+F05437,Casual Followers,0.07
+F02481,Digital Browsers,0.069
+F02530,Casual Followers,0.069
+F02446,Digital Browsers,0.069
+F03291,Casual Followers,0.069
+F03275,Digital Browsers,0.069
+F01362,Casual Followers,0.069
+F01438,Digital Browsers,0.069
+F03364,Digital Browsers,0.069
+F02125,Casual Followers,0.069
+F01374,Casual Followers,0.069
+F01414,Digital Browsers,0.069
+F05326,Casual Followers,0.069
+F00587,Digital Browsers,0.069
+F04501,Digital Browsers,0.069
+F03548,Digital Browsers,0.069
+F02278,Casual Followers,0.069
+F02974,Digital Browsers,0.069
+F02813,Digital Browsers,0.069
+F04801,Digital Browsers,0.069
+F04798,Digital Browsers,0.069
+F05489,Casual Followers,0.069
+F02896,Casual Followers,0.069
+F05978,Casual Followers,0.069
+F02933,Casual Followers,0.069
+F04171,Casual Followers,0.069
+F04160,Dormant / At-Risk,0.069
+F00263,Casual Followers,0.069
+F02975,Casual Followers,0.069
+F04110,Digital Browsers,0.069
+F04253,Dormant / At-Risk,0.069
+F03960,Casual Followers,0.069
+F04116,Digital Browsers,0.069
+F04572,Digital Browsers,0.069
+F04549,Casual Followers,0.069
+F00744,Casual Followers,0.069
+F03450,Casual Followers,0.069
+F00676,Casual Followers,0.069
+F01496,Digital Browsers,0.069
+F02255,Digital Browsers,0.069
+F03566,Casual Followers,0.069
+F01423,Casual Followers,0.069
+F00137,Digital Browsers,0.069
+F01503,Dormant / At-Risk,0.069
+F03442,Dormant / At-Risk,0.069
+F00841,Digital Browsers,0.069
+F05616,Digital Browsers,0.069
+F03330,Digital Browsers,0.069
+F03503,Casual Followers,0.069
+F04687,Casual Followers,0.069
+F05558,Digital Browsers,0.069
+F05555,Casual Followers,0.069
+F01003,Casual Followers,0.069
+F05415,Casual Followers,0.069
+F02587,Digital Browsers,0.069
+F03200,Casual Followers,0.069
+F03209,Casual Followers,0.069
+F02551,Casual Followers,0.069
+F02562,Dormant / At-Risk,0.069
+F00888,Digital Browsers,0.069
+F03256,Digital Browsers,0.069
+F00937,Casual Followers,0.069
+F00936,Casual Followers,0.069
+F03137,Casual Followers,0.069
+F02576,Digital Browsers,0.069
+F01235,Digital Browsers,0.069
+F01318,Casual Followers,0.069
+F04901,Digital Browsers,0.069
+F01315,Casual Followers,0.069
+F02165,Casual Followers,0.069
+F03752,Casual Followers,0.069
+F00469,Casual Followers,0.069
+F01628,Digital Browsers,0.069
+F04445,Casual Followers,0.069
+F00482,Casual Followers,0.069
+F02119,Casual Followers,0.069
+F03689,Dormant / At-Risk,0.069
+F04436,Casual Followers,0.069
+F04432,Digital Browsers,0.069
+F05266,Digital Browsers,0.069
+F01678,Casual Followers,0.069
+F05751,Digital Browsers,0.069
+F01587,Casual Followers,0.069
+F05308,Digital Browsers,0.069
+F02797,Casual Followers,0.069
+F05517,Casual Followers,0.069
+F05529,Digital Browsers,0.069
+F03089,Casual Followers,0.069
+F04374,Casual Followers,0.069
+F05805,Digital Browsers,0.069
+F03866,Casual Followers,0.069
+F02655,Casual Followers,0.069
+F02002,Dormant / At-Risk,0.069
+F02830,Casual Followers,0.069
+F02913,Casual Followers,0.069
+F03909,Casual Followers,0.069
+F01741,Casual Followers,0.069
+F00268,Casual Followers,0.069
+F01948,Casual Followers,0.069
+F04003,Dormant / At-Risk,0.069
+F00320,Casual Followers,0.069
+F01770,Casual Followers,0.069
+F00096,Digital Browsers,0.069
+F01842,Casual Followers,0.069
+F05166,Casual Followers,0.069
+F05929,Casual Followers,0.069
+F05905,Casual Followers,0.069
+F01801,Casual Followers,0.069
+F01814,Casual Followers,0.069
+F01826,Casual Followers,0.069
+F01809,Digital Browsers,0.069
+F00026,Digital Browsers,0.069
+F00002,Digital Browsers,0.069
+F00012,Casual Followers,0.068
+F05983,Casual Followers,0.068
+F01813,Casual Followers,0.068
+F00117,Casual Followers,0.068
+F04753,Casual Followers,0.068
+F02917,Digital Browsers,0.068
+F03050,Digital Browsers,0.068
+F05545,Digital Browsers,0.068
+F05544,Casual Followers,0.068
+F01102,Digital Browsers,0.068
+F01175,Casual Followers,0.068
+F03037,Casual Followers,0.068
+F02617,Casual Followers,0.068
+F03033,Casual Followers,0.068
+F04734,Casual Followers,0.068
+F01625,Casual Followers,0.068
+F05299,Digital Browsers,0.068
+F03756,Digital Browsers,0.068
+F00555,Casual Followers,0.068
+F01607,Casual Followers,0.068
+F02748,Digital Browsers,0.068
+F02643,Digital Browsers,0.068
+F02640,Digital Browsers,0.068
+F03770,Casual Followers,0.068
+F05103,Casual Followers,0.068
+F03788,Digital Browsers,0.068
+F03791,Digital Browsers,0.068
+F03724,Digital Browsers,0.068
+F00414,Digital Browsers,0.068
+F05800,Casual Followers,0.068
+F00402,Digital Browsers,0.068
+F02112,Digital Browsers,0.068
+F00461,Casual Followers,0.068
+F00478,Digital Browsers,0.068
+F03872,Casual Followers,0.068
+F01998,Casual Followers,0.068
+F03816,Casual Followers,0.068
+F04477,Digital Browsers,0.068
+F04486,Casual Followers,0.068
+F03910,Casual Followers,0.068
+F00577,Casual Followers,0.068
+F00363,Digital Browsers,0.068
+F03796,Dormant / At-Risk,0.068
+F05270,Digital Browsers,0.068
+F02141,Digital Browsers,0.068
+F02894,Casual Followers,0.068
+F02800,Casual Followers,0.068
+F01991,Digital Browsers,0.068
+F02542,Digital Browsers,0.068
+F02659,Digital Browsers,0.068
+F00896,Digital Browsers,0.068
+F03372,Casual Followers,0.068
+F05666,Casual Followers,0.068
+F04903,Casual Followers,0.068
+F05431,Casual Followers,0.068
+F03397,Casual Followers,0.068
+F01481,Casual Followers,0.068
+F05681,Casual Followers,0.068
+F02405,Casual Followers,0.068
+F03523,Digital Browsers,0.068
+F03469,Digital Browsers,0.068
+F00724,Casual Followers,0.068
+F03516,Casual Followers,0.068
+F03456,Digital Browsers,0.068
+F04554,Digital Browsers,0.068
+F01502,Digital Browsers,0.068
+F03344,Digital Browsers,0.068
+F03196,Casual Followers,0.068
+F00599,Dormant / At-Risk,0.068
+F00876,Casual Followers,0.068
+F01030,Casual Followers,0.068
+F05711,Casual Followers,0.068
+F03533,Casual Followers,0.068
+F02201,Casual Followers,0.068
+F01529,Casual Followers,0.068
+F03583,Digital Browsers,0.068
+F02267,Digital Browsers,0.068
+F00455,Digital Browsers,0.068
+F00408,Casual Followers,0.068
+F05135,Digital Browsers,0.068
+F01405,Casual Followers,0.068
+F01139,Casual Followers,0.068
+F01135,Digital Browsers,0.068
+F01148,Casual Followers,0.068
+F05154,Digital Browsers,0.068
+F05152,Casual Followers,0.068
+F05486,Casual Followers,0.068
+F04321,Casual Followers,0.068
+F00115,Casual Followers,0.068
+F04063,Digital Browsers,0.068
+F04319,Digital Browsers,0.068
+F00213,Casual Followers,0.068
+F03924,Digital Browsers,0.068
+F04258,Digital Browsers,0.068
+F02836,Casual Followers,0.068
+F03432,Casual Followers,0.068
+F00837,Casual Followers,0.068
+F01358,Dormant / At-Risk,0.068
+F00193,Digital Browsers,0.068
+F00112,Casual Followers,0.068
+F00147,Casual Followers,0.068
+F04259,Casual Followers,0.068
+F00809,Casual Followers,0.068
+F00825,Digital Browsers,0.068
+F04955,Casual Followers,0.068
+F01380,Digital Browsers,0.068
+F01335,Digital Browsers,0.068
+F04959,Casual Followers,0.068
+F00847,Casual Followers,0.068
+F03370,Digital Browsers,0.068
+F02065,Casual Followers,0.067
+F01963,Casual Followers,0.067
+F00085,Casual Followers,0.067
+F03613,Casual Followers,0.067
+F01608,Digital Browsers,0.067
+F03753,Casual Followers,0.067
+F04332,Casual Followers,0.067
+F03906,Digital Browsers,0.067
+F01631,Casual Followers,0.067
+F04393,Digital Browsers,0.067
+F05260,Casual Followers,0.067
+F03943,Casual Followers,0.067
+F03882,Casual Followers,0.067
+F05263,Casual Followers,0.067
+F03764,Casual Followers,0.067
+F01080,Casual Followers,0.067
+F02929,Casual Followers,0.067
+F03056,Casual Followers,0.067
+F03096,Casual Followers,0.067
+F04711,Casual Followers,0.067
+F05541,Digital Browsers,0.067
+F04860,Casual Followers,0.067
+F01099,Digital Browsers,0.067
+F03042,Digital Browsers,0.067
+F02721,Digital Browsers,0.067
+F00416,Casual Followers,0.067
+F03846,Digital Browsers,0.067
+F02712,Casual Followers,0.067
+F01996,Digital Browsers,0.067
+F02066,Digital Browsers,0.067
+F01823,Casual Followers,0.067
+F04763,Casual Followers,0.067
+F04769,Casual Followers,0.067
+F03761,Digital Browsers,0.067
+F03464,Digital Browsers,0.067
+F01476,Casual Followers,0.067
+F05383,Casual Followers,0.067
+F00800,Casual Followers,0.067
+F01489,Casual Followers,0.067
+F03381,Casual Followers,0.067
+F00793,Casual Followers,0.067
+F02651,Digital Browsers,0.067
+F03269,Casual Followers,0.067
+F01343,Casual Followers,0.067
+F03266,Casual Followers,0.067
+F05660,Digital Browsers,0.067
+F00628,Digital Browsers,0.067
+F05004,Casual Followers,0.067
+F02179,Casual Followers,0.067
+F05340,Casual Followers,0.067
+F04517,Casual Followers,0.067
+F03538,Casual Followers,0.067
+F02171,Digital Browsers,0.067
+F01555,Casual Followers,0.067
+F00642,Casual Followers,0.067
+F03500,Digital Browsers,0.067
+F03635,Digital Browsers,0.067
+F01018,Digital Browsers,0.067
+F01061,Digital Browsers,0.067
+F01035,Casual Followers,0.067
+F04684,Casual Followers,0.067
+F03235,Casual Followers,0.067
+F03234,Digital Browsers,0.067
+F04670,Digital Browsers,0.067
+F03201,Digital Browsers,0.067
+F02198,Casual Followers,0.067
+F00715,Casual Followers,0.067
+F02732,Casual Followers,0.067
+F04808,Digital Browsers,0.067
+F04260,Digital Browsers,0.067
+F01773,Casual Followers,0.067
+F04246,Casual Followers,0.067
+F04131,Casual Followers,0.067
+F02456,Casual Followers,0.067
+F04954,Digital Browsers,0.067
+F00844,Casual Followers,0.067
+F04593,Digital Browsers,0.067
+F04915,Casual Followers,0.067
+F01385,Digital Browsers,0.067
+F03991,Casual Followers,0.067
+F04924,Casual Followers,0.067
+F05861,Casual Followers,0.067
+F05842,Casual Followers,0.067
+F05841,Casual Followers,0.067
+F01884,Casual Followers,0.067
+F04790,Digital Browsers,0.067
+F02852,Digital Browsers,0.067
+F04785,Digital Browsers,0.067
+F01153,Casual Followers,0.067
+F04301,Digital Browsers,0.067
+F01758,Digital Browsers,0.067
+F05244,Casual Followers,0.067
+F04056,Casual Followers,0.067
+F04071,Casual Followers,0.067
+F05885,Casual Followers,0.067
+F05894,Digital Browsers,0.067
+F05897,Casual Followers,0.067
+F05895,Casual Followers,0.066
+F00220,Casual Followers,0.066
+F05882,Casual Followers,0.066
+F04328,Casual Followers,0.066
+F01769,Casual Followers,0.066
+F01939,Casual Followers,0.066
+F01744,Casual Followers,0.066
+F01984,Casual Followers,0.066
+F01968,Digital Browsers,0.066
+F05838,Casual Followers,0.066
+F01112,Casual Followers,0.066
+F01182,Casual Followers,0.066
+F02816,Casual Followers,0.066
+F04252,Digital Browsers,0.066
+F04257,Digital Browsers,0.066
+F04273,Casual Followers,0.066
+F03992,Casual Followers,0.066
+F01775,Casual Followers,0.066
+F04228,Casual Followers,0.066
+F00805,Casual Followers,0.066
+F03414,Casual Followers,0.066
+F03430,Casual Followers,0.066
+F01364,Casual Followers,0.066
+F01369,Casual Followers,0.066
+F02475,Casual Followers,0.066
+F04917,Casual Followers,0.066
+F01396,Digital Browsers,0.066
+F02500,Casual Followers,0.066
+F00856,Casual Followers,0.066
+F03329,Digital Browsers,0.066
+F04636,Casual Followers,0.066
+F00664,Casual Followers,0.066
+F05684,Casual Followers,0.066
+F00662,Casual Followers,0.066
+F04529,Casual Followers,0.066
+F02389,Casual Followers,0.066
+F04947,Casual Followers,0.066
+F05378,Casual Followers,0.066
+F01493,Digital Browsers,0.066
+F04989,Digital Browsers,0.066
+F00778,Digital Browsers,0.066
+F05647,Digital Browsers,0.066
+F03188,Casual Followers,0.066
+F05444,Casual Followers,0.066
+F01308,Casual Followers,0.066
+F02588,Casual Followers,0.066
+F02603,Digital Browsers,0.066
+F02558,Casual Followers,0.066
+F04655,Casual Followers,0.066
+F03123,Digital Browsers,0.066
+F03167,Digital Browsers,0.066
+F01034,Casual Followers,0.066
+F01027,Digital Browsers,0.066
+F03634,Casual Followers,0.066
+F03637,Digital Browsers,0.066
+F03594,Digital Browsers,0.066
+F03551,Casual Followers,0.066
+F04496,Casual Followers,0.066
+F04498,Digital Browsers,0.066
+F01528,Casual Followers,0.066
+F01573,Casual Followers,0.066
+F05330,Casual Followers,0.066
+F02185,Casual Followers,0.066
+F00627,Casual Followers,0.066
+F03565,Digital Browsers,0.066
+F03571,Casual Followers,0.066
+F05772,Casual Followers,0.066
+F03705,Casual Followers,0.066
+F04450,Digital Browsers,0.066
+F01633,Casual Followers,0.066
+F03607,Casual Followers,0.066
+F00498,Casual Followers,0.066
+F04473,Casual Followers,0.066
+F04475,Digital Browsers,0.066
+F03605,Digital Browsers,0.066
+F03641,Casual Followers,0.066
+F04358,Casual Followers,0.066
+F03937,Casual Followers,0.066
+F05112,Casual Followers,0.066
+F02075,Casual Followers,0.066
+F02043,Digital Browsers,0.066
+F02046,Casual Followers,0.066
+F03778,Casual Followers,0.066
+F03146,Casual Followers,0.066
+F02616,Casual Followers,0.066
+F04853,Digital Browsers,0.066
+F02991,Casual Followers,0.066
+F04756,Casual Followers,0.066
+F01871,Digital Browsers,0.066
+F01874,Casual Followers,0.066
+F01851,Digital Browsers,0.066
+F00121,Casual Followers,0.066
+F04181,Digital Browsers,0.066
+F05986,Digital Browsers,0.066
+F00105,Digital Browsers,0.066
+F00080,Digital Browsers,0.066
+F00079,Digital Browsers,0.065
+F00052,Casual Followers,0.065
+F04383,Casual Followers,0.065
+F02001,Digital Browsers,0.065
+F02052,Casual Followers,0.065
+F02053,Digital Browsers,0.065
+F05117,Casual Followers,0.065
+F02069,Casual Followers,0.065
+F03875,Casual Followers,0.065
+F04852,Casual Followers,0.065
+F05530,Casual Followers,0.065
+F05289,Casual Followers,0.065
+F03748,Casual Followers,0.065
+F03189,Casual Followers,0.065
+F00955,Casual Followers,0.065
+F00952,Digital Browsers,0.065
+F05336,Digital Browsers,0.065
+F04520,Casual Followers,0.065
+F01251,Digital Browsers,0.065
+F03074,Casual Followers,0.065
+F00338,Casual Followers,0.065
+F05811,Digital Browsers,0.065
+F05807,Casual Followers,0.065
+F00377,Casual Followers,0.065
+F03052,Casual Followers,0.065
+F02992,Casual Followers,0.065
+F03079,Digital Browsers,0.065
+F01141,Casual Followers,0.065
+F04727,Casual Followers,0.065
+F02948,Casual Followers,0.065
+F03008,Casual Followers,0.065
+F03000,Casual Followers,0.065
+F01858,Casual Followers,0.065
+F01782,Digital Browsers,0.065
+F00150,Casual Followers,0.065
+F03423,Casual Followers,0.065
+F05627,Casual Followers,0.065
+F01943,Digital Browsers,0.065
+F05944,Casual Followers,0.065
+F02529,Digital Browsers,0.065
+F05159,Casual Followers,0.065
+F05917,Digital Browsers,0.065
+F03861,Digital Browsers,0.065
+F03854,Casual Followers,0.065
+F01988,Casual Followers,0.065
+F04352,Casual Followers,0.065
+F01875,Digital Browsers,0.065
+F05165,Casual Followers,0.065
+F02378,Casual Followers,0.065
+F04982,Casual Followers,0.065
+F04606,Digital Browsers,0.065
+F03277,Casual Followers,0.065
+F04490,Casual Followers,0.065
+F02147,Casual Followers,0.065
+F05715,Digital Browsers,0.065
+F00570,Casual Followers,0.065
+F05323,Casual Followers,0.065
+F02149,Casual Followers,0.065
+F02061,Casual Followers,0.065
+F02557,Casual Followers,0.065
+F00438,Casual Followers,0.065
+F02213,Casual Followers,0.065
+F00399,Casual Followers,0.065
+F00397,Casual Followers,0.065
+F00763,Casual Followers,0.065
+F00777,Casual Followers,0.065
+F00729,Casual Followers,0.065
+F01508,Casual Followers,0.065
+F04624,Casual Followers,0.065
+F01298,Digital Browsers,0.065
+F02515,Casual Followers,0.065
+F03334,Digital Browsers,0.065
+F01309,Casual Followers,0.065
+F01294,Digital Browsers,0.065
+F01497,Digital Browsers,0.065
+F02266,Casual Followers,0.065
+F02400,Digital Browsers,0.065
+F03576,Casual Followers,0.065
+F02235,Casual Followers,0.065
+F04365,Casual Followers,0.064
+F04205,Casual Followers,0.064
+F04168,Casual Followers,0.064
+F04073,Casual Followers,0.064
+F00013,Digital Browsers,0.064
+F01684,Casual Followers,0.064
+F01612,Casual Followers,0.064
+F01693,Digital Browsers,0.064
+F04155,Casual Followers,0.064
+F00254,Digital Browsers,0.064
+F00126,Casual Followers,0.064
+F03976,Digital Browsers,0.064
+F03934,Casual Followers,0.064
+F01622,Casual Followers,0.064
+F04382,Casual Followers,0.064
+F04387,Casual Followers,0.064
+F03884,Casual Followers,0.064
+F01045,Casual Followers,0.064
+F02020,Casual Followers,0.064
+F00340,Casual Followers,0.064
+F01539,Casual Followers,0.064
+F00501,Casual Followers,0.064
+F04464,Digital Browsers,0.064
+F03194,Digital Browsers,0.064
+F01002,Casual Followers,0.064
+F01624,Casual Followers,0.064
+F01549,Casual Followers,0.064
+F00403,Casual Followers,0.064
+F00430,Casual Followers,0.064
+F05073,Casual Followers,0.064
+F02570,Casual Followers,0.064
+F01114,Digital Browsers,0.064
+F04716,Casual Followers,0.064
+F01013,Casual Followers,0.064
+F01065,Casual Followers,0.064
+F03021,Casual Followers,0.064
+F01136,Casual Followers,0.064
+F02734,Casual Followers,0.064
+F02756,Casual Followers,0.064
+F01106,Casual Followers,0.064
+F01238,Casual Followers,0.064
+F04833,Casual Followers,0.064
+F02725,Casual Followers,0.064
+F02715,Digital Browsers,0.064
+F01248,Casual Followers,0.064
+F01236,Casual Followers,0.064
+F00415,Casual Followers,0.064
+F00375,Casual Followers,0.064
+F03814,Digital Browsers,0.064
+F05354,Casual Followers,0.064
+F05347,Casual Followers,0.064
+F00541,Casual Followers,0.064
+F03355,Digital Browsers,0.064
+F03352,Digital Browsers,0.064
+F03346,Casual Followers,0.064
+F02241,Casual Followers,0.064
+F02232,Casual Followers,0.064
+F00733,Casual Followers,0.064
+F03449,Casual Followers,0.064
+F00682,Casual Followers,0.064
+F00740,Casual Followers,0.064
+F00710,Digital Browsers,0.064
+F00685,Digital Browsers,0.064
+F04952,Casual Followers,0.064
+F02404,Casual Followers,0.064
+F00759,Casual Followers,0.064
+F02653,Digital Browsers,0.064
+F01277,Digital Browsers,0.064
+F03965,Digital Browsers,0.064
+F02496,Casual Followers,0.064
+F00770,Casual Followers,0.064
+F02460,Casual Followers,0.064
+F05143,Casual Followers,0.064
+F01751,Casual Followers,0.064
+F05149,Casual Followers,0.064
+F00240,Casual Followers,0.064
+F01754,Casual Followers,0.064
+F00231,Digital Browsers,0.064
+F04086,Casual Followers,0.064
+F04130,Digital Browsers,0.064
+F01835,Casual Followers,0.064
+F05954,Casual Followers,0.063
+F05969,Casual Followers,0.063
+F01859,Casual Followers,0.063
+F04143,Casual Followers,0.063
+F04290,Digital Browsers,0.063
+F01821,Casual Followers,0.063
+F00206,Digital Browsers,0.063
+F04031,Digital Browsers,0.063
+F03062,Casual Followers,0.063
+F04838,Digital Browsers,0.063
+F02885,Casual Followers,0.063
+F05495,Casual Followers,0.063
+F01057,Casual Followers,0.063
+F04256,Casual Followers,0.063
+F00867,Casual Followers,0.063
+F00424,Casual Followers,0.063
+F05827,Digital Browsers,0.063
+F00382,Casual Followers,0.063
+F01053,Digital Browsers,0.063
+F03755,Casual Followers,0.063
+F04677,Casual Followers,0.063
+F03139,Casual Followers,0.063
+F03193,Digital Browsers,0.063
+F04760,Casual Followers,0.063
+F02883,Digital Browsers,0.063
+F02994,Digital Browsers,0.063
+F03001,Casual Followers,0.063
+F03832,Casual Followers,0.063
+F03561,Casual Followers,0.063
+F03815,Casual Followers,0.063
+F02292,Casual Followers,0.063
+F04480,Casual Followers,0.063
+F03652,Casual Followers,0.063
+F05026,Casual Followers,0.063
+F04435,Digital Browsers,0.063
+F02380,Casual Followers,0.063
+F01475,Casual Followers,0.063
+F01495,Casual Followers,0.063
+F02261,Digital Browsers,0.063
+F01544,Casual Followers,0.063
+F02470,Casual Followers,0.063
+F02497,Casual Followers,0.063
+F03508,Casual Followers,0.063
+F04575,Casual Followers,0.063
+F02667,Casual Followers,0.063
+F02648,Casual Followers,0.063
+F01087,Casual Followers,0.063
+F02706,Casual Followers,0.063
+F04152,Casual Followers,0.063
+F04087,Casual Followers,0.063
+F01879,Casual Followers,0.063
+F04084,Casual Followers,0.063
+F01767,Casual Followers,0.063
+F04752,Digital Browsers,0.063
+F04963,Casual Followers,0.063
+F05631,Casual Followers,0.063
+F03864,Casual Followers,0.063
+F05592,Casual Followers,0.063
+F02565,Casual Followers,0.063
+F04879,Casual Followers,0.063
+F03683,Casual Followers,0.063
+F03709,Casual Followers,0.063
+F01134,Casual Followers,0.062
+F02710,Casual Followers,0.062
+F03068,Casual Followers,0.062
+F03059,Casual Followers,0.062
+F05474,Casual Followers,0.062
+F01779,Digital Browsers,0.062
+F04237,Casual Followers,0.062
+F03241,Casual Followers,0.062
+F03981,Casual Followers,0.062
+F04170,Casual Followers,0.062
+F04270,Casual Followers,0.062
+F05457,Casual Followers,0.062
+F01348,Digital Browsers,0.062
+F05434,Casual Followers,0.062
+F03276,Digital Browsers,0.062
+F04417,Casual Followers,0.062
+F05188,Casual Followers,0.062
+F05844,Casual Followers,0.062
+F02359,Casual Followers,0.062
+F01941,Digital Browsers,0.062
+F02629,Casual Followers,0.062
+F01615,Casual Followers,0.062
+F00978,Casual Followers,0.062
+F01704,Casual Followers,0.062
+F00251,Casual Followers,0.062
+F05456,Casual Followers,0.062
+F04401,Casual Followers,0.062
+F05803,Casual Followers,0.062
+F04483,Digital Browsers,0.062
+F05739,Casual Followers,0.062
+F05015,Casual Followers,0.062
+F03812,Casual Followers,0.062
+F02168,Digital Browsers,0.062
+F00458,Digital Browsers,0.062
+F02376,Casual Followers,0.062
+F03438,Casual Followers,0.062
+F02469,Casual Followers,0.062
+F03617,Casual Followers,0.062
+F02158,Casual Followers,0.062
+F01564,Casual Followers,0.062
+F02253,Casual Followers,0.062
+F00683,Casual Followers,0.062
+F03458,Casual Followers,0.062
+F03434,Casual Followers,0.062
+F03410,Casual Followers,0.062
+F05674,Digital Browsers,0.062
+F03374,Casual Followers,0.062
+F01228,Digital Browsers,0.062
+F05003,Casual Followers,0.062
+F01032,Casual Followers,0.062
+F00959,Casual Followers,0.062
+F00963,Casual Followers,0.062
+F03232,Casual Followers,0.062
+F00966,Casual Followers,0.062
+F03701,Casual Followers,0.062
+F01623,Casual Followers,0.062
+F05119,Digital Browsers,0.062
+F05966,Casual Followers,0.061
+F03319,Casual Followers,0.061
+F00850,Casual Followers,0.061
+F01183,Casual Followers,0.061
+F04686,Casual Followers,0.061
+F00261,Casual Followers,0.061
+F04819,Casual Followers,0.061
+F05420,Casual Followers,0.061
+F01303,Casual Followers,0.061
+F02186,Casual Followers,0.061
+F02230,Casual Followers,0.061
+F00663,Casual Followers,0.061
+F01509,Casual Followers,0.061
+F02523,Digital Browsers,0.061
+F03417,Casual Followers,0.061
+F01417,Casual Followers,0.061
+F01388,Casual Followers,0.061
+F04460,Casual Followers,0.061
+F00551,Casual Followers,0.061
+F00649,Casual Followers,0.061
+F00648,Casual Followers,0.061
+F01457,Casual Followers,0.061
+F00835,Casual Followers,0.061
+F03780,Casual Followers,0.061
+F03763,Casual Followers,0.061
+F00444,Casual Followers,0.061
+F01519,Casual Followers,0.061
+F01518,Casual Followers,0.061
+F02197,Casual Followers,0.061
+F00608,Casual Followers,0.061
+F00605,Digital Browsers,0.061
+F03611,Digital Browsers,0.061
+F04465,Casual Followers,0.061
+F01626,Casual Followers,0.061
+F05090,Casual Followers,0.061
+F05301,Casual Followers,0.061
+F01605,Casual Followers,0.061
+F00895,Casual Followers,0.061
+F03261,Casual Followers,0.061
+F02077,Casual Followers,0.061
+F04336,Casual Followers,0.061
+F03162,Casual Followers,0.061
+F04653,Casual Followers,0.061
+F02092,Casual Followers,0.061
+F01337,Casual Followers,0.061
+F00342,Casual Followers,0.061
+F05506,Casual Followers,0.061
+F04958,Digital Browsers,0.061
+F05281,Digital Browsers,0.061
+F02539,Digital Browsers,0.061
+F02023,Digital Browsers,0.061
+F05253,Casual Followers,0.061
+F05863,Casual Followers,0.061
+F00170,Digital Browsers,0.061
+F02786,Casual Followers,0.061
+F05927,Digital Browsers,0.06
+F00285,Casual Followers,0.06
+F03467,Casual Followers,0.06
+F05536,Casual Followers,0.06
+F01107,Casual Followers,0.06
+F02537,Digital Browsers,0.06
+F01722,Casual Followers,0.06
+F03973,Casual Followers,0.06
+F02163,Digital Browsers,0.06
+F00911,Casual Followers,0.06
+F05082,Casual Followers,0.06
+F02161,Casual Followers,0.06
+F02209,Casual Followers,0.06
+F03121,Casual Followers,0.06
+F05571,Casual Followers,0.06
+F04351,Casual Followers,0.06
+F01727,Digital Browsers,0.06
+F01262,Casual Followers,0.06
+F04413,Digital Browsers,0.06
+F00848,Casual Followers,0.06
+F03322,Casual Followers,0.06
+F01060,Casual Followers,0.06
+F01221,Casual Followers,0.06
+F00333,Casual Followers,0.06
+F00701,Casual Followers,0.06
+F05719,Casual Followers,0.06
+F00583,Casual Followers,0.06
+F04271,Digital Browsers,0.06
+F05970,Casual Followers,0.06
+F05870,Digital Browsers,0.06
+F05956,Digital Browsers,0.06
+F00124,Casual Followers,0.06
+F05814,Casual Followers,0.06
+F03783,Digital Browsers,0.06
+F02193,Digital Browsers,0.06
+F03650,Casual Followers,0.06
+F00595,Casual Followers,0.06
+F03757,Casual Followers,0.06
+F03765,Casual Followers,0.06
+F01747,Casual Followers,0.059
+F00449,Casual Followers,0.059
+F00106,Digital Browsers,0.059
+F02647,Casual Followers,0.059
+F01599,Casual Followers,0.059
+F00910,Digital Browsers,0.059
+F05116,Casual Followers,0.059
+F02574,Casual Followers,0.059
+F01760,Casual Followers,0.059
+F01128,Casual Followers,0.059
+F05481,Casual Followers,0.059
+F00640,Casual Followers,0.059
+F00831,Casual Followers,0.059
+F03645,Casual Followers,0.059
+F05009,Casual Followers,0.059
+F05692,Digital Browsers,0.059
+F04222,Casual Followers,0.059
+F00138,Casual Followers,0.059
+F00565,Casual Followers,0.058
+F04129,Digital Browsers,0.058
+F02738,Digital Browsers,0.058
+F04076,Digital Browsers,0.058
+F00219,Digital Browsers,0.058
+F03474,Digital Browsers,0.058
+F04468,Casual Followers,0.058
+F00586,Digital Browsers,0.058
+F05120,Casual Followers,0.058
+F05276,Digital Browsers,0.058
+F03977,Casual Followers,0.058
+F04783,Digital Browsers,0.058
+F00465,Casual Followers,0.058
+F00045,Casual Followers,0.058
+F05610,Casual Followers,0.058
+F02461,Digital Browsers,0.058
+F02260,Casual Followers,0.058
+F01545,Casual Followers,0.058
+F05704,Casual Followers,0.058
+F04451,Casual Followers,0.057
+F02891,Digital Browsers,0.057
+F05239,Casual Followers,0.057
+F05171,Casual Followers,0.057
+F03164,Casual Followers,0.057
+F04913,Digital Browsers,0.057
+F01016,Casual Followers,0.057
+F05702,Casual Followers,0.057
+F03237,Casual Followers,0.056
+F01855,Casual Followers,0.056
+F04244,Digital Browsers,0.056
+F03811,Casual Followers,0.056
+F03805,Casual Followers,0.056
+F03919,Casual Followers,0.056
+F03908,Digital Browsers,0.056
+F00298,Digital Browsers,0.056
+F00689,Casual Followers,0.056
+F00514,Casual Followers,0.056
+F04527,Casual Followers,0.056
+F03173,Digital Browsers,0.055
+F03630,Casual Followers,0.055
+F04905,Casual Followers,0.055
+F02099,Digital Browsers,0.055
+F00563,Digital Browsers,0.055
+F02107,Digital Browsers,0.055
+F03685,Casual Followers,0.054
+F01593,Casual Followers,0.054
+F03698,Digital Browsers,0.054
+F03487,Casual Followers,0.054
+F03053,Casual Followers,0.054
+F00221,Digital Browsers,0.054
+F04298,Casual Followers,0.054
+F04419,Casual Followers,0.054
+F03636,Casual Followers,0.053
+F00229,Casual Followers,0.053
+F01499,Digital Browsers,0.051
+F05014,Digital Browsers,0.05

@@ -1,0 +1,49 @@
+match_id,home_team,away_team,stadium,capacity,city,stage,match_date,match_datetime,day_of_week,popularity_index
+M001,Brazil,Argentina,Lusail Stadium,88000,Lusail,Group Stage,2026-06-15,2026-06-15T18:00:00,Monday,0.684
+M002,Netherlands,USA,Al Bayt Stadium,60000,Al Khor,Group Stage,2026-06-15,2026-06-15T18:00:00,Monday,0.454
+M003,Mexico,Netherlands,Ahmad Bin Ali,44740,Al Rayyan,Group Stage,2026-06-16,2026-06-16T18:00:00,Tuesday,0.738
+M004,Croatia,India,Education City,44667,Al Rayyan,Group Stage,2026-06-16,2026-06-16T18:00:00,Tuesday,0.712
+M005,England,France,Al Thumama,44400,Doha,Group Stage,2026-06-17,2026-06-17T15:00:00,Wednesday,1.0
+M006,India,Japan,974 Stadium,44089,Doha,Group Stage,2026-06-17,2026-06-17T21:00:00,Wednesday,0.519
+M007,India,USA,Lusail Stadium,88000,Lusail,Group Stage,2026-06-18,2026-06-18T18:00:00,Thursday,0.622
+M008,Portugal,Argentina,Al Bayt Stadium,60000,Al Khor,Group Stage,2026-06-18,2026-06-18T18:00:00,Thursday,0.792
+M009,Argentina,Japan,Ahmad Bin Ali,44740,Al Rayyan,Group Stage,2026-06-19,2026-06-19T15:00:00,Friday,0.974
+M010,Brazil,Morocco,Education City,44667,Al Rayyan,Group Stage,2026-06-19,2026-06-19T18:00:00,Friday,0.974
+M011,Spain,Netherlands,Al Thumama,44400,Doha,Group Stage,2026-06-20,2026-06-20T18:00:00,Saturday,0.97
+M012,Japan,India,974 Stadium,44089,Doha,Group Stage,2026-06-20,2026-06-20T15:00:00,Saturday,0.698
+M013,Japan,Italy,Lusail Stadium,88000,Lusail,Group Stage,2026-06-21,2026-06-21T18:00:00,Sunday,0.487
+M014,Italy,France,Al Bayt Stadium,60000,Al Khor,Group Stage,2026-06-21,2026-06-21T15:00:00,Sunday,0.971
+M015,Brazil,Netherlands,Ahmad Bin Ali,44740,Al Rayyan,Group Stage,2026-06-22,2026-06-22T21:00:00,Monday,1.0
+M016,Japan,England,Education City,44667,Al Rayyan,Group Stage,2026-06-22,2026-06-22T15:00:00,Monday,0.755
+M017,Italy,USA,Al Thumama,44400,Doha,Group Stage,2026-06-23,2026-06-23T15:00:00,Tuesday,0.932
+M018,Argentina,Italy,974 Stadium,44089,Doha,Group Stage,2026-06-23,2026-06-23T18:00:00,Tuesday,0.82
+M019,Mexico,Netherlands,Lusail Stadium,88000,Lusail,Group Stage,2026-06-24,2026-06-24T15:00:00,Wednesday,0.795
+M020,Germany,Brazil,Al Bayt Stadium,60000,Al Khor,Group Stage,2026-06-24,2026-06-24T21:00:00,Wednesday,0.952
+M021,Belgium,Japan,Ahmad Bin Ali,44740,Al Rayyan,Group Stage,2026-06-25,2026-06-25T21:00:00,Thursday,0.949
+M022,Argentina,Mexico,Education City,44667,Al Rayyan,Group Stage,2026-06-25,2026-06-25T18:00:00,Thursday,0.84
+M023,Brazil,England,Al Thumama,44400,Doha,Group Stage,2026-06-26,2026-06-26T15:00:00,Friday,1.0
+M024,Japan,Morocco,974 Stadium,44089,Doha,Group Stage,2026-06-26,2026-06-26T15:00:00,Friday,0.707
+M025,England,Japan,Lusail Stadium,88000,Lusail,Group Stage,2026-06-27,2026-06-27T18:00:00,Saturday,1.0
+M026,Netherlands,Argentina,Al Bayt Stadium,60000,Al Khor,Group Stage,2026-06-27,2026-06-27T15:00:00,Saturday,0.779
+M027,Croatia,Brazil,Ahmad Bin Ali,44740,Al Rayyan,Group Stage,2026-06-28,2026-06-28T21:00:00,Sunday,1.0
+M028,India,Argentina,Education City,44667,Al Rayyan,Group Stage,2026-06-28,2026-06-28T21:00:00,Sunday,1.0
+M029,Belgium,India,Al Thumama,44400,Doha,Group Stage,2026-06-29,2026-06-29T21:00:00,Monday,0.74
+M030,Netherlands,France,974 Stadium,44089,Doha,Group Stage,2026-06-29,2026-06-29T18:00:00,Monday,0.858
+M031,Brazil,India,Lusail Stadium,88000,Lusail,Group Stage,2026-06-30,2026-06-30T15:00:00,Tuesday,1.0
+M032,India,Spain,Al Bayt Stadium,60000,Al Khor,Group Stage,2026-06-30,2026-06-30T15:00:00,Tuesday,0.977
+M033,Portugal,England,Ahmad Bin Ali,44740,Al Rayyan,Round of 16,2026-07-01,2026-07-01T18:00:00,Wednesday,1.0
+M034,Japan,USA,Education City,44667,Al Rayyan,Round of 16,2026-07-01,2026-07-01T18:00:00,Wednesday,0.569
+M035,Mexico,Croatia,Al Thumama,44400,Doha,Round of 16,2026-07-02,2026-07-02T15:00:00,Thursday,0.851
+M036,Argentina,Belgium,974 Stadium,44089,Doha,Round of 16,2026-07-02,2026-07-02T15:00:00,Thursday,1.0
+M037,Italy,Argentina,Lusail Stadium,88000,Lusail,Round of 16,2026-07-03,2026-07-03T15:00:00,Friday,1.0
+M038,Germany,Brazil,Al Bayt Stadium,60000,Al Khor,Round of 16,2026-07-03,2026-07-03T18:00:00,Friday,0.736
+M039,England,Croatia,Ahmad Bin Ali,44740,Al Rayyan,Round of 16,2026-07-04,2026-07-04T15:00:00,Saturday,0.79
+M040,Netherlands,USA,Education City,44667,Al Rayyan,Round of 16,2026-07-04,2026-07-04T18:00:00,Saturday,0.655
+M041,Croatia,Morocco,Al Thumama,44400,Doha,Quarter Final,2026-07-05,2026-07-05T21:00:00,Sunday,0.977
+M042,USA,Portugal,974 Stadium,44089,Doha,Quarter Final,2026-07-05,2026-07-05T15:00:00,Sunday,0.676
+M043,Belgium,Japan,Lusail Stadium,88000,Lusail,Quarter Final,2026-07-06,2026-07-06T18:00:00,Monday,0.997
+M044,Brazil,Mexico,Al Bayt Stadium,60000,Al Khor,Quarter Final,2026-07-06,2026-07-06T18:00:00,Monday,0.862
+M045,Argentina,France,Ahmad Bin Ali,44740,Al Rayyan,Quarter Final,2026-07-07,2026-07-07T15:00:00,Tuesday,1.0
+M046,Germany,Portugal,Education City,44667,Al Rayyan,Quarter Final,2026-07-07,2026-07-07T15:00:00,Tuesday,0.876
+M047,Portugal,Germany,Al Thumama,44400,Doha,Quarter Final,2026-07-08,2026-07-08T15:00:00,Wednesday,0.899
+M048,Germany,Netherlands,974 Stadium,44089,Doha,Quarter Final,2026-07-08,2026-07-08T15:00:00,Wednesday,0.877

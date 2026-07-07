@@ -1,0 +1,41 @@
+campaign_id,campaign_type,channel,audience_size,open_rate,click_through_rate,conversion_rate,conversions,revenue_usd
+C001,Early Bird Ticket Offer,Email,13660,0.423,0.139,0.047,188,18652.7
+C002,Merch Discount,App Push,165663,0.289,0.046,0.0187,206,4291.99
+C003,Fan Loyalty Points Boost,Email,74864,0.407,0.071,0.0386,418,14259.64
+C004,Newsletter - Weekly Digest,Social Retarget,61938,0.268,0.069,0.0352,201,34444.28
+C005,Fan Loyalty Points Boost,SMS,117329,0.339,0.063,0.0651,810,23780.62
+C006,Fan Loyalty Points Boost,SMS,112119,0.444,0.088,0.068,1482,210177.28
+C007,Fan Loyalty Points Boost,Email,133634,0.464,0.127,0.0247,975,114887.31
+C008,Merch Discount,Social Retarget,117123,0.329,0.005,0.0263,25,1476.74
+C009,Retargeting - Cart Abandon,App Push,13058,0.345,0.06,0.0516,69,7840.07
+C010,Merch Discount,SMS,74492,0.457,0.111,0.0061,114,11143.12
+C011,Newsletter - Weekly Digest,SMS,17366,0.42,0.096,0.0429,150,16739.77
+C012,Retargeting - Cart Abandon,Social Retarget,93122,0.266,0.115,0.0128,182,13344.95
+C013,SMS - Flash Sale,Email,143932,0.291,0.005,0.0351,36,5998.09
+C014,Referral Bonus,Social Retarget,11021,0.447,0.064,0.0359,56,4088.5
+C015,SMS - Flash Sale,Social Retarget,17453,0.373,0.085,0.032,88,5692.35
+C016,App Push - Match Reminder,App Push,184846,0.303,0.071,0.0034,67,10801.2
+C017,Fan Loyalty Points Boost,Email,104567,0.385,0.011,0.03,63,1977.3
+C018,Early Bird Ticket Offer,Email,183976,0.232,0.106,0.0345,780,88990.64
+C019,Merch Discount,Social Retarget,33434,0.3,0.123,0.0071,43,6794.09
+C020,App Push - Match Reminder,App Push,175126,0.24,0.074,0.0317,490,37523.05
+C021,Retargeting - Cart Abandon,App Push,194750,0.36,0.115,0.0209,841,106968.83
+C022,App Push - Match Reminder,SMS,103011,0.431,0.09,0.0273,542,80189.19
+C023,App Push - Match Reminder,App Push,28409,0.403,0.129,0.0402,297,22128.93
+C024,Retargeting - Cart Abandon,SMS,45184,0.33,0.098,0.0349,256,33258.69
+C025,Newsletter - Weekly Digest,SMS,142779,0.23,0.015,0.0106,25,4345.31
+C026,App Push - Match Reminder,SMS,111086,0.51,0.005,0.0153,22,1607.42
+C027,Fan Loyalty Points Boost,Email,167394,0.427,0.039,0.0434,599,49448.76
+C028,Retargeting - Cart Abandon,SMS,136640,0.375,0.05,0.0422,535,67997.22
+C029,Newsletter - Weekly Digest,Social Retarget,197401,0.542,0.128,0.0421,2893,238427.45
+C030,Referral Bonus,Email,172051,0.276,0.083,0.0226,443,25421.73
+C031,Fan Loyalty Points Boost,Social Retarget,111351,0.362,0.056,0.0125,141,5011.07
+C032,Early Bird Ticket Offer,App Push,157697,0.482,0.096,0.0245,892,80525.07
+C033,Fan Loyalty Points Boost,SMS,191854,0.447,0.118,0.0104,526,23378.08
+C034,Merch Discount,Email,58188,0.408,0.115,0.0262,356,62295.75
+C035,Merch Discount,SMS,8982,0.218,0.176,0.0386,66,8957.1
+C036,SMS - Flash Sale,SMS,197210,0.321,0.192,0.0336,2038,360183.88
+C037,Referral Bonus,App Push,21789,0.274,0.058,0.001,1,122.22
+C038,Retargeting - Cart Abandon,Social Retarget,137564,0.371,0.112,0.0118,338,58992.47
+C039,Fan Loyalty Points Boost,App Push,82477,0.231,0.105,0.021,209,30281.19
+C040,SMS - Flash Sale,SMS,193807,0.384,0.112,0.0419,1739,266786.12

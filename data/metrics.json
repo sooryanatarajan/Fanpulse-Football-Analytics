@@ -1,0 +1,151 @@
+{
+  "demand_model": {
+    "mae": 0.0544,
+    "r2": 0.783,
+    "feature_importance": {
+      "popularity_index": 0.6869,
+      "capacity": 0.0412,
+      "stage_num": 0.0579,
+      "dow_num": 0.0426,
+      "avg_ticket_price_usd": 0.0568,
+      "total_engagement": 0.0307,
+      "total_impressions": 0.0458,
+      "post_count": 0.0381
+    },
+    "n_matches": 48
+  },
+  "segmentation": {
+    "n_fans": 6000,
+    "n_segments": 5,
+    "silhouette_note": "5 behavioral segments derived from engagement + loyalty features"
+  },
+  "offer_propensity_model": {
+    "accuracy": 0.885
+  },
+  "top_demand_matches": [
+    {
+      "match_id": "M047",
+      "home_team": "Portugal",
+      "away_team": "Germany",
+      "stage": "Quarter Final",
+      "predicted_occupancy": 0.9932400813445813
+    },
+    {
+      "match_id": "M033",
+      "home_team": "Portugal",
+      "away_team": "England",
+      "stage": "Round of 16",
+      "predicted_occupancy": 0.9929475416620415
+    },
+    {
+      "match_id": "M041",
+      "home_team": "Croatia",
+      "away_team": "Morocco",
+      "stage": "Quarter Final",
+      "predicted_occupancy": 0.991178821123321
+    },
+    {
+      "match_id": "M036",
+      "home_team": "Argentina",
+      "away_team": "Belgium",
+      "stage": "Round of 16",
+      "predicted_occupancy": 0.9864555555555558
+    },
+    {
+      "match_id": "M045",
+      "home_team": "Argentina",
+      "away_team": "France",
+      "stage": "Quarter Final",
+      "predicted_occupancy": 0.9845963333333335
+    }
+  ],
+  "top_content_types": [
+    {
+      "content_type": "Match Preview",
+      "avg_engagement_rate": 0.083,
+      "total_impressions": 3840394
+    },
+    {
+      "content_type": "Live Score Update",
+      "avg_engagement_rate": 0.0829,
+      "total_impressions": 5789677
+    },
+    {
+      "content_type": "Stadium Tour",
+      "avg_engagement_rate": 0.0818,
+      "total_impressions": 2598211
+    }
+  ],
+  "top_platforms": [
+    {
+      "platform": "TikTok",
+      "avg_engagement_rate": 0.0823,
+      "total_impressions": 8583631,
+      "total_video_views": 1077325
+    },
+    {
+      "platform": "Facebook",
+      "avg_engagement_rate": 0.0818,
+      "total_impressions": 4668596,
+      "total_video_views": 586045
+    },
+    {
+      "platform": "X (Twitter)",
+      "avg_engagement_rate": 0.0816,
+      "total_impressions": 7512055,
+      "total_video_views": 911242
+    }
+  ],
+  "segment_summary": [
+    {
+      "segment": "Casual Followers",
+      "fan_count": 1063,
+      "avg_age": 29.17,
+      "avg_sessions": 2.63,
+      "avg_loyalty_points": 58.12,
+      "avg_conversion_rate": 0.01,
+      "avg_years_following": 9.13,
+      "pct_of_base": 17.7
+    },
+    {
+      "segment": "Digital Browsers",
+      "fan_count": 1880,
+      "avg_age": 28.36,
+      "avg_sessions": 5.32,
+      "avg_loyalty_points": 55.06,
+      "avg_conversion_rate": 0.03,
+      "avg_years_following": 7.42,
+      "pct_of_base": 31.3
+    },
+    {
+      "segment": "Dormant / At-Risk",
+      "fan_count": 2188,
+      "avg_age": 29.38,
+      "avg_sessions": 2.02,
+      "avg_loyalty_points": 52.35,
+      "avg_conversion_rate": 0.0,
+      "avg_years_following": 7.17,
+      "pct_of_base": 36.5
+    },
+    {
+      "segment": "High Engagers",
+      "fan_count": 660,
+      "avg_age": 29.21,
+      "avg_sessions": 3.21,
+      "avg_loyalty_points": 56.22,
+      "avg_conversion_rate": 0.4,
+      "avg_years_following": 7.38,
+      "pct_of_base": 11.0
+    },
+    {
+      "segment": "Super Fans",
+      "fan_count": 209,
+      "avg_age": 28.35,
+      "avg_sessions": 3.15,
+      "avg_loyalty_points": 457.73,
+      "avg_conversion_rate": 0.03,
+      "avg_years_following": 7.37,
+      "pct_of_base": 3.5
+    }
+  ]
+}

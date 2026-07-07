@@ -1,0 +1,78 @@
+{
+  "positive": [
+    {
+      "match_id": "M032",
+      "text": "Spain fans travelling in huge numbers, respect for the support!",
+      "sentiment_score": 0.8122,
+      "platform": "Facebook"
+    },
+    {
+      "match_id": "M036",
+      "text": "Belgium fans travelling in huge numbers, respect for the support!",
+      "sentiment_score": 0.8122,
+      "platform": "YouTube"
+    },
+    {
+      "match_id": "M004",
+      "text": "India fans travelling in huge numbers, respect for the support!",
+      "sentiment_score": 0.8122,
+      "platform": "Facebook"
+    },
+    {
+      "match_id": "M005",
+      "text": "France fans travelling in huge numbers, respect for the support!",
+      "sentiment_score": 0.8122,
+      "platform": "X (Twitter)"
+    },
+    {
+      "match_id": "M017",
+      "text": "USA fans travelling in huge numbers, respect for the support!",
+      "sentiment_score": 0.8122,
+      "platform": "X (Twitter)"
+    },
+    {
+      "match_id": "M035",
+      "text": "Croatia fans travelling in huge numbers, respect for the support!",
+      "sentiment_score": 0.8122,
+      "platform": "YouTube"
+    }
+  ],
+  "negative": [
+    {
+      "match_id": "M037",
+      "text": "That refereeing decision in the last Italy game was a disgrace, still fuming.",
+      "sentiment_score": -0.7845,
+      "platform": "YouTube"
+    },
+    {
+      "match_id": "M003",
+      "text": "That refereeing decision in the last Mexico game was a disgrace, still fuming.",
+      "sentiment_score": -0.7845,
+      "platform": "YouTube"
+    },
+    {
+      "match_id": "M009",
+      "text": "That refereeing decision in the last Argentina game was a disgrace, still fuming.",
+      "sentiment_score": -0.7845,
+      "platform": "TikTok"
+    },
+    {
+      "match_id": "M046",
+      "text": "That refereeing decision in the last Germany game was a disgrace, still fuming.",
+      "sentiment_score": -0.7845,
+      "platform": "TikTok"
+    },
+    {
+      "match_id": "M014",
+      "text": "That refereeing decision in the last Italy game was a disgrace, still fuming.",
+      "sentiment_score": -0.7845,
+      "platform": "X (Twitter)"
+    },
+    {
+      "match_id": "M016",
+      "text": "That refereeing decision in the last Japan game was a disgrace, still fuming.",
+      "sentiment_score": -0.7845,
+      "platform": "YouTube"
+    }
+  ]
+}
