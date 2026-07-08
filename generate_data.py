@@ -40,7 +40,7 @@ PLATFORMS = ["Instagram", "TikTok", "X (Twitter)", "YouTube", "Facebook", "App P
 N_MATCHES = 48
 N_FANS = 6000
 
-# ---------------------------------------------------------------- MATCHES
+
 def gen_matches():
     rows = []
     start = datetime(2026, 6, 15)
@@ -71,7 +71,7 @@ def gen_matches():
 
 matches = gen_matches()
 
-# ---------------------------------------------------------------- TICKET SALES / DEMAND
+
 def gen_ticket_sales(matches):
     rows = []
     for _, m in matches.iterrows():
@@ -98,7 +98,7 @@ def gen_ticket_sales(matches):
 
 ticket_sales = gen_ticket_sales(matches)
 
-# ---------------------------------------------------------------- FAN PROFILES
+
 def gen_fan_profiles(n):
     rows = []
     segments_seed = np.random.choice(
@@ -132,7 +132,7 @@ def _team_probs():
 
 fan_profiles = gen_fan_profiles(N_FANS)
 
-# ---------------------------------------------------------------- SOCIAL ENGAGEMENT
+
 def gen_social_engagement(matches, n_posts=1500):
     rows = []
     for i in range(n_posts):
@@ -169,7 +169,7 @@ def gen_social_engagement(matches, n_posts=1500):
 
 social_engagement = gen_social_engagement(matches)
 
-# ---------------------------------------------------------------- CAMPAIGN PERFORMANCE
+
 def gen_campaigns(n=40):
     types = ["Early Bird Ticket Offer", "Merch Discount", "App Push - Match Reminder",
              "Fan Loyalty Points Boost", "Referral Bonus", "Retargeting - Cart Abandon",
@@ -200,7 +200,7 @@ def gen_campaigns(n=40):
 
 campaigns = gen_campaigns()
 
-# ---------------------------------------------------------------- CLICKSTREAM
+
 def gen_clickstream(fan_profiles, matches, n=20000):
     pages = ["home", "match_schedule", "ticket_checkout", "team_profile",
              "merch_store", "live_scores", "highlights", "fan_zone", "account"]
@@ -227,7 +227,7 @@ def gen_clickstream(fan_profiles, matches, n=20000):
 
 clickstream = gen_clickstream(fan_profiles, matches)
 
-# ---------------------------------------------------------------- SAVE
+
 out = "/home/claude/fifa_project/data"
 import os
 os.makedirs(out, exist_ok=True)
