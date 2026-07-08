@@ -22,16 +22,14 @@ social = pd.read_csv(f"{D}/social_engagement.csv")
 campaigns = pd.read_csv(f"{D}/campaign_performance.csv")
 clickstream = pd.read_csv(f"{D}/clickstream.csv")
 
-# ============================================================
-# 1. DEMAND FORECASTING MODEL
-# ============================================================
+
 df = matches.merge(tickets.drop(columns=["capacity"]), on="match_id")
 stage_map = {"Group Stage": 0, "Round of 16": 1, "Quarter Final": 2, "Semi Final": 3, "Final": 4}
 dow_map = {d: i for i, d in enumerate(["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"])}
 df["stage_num"] = df["stage"].map(stage_map)
 df["dow_num"] = df["day_of_week"].map(dow_map)
 
-# social buzz per match as a feature
+
 buzz = social.groupby("match_id").agg(
     total_engagement=("likes", "sum"),
     total_impressions=("impressions", "sum"),
@@ -53,7 +51,7 @@ pred_test = rf.predict(X_test)
 mae = mean_absolute_error(y_test, pred_test)
 r2 = r2_score(y_test, pred_test)
 
-# Predict demand for ALL matches (simulate "upcoming" forecast)
+
 df["predicted_occupancy"] = rf.predict(X)
 df["predicted_tickets"] = (df["predicted_occupancy"] * df["capacity"]).astype(int)
 df["demand_tier"] = pd.cut(df["predicted_occupancy"], bins=[0, 0.6, 0.8, 0.92, 1.01],
@@ -66,10 +64,7 @@ demand_output = df[["match_id", "home_team", "away_team", "stage", "match_date",
                      "predicted_tickets", "demand_tier"]].sort_values("predicted_occupancy", ascending=False)
 demand_output.to_csv(f"{D}/demand_forecast.csv", index=False)
 
-# ============================================================
-# 2. FAN SEGMENTATION (behavior-based clustering)
-# ============================================================
-# Build behavior features per fan from clickstream + profile
+
 click_agg = clickstream.groupby("fan_id").agg(
     sessions=("session_id", "count"),
     avg_session_seconds=("session_seconds", "mean"),
@@ -89,7 +84,7 @@ k = 5
 km = KMeans(n_clusters=k, random_state=42, n_init=10)
 fan_feat["cluster"] = km.fit_predict(Xc_scaled)
 
-# Label clusters by their characteristics (rank by engagement score)
+
 cluster_profile = fan_feat.groupby("cluster")[cluster_features].mean()
 cluster_profile["engagement_score"] = (
     cluster_profile["sessions"].rank() + cluster_profile["loyalty_points"].rank() +
@@ -115,13 +110,11 @@ fan_feat[["fan_id", "city", "favorite_team", "age", "segment", "loyalty_points",
           "sessions", "conversion_rate"]].to_csv(f"{D}/fan_segments.csv", index=False)
 segment_summary.to_csv(f"{D}/segment_summary.csv", index=False)
 
-# City x segment for geo heatmap
+
 geo_segment = fan_feat.groupby(["city", "segment"]).size().reset_index(name="count")
 geo_segment.to_csv(f"{D}/geo_segment.csv", index=False)
 
-# ============================================================
-# 3. CONTENT ENGAGEMENT ANALYSIS
-# ============================================================
+
 content_perf = social.groupby(["content_type", "platform"]).agg(
     avg_engagement_rate=("engagement_rate", "mean"),
     total_impressions=("impressions", "sum"),
@@ -144,10 +137,7 @@ platform_summary = social.groupby("platform").agg(
 ).reset_index().sort_values("avg_engagement_rate", ascending=False).round(4)
 platform_summary.to_csv(f"{D}/platform_summary.csv", index=False)
 
-# ============================================================
-# 4. CAMPAIGN / OFFER RESPONSE PROPENSITY
-# ============================================================
-# Simulate whether a fan responds to offers, based on segment + past conversion
+
 np.random.seed(1)
 fan_feat["responds_to_offers"] = (
     (fan_feat["segment"].isin(["Super Fans", "High Engagers"])) &
@@ -169,9 +159,7 @@ fan_feat[["fan_id", "segment", "offer_response_probability"]].sort_values(
     "offer_response_probability", ascending=False
 ).to_csv(f"{D}/offer_propensity.csv", index=False)
 
-# ============================================================
-# METRICS SUMMARY (for dashboard + PPT)
-# ============================================================
+
 metrics = {
     "demand_model": {
         "mae": round(float(mae), 4),
