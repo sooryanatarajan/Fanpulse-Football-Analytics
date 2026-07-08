@@ -67,4 +67,4 @@ python src/fan_mood_index.py
 Then open `dashboard/FanPulse_Dashboard.html` in a browser.
 
 ## 👥 Team
-[Your Name] · [Teammate Name]
+Soorya Anvekar Natrajan · Namitha G
