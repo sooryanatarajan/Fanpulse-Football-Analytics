@@ -24,7 +24,7 @@ D = "/home/claude/fifa_project/data"
 matches = pd.read_csv(f"{D}/matches.csv")
 social = pd.read_csv(f"{D}/social_engagement.csv")
 
-# ---------------------------------------------------------------- COMMENT TEMPLATES
+
 POSITIVE = [
     "Can't wait for {home} vs {away}, this is going to be electric!",
     "{home} are looking unstoppable this tournament, so proud!",
@@ -66,9 +66,7 @@ NEUTRAL = [
 def fill(t, m):
     return t.format(home=m["home_team"], away=m["away_team"], stadium=m["stadium"])
 
-# Pick a handful of matches to inject a "controversy" (injury news, ref decision,
-# price backlash) that drives sentiment down while engagement stays high —
-# this is the pattern the Engagement-Sentiment Divergence flag is built to catch.
+
 controversy_matches = np.random.choice(matches["match_id"], size=6, replace=False)
 
 rows = []
@@ -78,7 +76,7 @@ for _, m in matches.iterrows():
     n_comments = np.random.randint(35, 70)
     for _ in range(n_comments):
         days_before = np.random.choice([7, 6, 5, 4, 3, 2, 1, 0], p=[0.05, 0.07, 0.09, 0.12, 0.14, 0.17, 0.18, 0.18])
-        # base sentiment mix shifts negative closer to kickoff if this match has a controversy
+       
         if is_controversy and days_before <= 3:
             weights = {"pos": 0.20, "price": 0.15, "logi": 0.10, "contro": 0.45, "neu": 0.10}
         elif is_controversy:
@@ -112,7 +110,7 @@ for _, m in matches.iterrows():
 
 comments = pd.DataFrame(rows)
 
-# ---------------------------------------------------------------- SENTIMENT SCORING
+
 scores = comments["text"].apply(lambda t: analyzer.polarity_scores(t)["compound"])
 comments["sentiment_score"] = scores.round(4)
 comments["sentiment_class"] = pd.cut(
@@ -120,15 +118,14 @@ comments["sentiment_class"] = pd.cut(
 )
 comments.to_csv(f"{D}/fan_comments.csv", index=False)
 
-# ---------------------------------------------------------------- DAILY MOOD TREND PER MATCH
+
 trend = comments.groupby(["match_id", "days_before_match"]).agg(
     avg_sentiment=("sentiment_score", "mean"),
     n_comments=("comment_id", "count"),
 ).reset_index().sort_values(["match_id", "days_before_match"], ascending=[True, False])
 trend.to_csv(f"{D}/mood_trend.csv", index=False)
 
-# ---------------------------------------------------------------- OVERALL MOOD INDEX PER MATCH
-# weight last 3 days more heavily (recency-weighted mood, 0-100 scale)
+
 def weighted_mood(g):
     w = np.where(g["days_before_match"] <= 3, 2.0, 1.0)
     return np.average(g["sentiment_score"], weights=w)
@@ -144,7 +141,7 @@ mood_index["pct_positive"] = (pos_share / total * 100).round(1)
 mood_index["pct_negative"] = (neg_share / total * 100).round(1)
 mood_index = mood_index.reset_index()
 
-# early vs late sentiment (trend direction)
+
 early = comments[comments["days_before_match"] >= 4].groupby("match_id")["sentiment_score"].mean()
 late = comments[comments["days_before_match"] <= 2].groupby("match_id")["sentiment_score"].mean()
 mood_index = mood_index.merge(early.rename("early_sentiment"), on="match_id", how="left")
@@ -155,18 +152,18 @@ mood_index = mood_index.merge(
     matches[["match_id", "home_team", "away_team", "stage", "match_date"]], on="match_id", how="left"
 )
 
-# ---------------------------------------------------------------- ENGAGEMENT for divergence check
+
 buzz = social.groupby("match_id").agg(total_engagement=("likes", "sum")).reset_index()
 buzz["engagement_z"] = (buzz["total_engagement"] - buzz["total_engagement"].mean()) / buzz["total_engagement"].std()
 mood_index = mood_index.merge(buzz[["match_id", "total_engagement", "engagement_z"]], on="match_id", how="left")
 
-# Divergence flag: engagement above average AND sentiment trending down (delta < -0.05)
+
 mood_index["divergence_flag"] = (mood_index["engagement_z"] > 0.15) & (mood_index["sentiment_delta"] < -0.05)
 
 mood_index = mood_index.sort_values("mood_index_0_100")
 mood_index.to_csv(f"{D}/mood_index.csv", index=False)
 
-# ---------------------------------------------------------------- SAMPLE COMMENTS FOR DASHBOARD FLAVOR
+
 top_positive = comments.sort_values("sentiment_score", ascending=False).drop_duplicates("match_id").head(6)
 top_negative = comments.sort_values("sentiment_score", ascending=True).drop_duplicates("match_id").head(6)
 
@@ -177,7 +174,7 @@ sample_comments = {
 with open(f"{D}/mood_samples.json", "w") as f:
     json.dump(sample_comments, f, indent=2, default=str)
 
-# ---------------------------------------------------------------- SUMMARY PRINT
+
 print(f"Generated {len(comments)} comments across {comments['match_id'].nunique()} matches")
 print("\nOverall sentiment distribution:")
 print(comments["sentiment_class"].value_counts(normalize=True).round(3) * 100)
